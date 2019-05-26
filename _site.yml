@@ -6,6 +6,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "More recent things"
+      href: recent.html
     - text: "Paintings"
       menu:
       - text: "DesertLand"

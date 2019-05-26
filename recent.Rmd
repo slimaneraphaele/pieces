@@ -1,0 +1,42 @@
+---
+title: "recent"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 4
+    css: commissions.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+## Semi-recent to Recent
+
+```{r, echo=F, results='asis', message=FALSE}
+library(exifr)
+library(knitr)
+files <- list.files("img/recent/")
+files <- paste("img/recent/",files, sep="")
+
+dat <- read_exif(files)
+
+for(i in 1:length(files)){
+  cat("---")
+  cat("\n\n")
+  cat("#### ", dat[i,]$ObjectName)
+  cat("\n")
+  cat(dat[i,]$'Caption-Abstract', " | ",
+      dat[i,]$Keywords)
+  cat("\n\n")
+  cat("![](",files[i],")", sep="")
+  cat("\n\n")
+}
+```
+
+
+
+

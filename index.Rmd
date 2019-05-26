@@ -8,7 +8,9 @@ output:
 ---
 
 ```{r, eval=FALSE, echo=FALSE}
-headR::add_twitter_card(title = "Things by Matt Crump", 
+headR::add_twitter_card(card_type = "summary_large_image",
+                        user = "@MattCrump_",
+                        title = "Things by Matt Crump", 
                         file = "twitter_card.html", 
                         image = "http://crumplab.github.io/things/img/Bears.jpg")
 ```

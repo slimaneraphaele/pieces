@@ -8,7 +8,7 @@ output:
 ---
 
 ```{r, eval=FALSE, echo=FALSE}
-headR::add_twitter_card(title = "Thing by Matt Crump", 
+headR::add_twitter_card(title = "Things by Matt Crump", 
                         file = "twitter_card.html", 
                         image = "http://crumplab.github.io/things/img/Bears.jpg")
 ```

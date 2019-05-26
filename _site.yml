@@ -26,6 +26,8 @@ navbar:
         href: characters.html
       - text: "Stencils"
         href: stencils.html
+    - text: "Screenprints"
+      href: screenprints.html
     - text: "Commissions"
       href: commissions.html
    

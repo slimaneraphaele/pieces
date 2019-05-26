@@ -1,0 +1,33 @@
+name: "Crump"
+theme: yeti
+navbar:
+  title: "Crump"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Paintings"
+      menu:
+      - text: "DesertLand"
+        href: desertland.html
+      - text: "Towns"
+        href: towns.html
+      - text: "Crowds"
+        href: crowds.html
+      - text: "Superland"
+        href: superland.html
+      - text: "Magic Bear"
+        href: magicbear.html
+    - text: "Airbrush"
+      menu:
+      - text: "Characters"
+        href: characters.html
+      - text: "Stencils"
+        href: stencils.html
+    - text: "Commissions"
+      href: commissions.html
+   
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+output_dir: "docs"

@@ -1,0 +1,21 @@
+
+```{r, echo=FALSE, eval=F}
+knitr::include_graphics("img/The_places_where_magic_bears_live.jpg")
+```
+
+```{r, echo=F}
+library(slickR)
+imgs <- c("img/The_places_where_magic_bears_live.jpg",
+          "img/Sunbombland.JPG"
+          )
+slickR(obj=imgs, 
+       slideId="t1",
+       height="450px",width="100%",
+       slickOpts=list(  dots= T,
+                        infinite= T,
+                        speed= 300,
+                        slidesToShow= 1,
+                        centerMode=F))
+```
+
+

@@ -17,11 +17,11 @@ headR::add_twitter_card(card_type = "summary_large_image",
 
 
 
-```{r, echo=FALSE, eval=F}
+```{r, echo=FALSE, eval=T}
 knitr::include_graphics("img/The_places_where_magic_bears_live.jpg")
 ```
 
-```{r, echo=F}
+```{r, echo=F, eval=F}
 library(slickR)
 imgs <- c("img/The_places_where_magic_bears_live.jpg",
           "img/Sunbombland.JPG"

@@ -15,7 +15,9 @@ headR::add_twitter_card(card_type = "summary_large_image",
                         image = "http://crumplab.github.io/things/img/Bears2.jpg")
 ```
 
+---
 
+Where the magic bears live | oil on wood panels | 54 x 36
 
 ```{r, echo=FALSE, eval=T}
 knitr::include_graphics("img/The_places_where_magic_bears_live.jpg")

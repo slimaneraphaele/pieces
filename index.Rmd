@@ -2,6 +2,10 @@
 title: " Things by Matt Crump"
 cover-image: "/img/commissions/Where the magic bears live.jpg"
 description: "Things by Matt Crump"
+output: 
+  html_document:
+    includes:
+       in_header: [header.html]
 ---
 
 

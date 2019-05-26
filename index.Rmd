@@ -1,3 +1,9 @@
+---
+title: " Things by Matt Crump"
+cover-image: "/img/commissions/Where the magic bears live.jpg"
+description: "Things by Matt Crump"
+---
+
 
 ```{r, echo=FALSE, eval=F}
 knitr::include_graphics("img/The_places_where_magic_bears_live.jpg")

@@ -1,5 +1,7 @@
 name: "Crump"
 theme: yeti
+cover-image: "/img/commissions/Where the magic bears live.jpg"
+description: "Things by Matt Crump"
 navbar:
   title: "Crump"
   left:

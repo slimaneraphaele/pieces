@@ -1,6 +1,6 @@
 ---
 title: " Things by Matt Crump"
-cover-image: "/img/commissions/Where the magic bears live.jpg"
+cover-image: "/Bears.jpg"
 description: "Things by Matt Crump"
 output: 
   html_document:

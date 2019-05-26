@@ -1,12 +1,18 @@
 ---
 title: " Things by Matt Crump"
-cover-image: "/Bears.jpg"
 description: "Things by Matt Crump"
 output: 
   html_document:
     includes:
-       in_header: [header.html]
+       in_header: [twitter_card.html]
 ---
+
+```{r, eval=FALSE, echo=FALSE}
+headR::add_twitter_card(title = "Thing by Matt Crump", 
+                        file = "twitter_card.html", 
+                        image = "http://crumplab.github.io/things/img/Bears.jpg")
+```
+
 
 
 ```{r, echo=FALSE, eval=F}

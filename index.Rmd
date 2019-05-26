@@ -12,7 +12,7 @@ headR::add_twitter_card(card_type = "summary_large_image",
                         user = "@MattCrump_",
                         title = "Things by Matt Crump", 
                         file = "twitter_card.html", 
-                        image = "http://crumplab.github.io/things/img/Bears.jpg")
+                        image = "http://crumplab.github.io/things/img/Bears2.jpg")
 ```
 
 

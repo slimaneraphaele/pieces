@@ -30,6 +30,8 @@ navbar:
       href: screenprints.html
     - text: "Commissions"
       href: commissions.html
+    - text: "Blog"
+      href: blog.html
    
 output:
   html_document:

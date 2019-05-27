@@ -20,22 +20,8 @@ headR::add_twitter_card(card_type = "summary_large_image",
 Where the magic bears live | oil on wood panels | 54 x 36
 
 ```{r, echo=FALSE, eval=T}
-knitr::include_graphics("img/The_places_where_magic_bears_live.jpg")
+knitr::include_graphics("img/Where the magic bears live.jpg")
 ```
 
-```{r, echo=F, eval=F}
-library(slickR)
-imgs <- c("img/The_places_where_magic_bears_live.jpg",
-          "img/Sunbombland.JPG"
-          )
-slickR(obj=imgs, 
-       slideId="t1",
-       height="450px",width="100%",
-       slickOpts=list(  dots= T,
-                        infinite= T,
-                        speed= 300,
-                        slidesToShow= 1,
-                        centerMode=F))
-```
 
 

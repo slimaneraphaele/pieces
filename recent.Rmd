@@ -19,8 +19,14 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```{r, echo=F, results='asis', message=FALSE}
 library(exifr)
 library(knitr)
-files <- list.files("img/recent/")
-files <- paste("img/recent/",files, sep="")
+
+lsfiles <- file.info(dir("img/recent", full.names = TRUE))
+lsfiles <- lsfiles[order(lsfiles$mtime, decreasing=TRUE),]
+
+files <- rownames(lsfiles)
+
+# files <- list.files("img/recent/")
+# files <- paste("img/recent/",files, sep="")
 
 dat <- read_exif(files)
 

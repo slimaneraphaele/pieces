@@ -41,7 +41,7 @@ files <- paste("img/blog/cactuses/",files, sep="")
 
 dat <- read_exif(files)
 
-slickR(files, height='200px',width="100%",
+slickR(files, height='300px',width="100%",
        slickOpts = list(
          initialSlide = 1,
          slidesToShow = 1,

@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
 <title>recent</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -25,6 +26,15 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -71,6 +81,7 @@ h6 {
 }
 </style>
 
+
 <link rel="stylesheet" href="commissions.css" type="text/css" />
 
 
@@ -87,7 +98,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -236,6 +246,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -248,48 +259,9 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
-
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3,h4",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <style type="text/css">
 
@@ -303,6 +275,12 @@ $(document).ready(function ()  {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -338,8 +316,6 @@ div.tocify {
 
 .tocify-subheader .tocify-item {
   font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
 }
 
 .tocify .list-group-item {
@@ -457,16 +433,16 @@ div.tocify {
 <div id="semi-recent-to-recent" class="section level2">
 <h2>Semi-recent to Recent</h2>
 <hr />
+<div id="whale-in-the-distance" class="section level4">
+<h4>Whale in the distance</h4>
+<p>Digital work |</p>
+<p><img src="img/recent/Whale%20in%20the%20distance.jpg" /></p>
+<hr />
+</div>
 <div id="cactus-growing-out-of-itself" class="section level4">
 <h4>Cactus growing out of itself</h4>
 <p>oil on wood |</p>
 <p><img src="img/recent/Cactus%20growing%20out%20of%20itself.jpg" /></p>
-<hr />
-</div>
-<div id="floating-earth-town" class="section level4">
-<h4>Floating earth town</h4>
-<p>oil on wood |</p>
-<p><img src="img/recent/Floating%20earth%20town.jpg" /></p>
 <hr />
 </div>
 <div id="forested-city-land" class="section level4">
@@ -475,16 +451,22 @@ div.tocify {
 <p><img src="img/recent/Forested%20city%20land.jpg" /></p>
 <hr />
 </div>
-<div id="plant-in-progress" class="section level4">
-<h4>Plant in progress</h4>
-<p>oil on wood |</p>
-<p><img src="img/recent/Plant%20in%20progress.jpg" /></p>
-<hr />
-</div>
 <div id="trippy-neon-land" class="section level4">
 <h4>Trippy neon land</h4>
 <p>pen and ink and airbrush on paper |</p>
 <p><img src="img/recent/Trippy%20neon%20land.jpg" /></p>
+<hr />
+</div>
+<div id="floating-earth-town" class="section level4">
+<h4>Floating earth town</h4>
+<p>oil on wood |</p>
+<p><img src="img/recent/Floating%20earth%20town.jpg" /></p>
+<hr />
+</div>
+<div id="plant-in-progress" class="section level4">
+<h4>Plant in progress</h4>
+<p>oil on wood |</p>
+<p><img src="img/recent/Plant%20in%20progress.jpg" /></p>
 </div>
 </div>
 
@@ -499,13 +481,56 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
 });
 
 
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
 </script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->

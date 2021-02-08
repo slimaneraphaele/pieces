@@ -7,7 +7,7 @@ output:
     collapsed: false
     number_sections: false
     toc_depth: 4
-    css: commissions.css
+    css: painting.css
 ---
 
 ```{r setup, include=FALSE}

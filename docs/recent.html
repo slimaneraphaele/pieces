@@ -13,13 +13,22 @@
 
 <title>recent</title>
 
-<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
@@ -37,11 +46,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -54,32 +58,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
 
 
 <link rel="stylesheet" href="painting.css" type="text/css" />
@@ -91,10 +69,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -111,40 +85,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 45px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 50px;
-  margin-top: -50px;
-}
-.section h2 {
-  padding-top: 50px;
-  margin-top: -50px;
-}
-.section h3 {
-  padding-top: 50px;
-  margin-top: -50px;
-}
-.section h4 {
-  padding-top: 50px;
-  margin-top: -50px;
-}
-.section h5 {
-  padding-top: 50px;
-  margin-top: -50px;
-}
-.section h6 {
-  padding-top: 50px;
-  margin-top: -50px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -172,7 +119,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -184,7 +131,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -195,10 +142,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -210,7 +170,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -336,7 +295,7 @@ div.tocify {
 
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
+<div class="row">
 <div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
@@ -421,7 +380,7 @@ div.tocify {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -433,51 +392,63 @@ div.tocify {
 <div id="semi-recent-to-recent" class="section level2">
 <h2>Semi-recent to Recent</h2>
 <hr />
-<div id="orange-astronaut-starfish-makes-first-contact" class="section level4">
-<h4>Orange astronaut starfish makes first contact</h4>
-<p>Digital Art |</p>
-<p><img src="img/recent/Orange%20astronaut%20starfish%20makes%20first%20contact.jpg" /></p>
+<div id="modular" class="section level4">
+<h4>Modular</h4>
+<p>Digital Work | 18W x 24H</p>
+<p><img src="img/recent/Modular.jpg" /></p>
 <hr />
 </div>
-<div id="sun-with-arms-holding-cloud" class="section level4">
-<h4>Sun with arms holding cloud</h4>
-<p>Digital Work |</p>
-<p><img src="img/recent/Sun%20with%20arms%20holding%20cloud.jpg" /></p>
+<div id="sleeping-bears-spirit-forest-animal" class="section level4">
+<h4>Sleeping Bear’s spirit forest animal</h4>
+<p>Digital Work | NA</p>
+<p><img src="img/recent/Sleeping-bear%E2%80%99s-spirit-forest-anima.l.jpg" /></p>
+<hr />
+</div>
+<div id="meeting-of-the-mountains" class="section level4">
+<h4>Meeting of the mountains</h4>
+<p>Digital Work | NA</p>
+<p><img src="img/recent/Meeting-of-the-mountains.jpg" /></p>
+<hr />
+</div>
+<div id="golden-pyramid-with-tunnel-celebration" class="section level4">
+<h4>Golden pyramid with tunnel celebration</h4>
+<p>Digital Work | NA</p>
+<p><img src="img/recent/Golden-pyramid-with-tunnel-celebration.jpg" /></p>
 <hr />
 </div>
 <div id="whale-in-the-distance" class="section level4">
 <h4>Whale in the distance</h4>
-<p>Digital work |</p>
-<p><img src="img/recent/Whale%20in%20the%20distance.jpg" /></p>
+<p>Digital Work | NA</p>
+<p><img src="img/recent/Whale-in-the-distance-copy.jpg" /></p>
 <hr />
 </div>
 <div id="cactus-growing-out-of-itself" class="section level4">
 <h4>Cactus growing out of itself</h4>
-<p>oil on wood |</p>
+<p>oil on wood | NA</p>
 <p><img src="img/recent/Cactus%20growing%20out%20of%20itself.jpg" /></p>
 <hr />
 </div>
 <div id="forested-city-land" class="section level4">
 <h4>Forested city land</h4>
-<p>airbrush on paper |</p>
+<p>airbrush on paper | NA</p>
 <p><img src="img/recent/Forested%20city%20land.jpg" /></p>
 <hr />
 </div>
 <div id="trippy-neon-land" class="section level4">
 <h4>Trippy neon land</h4>
-<p>pen and ink and airbrush on paper |</p>
+<p>pen and ink and airbrush on paper | NA</p>
 <p><img src="img/recent/Trippy%20neon%20land.jpg" /></p>
 <hr />
 </div>
 <div id="floating-earth-town" class="section level4">
 <h4>Floating earth town</h4>
-<p>oil on wood |</p>
+<p>oil on wood | NA</p>
 <p><img src="img/recent/Floating%20earth%20town.jpg" /></p>
 <hr />
 </div>
 <div id="plant-in-progress" class="section level4">
 <h4>Plant in progress</h4>
-<p>oil on wood |</p>
+<p>oil on wood | NA</p>
 <p><img src="img/recent/Plant%20in%20progress.jpg" /></p>
 </div>
 </div>
@@ -511,7 +482,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
@@ -520,6 +491,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')

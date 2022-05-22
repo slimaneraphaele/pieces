@@ -13,7 +13,7 @@ vignette: >
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
 
-## Semi-recent
+## Semi-new
 
 ```{r, echo=F, results='asis', message=FALSE}
 library(exifr)

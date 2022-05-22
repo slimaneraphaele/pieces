@@ -3,7 +3,7 @@ url: https://www.crumplab.com/things/
 template:
   bootstrap: 5
   bslib:
-    heading_font: {google: "Raleway"}
+    heading_font: {google: "Indie Flower"}
   params:
     ganalytics: G-HPGGT4QZ8Q
 

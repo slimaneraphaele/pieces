@@ -1,0 +1,39 @@
+---
+title: "Commissions"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Comissions}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+
+```{r, echo=F, results='asis', message=FALSE}
+library(exifr)
+library(knitr)
+files <- list.files("img/commissions")
+files <- paste("img/commissions/",files, sep="")
+
+dat <- read_exif(files)
+
+for(i in 1:length(files)){
+  cat("---")
+  cat("\n\n")
+  cat("#### ", dat[i,]$ObjectName)
+  cat("\n")
+  cat(dat[i,]$'Caption-Abstract', " | ",
+      dat[i,]$Keywords)
+  cat("\n\n")
+  cat("![](",files[i],")", sep="")
+  cat("\n\n")
+}
+```
+
+
+
+

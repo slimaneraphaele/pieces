@@ -1,0 +1,39 @@
+---
+title: "Magic Bear"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Magic Bear}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+## 2009-2010
+
+```{r, echo=F, results='asis', message=FALSE}
+library(exifr)
+library(knitr)
+files <- list.files("img/Magicbear")
+files <- paste("img/Magicbear/",files, sep="")
+
+dat <- read_exif(files)
+
+for(i in 1:length(files)){
+  cat("---")
+  cat("\n\n")
+  cat("#### ", dat[i,]$ObjectName)
+  cat("\n")
+  cat(dat[i,]$'Caption-Abstract', " | ",
+      dat[i,]$Keywords)
+  cat("\n\n")
+  cat("![](",files[i],")", sep="")
+  cat("\n\n")
+}
+```
+
+
+
+

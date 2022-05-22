@@ -1,6 +1,13 @@
 ---
 title: "Characters"
 description: "Characters series with air brush by Matt Crump"
+opengraph:
+  image: 
+    src: "https://www.crumplab.com/things/articles/img/characters/character set 1.jpg"
+    alt: "Characters"
+  twitter:
+    card: summary_large_image
+    creator: "@MattCrumpLab"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Characters}

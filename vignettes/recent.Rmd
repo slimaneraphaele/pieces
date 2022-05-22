@@ -1,5 +1,6 @@
 ---
 title: "Newest"
+description: "Recent pieces by Matt Crump"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Recent}

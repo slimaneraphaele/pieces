@@ -1,5 +1,6 @@
 ---
 title: "Stencils"
+description: "Stencils and screenprints by Matt Crump"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Screen Prints}

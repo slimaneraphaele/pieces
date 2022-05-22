@@ -6,6 +6,14 @@ template:
     heading_font: {google: "Indie Flower"}
   params:
     ganalytics: G-HPGGT4QZ8Q
+  opengraph:
+    image:
+      src: things.jpg
+      alt: "main image for crumplab.com things"
+    twitter:
+      creator: "@MattCrumpLab"
+      site: "@MattCrumpLab"
+      card: summary_large_image
 
 home:
   title: Things by Matt Crump

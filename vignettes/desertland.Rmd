@@ -1,5 +1,6 @@
 ---
 title: "Desert Land"
+description: "Desert land pieces by Matt Crump"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Desert Land}

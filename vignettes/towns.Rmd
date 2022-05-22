@@ -1,5 +1,6 @@
 ---
 title: "Towns"
+description: "Towns by Matt Crump"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Towns}

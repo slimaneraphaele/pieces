@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Matt Crump is a cognitive psychologist and maker of things."
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{About}

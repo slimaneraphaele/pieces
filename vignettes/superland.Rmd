@@ -1,5 +1,6 @@
 ---
 title: "Superland"
+description: "The superland series by Matt Crump"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Superland}

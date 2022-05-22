@@ -1,5 +1,6 @@
 ---
 title: "Crowds"
+description: "Crowds by Matt Crump"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Crowds}

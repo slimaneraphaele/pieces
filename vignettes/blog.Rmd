@@ -1,5 +1,6 @@
 ---
 title: "Blog"
+description: "Occasional art blog by Matt Crump"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Blog}

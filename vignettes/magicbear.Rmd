@@ -1,5 +1,6 @@
 ---
 title: "Magic Bear"
+description: "Magic Bear pieces by Matt Crump"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Magic Bear}

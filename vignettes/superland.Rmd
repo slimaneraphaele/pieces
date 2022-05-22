@@ -3,7 +3,7 @@ title: "Superland"
 description: "The superland series by Matt Crump"
 opengraph:
   image: 
-    src: "https://www.crumplab.com/things/articles/img/Sunbombland.JPG"
+    src: "https://www.crumplab.com/things/articles/img/Series1/Superland - 1 of 19 (17).jpg"
     alt: "Superland"
   twitter:
     card: summary_large_image

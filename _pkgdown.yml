@@ -3,9 +3,7 @@ url: https://www.crumplab.com/things/
 template:
   bootstrap: 5
   bslib:
-    #base_font: {google: "Roboto"}
     heading_font: {google: "Raleway"}
-    #code_font: {google: "JetBrains Mono"}
   params:
     ganalytics: G-HPGGT4QZ8Q
 

@@ -1,6 +1,13 @@
 ---
 title: "Commissions"
 description: "Commissions by Matt Crump"
+opengraph:
+  image: 
+    src: "https://www.crumplab.com/things/articles/img/commissions/Where the magic bears live.jpg"
+    alt: "Commissions"
+  twitter:
+    card: summary_large_image
+    creator: "@MattCrumpLab"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Comissions}

@@ -1,6 +1,13 @@
 ---
 title: "Crowds"
 description: "Crowds by Matt Crump"
+opengraph:
+  image: 
+    src: "https://www.crumplab.com/things/articles/img/crowds/crowd 3.jpg"
+    alt: "Crowds"
+  twitter:
+    card: summary_large_image
+    creator: "@MattCrumpLab"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Crowds}

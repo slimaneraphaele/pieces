@@ -1,6 +1,13 @@
 ---
 title: "Towns"
 description: "Towns by Matt Crump"
+opengraph:
+  image: 
+    src: "https://www.crumplab.com/things/articles/img/town/Going to the subway.jpg"
+    alt: "Towns"
+  twitter:
+    card: summary
+    creator: "@MattCrumpLab"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Towns}

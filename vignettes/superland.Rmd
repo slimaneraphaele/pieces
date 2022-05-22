@@ -1,6 +1,13 @@
 ---
 title: "Superland"
 description: "The superland series by Matt Crump"
+opengraph:
+  image: 
+    src: "https://www.crumplab.com/things/articles/img/Sunbombland.JPG"
+    alt: "Superland"
+  twitter:
+    card: summary_large_image
+    creator: "@MattCrumpLab"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Superland}

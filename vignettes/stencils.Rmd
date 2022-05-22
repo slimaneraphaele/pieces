@@ -1,6 +1,13 @@
 ---
 title: "Stencils"
 description: "Stencils and screenprints by Matt Crump"
+opengraph:
+  image: 
+    src: "https://www.crumplab.com/things/articles/img/stencils/van.jpg"
+    alt: "Stencils"
+  twitter:
+    card: summary
+    creator: "@MattCrumpLab"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Screen Prints}

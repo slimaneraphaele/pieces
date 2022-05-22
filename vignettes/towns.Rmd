@@ -3,7 +3,7 @@ title: "Towns"
 description: "Towns by Matt Crump"
 opengraph:
   image: 
-    src: "https://www.crumplab.com/things/articles/img/town/Going to the subway.jpg"
+    src: "https://www.crumplab.com/things/articles/img/towns/Going to the subway.jpg"
     alt: "Towns"
   twitter:
     card: summary

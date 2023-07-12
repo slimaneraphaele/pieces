@@ -9,7 +9,6 @@ listing:
   grid-item-border: false
   fields: [image]
   sort-ui: [date,categories]
-  filter-ui: [categories,title,date]
   categories: true
   sort:
     - "date desc"

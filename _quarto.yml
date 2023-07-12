@@ -12,7 +12,7 @@ project:
 
 website:
   title: "things"
-  site-url: https::/crumplab.com/things
+  site-url: https://crumplab.com/things
   open-graph: true
   google-analytics: "G-5FFRFL1GSE"
   sidebar:

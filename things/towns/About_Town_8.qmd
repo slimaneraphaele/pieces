@@ -1,0 +1,14 @@
+---
+title: About Town 8
+author: Matt Crump
+image: ../../images/towns/About town 8.jpg
+description: oil on wood panel
+categories: [towns]
+date: 2019-05-26 03:32:36
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/towns/About town 8.jpg)
+

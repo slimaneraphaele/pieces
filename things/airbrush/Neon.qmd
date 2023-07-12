@@ -1,0 +1,14 @@
+---
+title: Neon
+author: Matt Crump
+image: ../../images/airbrush/neon.jpg
+description: airbrush on paper
+categories: [airbrush]
+date: 2016-04-01 09:08:54
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/airbrush/neon.jpg)
+

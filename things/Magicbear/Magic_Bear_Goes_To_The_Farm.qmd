@@ -1,0 +1,14 @@
+---
+title: Magic Bear Goes To The Farm
+author: Matt Crump
+image: ../../images/Magicbear/Magic bear goes to the farm.jpg
+description: Marker on wood
+categories: [Magicbear]
+date: 2009-03-04 11:09:03
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Magicbear/Magic bear goes to the farm.jpg)
+

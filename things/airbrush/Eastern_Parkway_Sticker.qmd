@@ -1,0 +1,14 @@
+---
+title: Eastern Parkway Sticker
+author: Matt Crump
+image: ../../images/airbrush/Eastern Parkway sticker.jpg
+description: vinyl on paper
+categories: [airbrush]
+date: 2016-04-03 13:00:23
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/airbrush/Eastern Parkway sticker.jpg)
+

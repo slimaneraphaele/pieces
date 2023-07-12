@@ -1,0 +1,14 @@
+---
+title: Reassembled Crowd 2
+author: Matt Crump
+image: ../../images/crowds/Reassembled crowd 2.jpg
+description: marker on wood
+categories: [crowds]
+date: 2019-05-26 03:54:44
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/crowds/Reassembled crowd 2.jpg)
+

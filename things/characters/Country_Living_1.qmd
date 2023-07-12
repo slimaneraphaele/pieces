@@ -1,0 +1,14 @@
+---
+title: Country Living 1
+author: Matt Crump
+image: ../../images/characters/Country living 1.jpg
+description: airbrush on paper
+categories: [characters]
+date: 2016-04-24 22:03:25
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/characters/Country living 1.jpg)
+

@@ -1,0 +1,14 @@
+---
+title: Cactus Growing Out Of Itself
+author: Matt Crump
+image: ../../images/cactuses/Cactus growing out of itself.jpg
+description: oil on wood
+categories: [cactuses]
+date: 2019-05-26 11:04:07
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/cactuses/Cactus growing out of itself.jpg)
+

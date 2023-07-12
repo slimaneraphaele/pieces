@@ -1,0 +1,14 @@
+---
+title: Where The Valley Turns
+author: Matt Crump
+image: ../../images/Colorlands/Where the valley turns.jpeg
+description: Digital
+categories: [Colorlands]
+date: 2022-02-22 08:10:41
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Colorlands/Where the valley turns.jpeg)
+

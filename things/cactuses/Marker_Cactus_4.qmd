@@ -1,0 +1,14 @@
+---
+title: Marker Cactus 4
+author: Matt Crump
+image: ../../images/cactuses/marker cactus 4.jpg
+description: NA
+categories: [cactuses]
+date: 2014-08-18 11:11:43
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/cactuses/marker cactus 4.jpg)
+

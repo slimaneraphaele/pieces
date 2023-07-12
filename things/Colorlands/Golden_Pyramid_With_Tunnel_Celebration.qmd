@@ -1,0 +1,14 @@
+---
+title: Golden Pyramid With Tunnel Celebration
+author: Matt Crump
+image: ../../images/Colorlands/Golden-pyramid-with-tunnel-celebration.jpg
+description: Digital Work
+categories: [Colorlands]
+date: 2022-02-03 18:46:30
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Colorlands/Golden-pyramid-with-tunnel-celebration.jpg)
+

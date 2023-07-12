@@ -1,0 +1,14 @@
+---
+title: Land Shape
+author: Matt Crump
+image: ../../images/Desertland/Land shape.jpg
+description: oil on wood
+categories: [Desertland]
+date: 2019-05-26 10:13:27
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Desertland/Land shape.jpg)
+

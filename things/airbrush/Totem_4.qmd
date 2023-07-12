@@ -1,0 +1,14 @@
+---
+title: Totem 4
+author: Matt Crump
+image: ../../images/airbrush/Totem 4.jpg
+description: airbrush on paper
+categories: [airbrush]
+date: 2016-04-17 11:59:58
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/airbrush/Totem 4.jpg)
+

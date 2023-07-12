@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs/
+  preview:
+    port: 4200
+    browser: true
+    navigate: true
+  render:
+    - "*.qmd"
+    - "!vignettes/"
+    - "!*.Rmd"
+
+website:
+  title: "things"
+  sidebar:
+    style: "floating"
+    search: false
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+  page-footer: |
+    Copyright 2023, All works by Matt Crump
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+    grid:
+      sidebar-width: 100px
+      body-width: 2000px
+      margin-width: 150px
+

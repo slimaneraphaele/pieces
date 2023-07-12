@@ -1,0 +1,14 @@
+---
+title: Whale In The Distance
+author: Matt Crump
+image: ../../images/Colorlands/Whale-in-the-distance-copy.jpg
+description: Digital Work
+categories: [Colorlands]
+date: 2022-02-03 18:39:48
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Colorlands/Whale-in-the-distance-copy.jpg)
+

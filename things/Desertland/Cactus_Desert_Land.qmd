@@ -1,0 +1,14 @@
+---
+title: Cactus Desert Land
+author: Matt Crump
+image: ../../images/Desertland/Cactus Desert Land.jpg
+description: oil on wood
+categories: [Desertland]
+date: 2019-05-25 19:26:30
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Desertland/Cactus Desert Land.jpg)
+

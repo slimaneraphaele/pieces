@@ -1,0 +1,14 @@
+---
+title: Crowd 5
+author: Matt Crump
+image: ../../images/crowds/crowd 5.jpg
+description: marker on wood
+categories: [crowds]
+date: 2019-05-26 03:48:58
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/crowds/crowd 5.jpg)
+

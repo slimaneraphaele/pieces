@@ -1,0 +1,14 @@
+---
+title: Poster Reproduction Attempt 1
+author: Matt Crump
+image: ../../images/screenprints/Poster Reproduction attempt 1.jpg
+description: ink on paper
+categories: [screenprints]
+date: 2017-01-10 10:16:50
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/screenprints/Poster Reproduction attempt 1.jpg)
+

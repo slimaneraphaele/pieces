@@ -1,0 +1,14 @@
+---
+title: Plant In Progress
+author: Matt Crump
+image: ../../images/cactuses/Plant in progress.jpg
+description: oil on wood
+categories: [cactuses]
+date: 2019-02-18 19:56:06
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/cactuses/Plant in progress.jpg)
+

@@ -1,0 +1,14 @@
+---
+title: Sleeping Bear's Spirit Forest Animal
+author: Matt Crump
+image: ../../images/Colorlands/Sleeping-bear’s-spirit-forest-anima.l.jpg
+description: Digital Work
+categories: [Colorlands]
+date: 2022-02-03 18:44:38
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Colorlands/Sleeping-bear’s-spirit-forest-anima.l.jpg)
+

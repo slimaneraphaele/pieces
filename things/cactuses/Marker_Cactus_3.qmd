@@ -1,0 +1,14 @@
+---
+title: Marker Cactus 3
+author: Matt Crump
+image: ../../images/cactuses/marker cactus 3.jpg
+description: NA
+categories: [cactuses]
+date: 2014-08-18 11:12:16
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/cactuses/marker cactus 3.jpg)
+

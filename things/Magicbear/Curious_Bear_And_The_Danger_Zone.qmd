@@ -1,0 +1,14 @@
+---
+title: Curious Bear And The Danger Zone
+author: Matt Crump
+image: ../../images/Magicbear/Curious bear and the danger zone.jpg
+description: acryclic on wood
+categories: [Magicbear]
+date: 2010-01-25 08:32:46
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Magicbear/Curious bear and the danger zone.jpg)
+

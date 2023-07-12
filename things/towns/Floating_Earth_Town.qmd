@@ -1,0 +1,14 @@
+---
+title: Floating Earth Town
+author: Matt Crump
+image: ../../images/towns/Floating earth town.jpg
+description: oil on wood
+categories: [towns]
+date: 2019-05-26 10:12:57
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/towns/Floating earth town.jpg)
+

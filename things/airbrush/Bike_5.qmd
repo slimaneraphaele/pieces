@@ -1,0 +1,14 @@
+---
+title: Bike 5
+author: Matt Crump
+image: ../../images/airbrush/bike 5.jpg
+description: airbrush on paper
+categories: [airbrush]
+date: 2016-04-01 10:54:20
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/airbrush/bike 5.jpg)
+

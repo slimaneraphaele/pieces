@@ -1,0 +1,14 @@
+---
+title: Totem 1
+author: Matt Crump
+image: ../../images/airbrush/Totem 1.jpg
+description: airbrush on paper
+categories: [airbrush]
+date: 2016-04-17 11:57:57
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/airbrush/Totem 1.jpg)
+

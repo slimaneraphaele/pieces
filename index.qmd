@@ -1,0 +1,20 @@
+---
+title: "things by Matt Crump"
+listing:
+  contents: things
+  type: grid
+  image-height: "100%"
+  grid-columns: 4
+  page-size: 20
+  grid-item-border: false
+  fields: [image]
+  sort-ui: [date,categories]
+  filter-ui: [categories,title,date]
+  categories: true
+  sort:
+    - "date desc"
+format:
+  html:
+    page-layout: full
+---
+

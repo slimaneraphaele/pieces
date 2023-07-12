@@ -1,0 +1,14 @@
+---
+title: Eastern Parkway 2
+author: Matt Crump
+image: ../../images/airbrush/Eastern Parkway 2.jpg
+description: airbrush on paper
+categories: [airbrush]
+date: 2016-04-03 11:27:25
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/airbrush/Eastern Parkway 2.jpg)
+

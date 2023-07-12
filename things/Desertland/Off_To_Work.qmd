@@ -1,0 +1,14 @@
+---
+title: Off To Work
+author: Matt Crump
+image: ../../images/Desertland/Off to work.jpg
+description: oil on wood
+categories: [Desertland]
+date: 2019-05-25 19:26:30
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Desertland/Off to work.jpg)
+

@@ -1,0 +1,14 @@
+---
+title: Character Set 2
+author: Matt Crump
+image: ../../images/characters/character set 2.jpg
+description: airbrush on paper
+categories: [characters]
+date: 2016-04-24 22:03:12
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/characters/character set 2.jpg)
+

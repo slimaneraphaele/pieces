@@ -1,0 +1,14 @@
+---
+title: Gouache Cactus 2
+author: Matt Crump
+image: ../../images/cactuses/gouache cactus 2.jpg
+description: NA
+categories: [cactuses]
+date: 2014-08-18 08:45:10
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/cactuses/gouache cactus 2.jpg)
+

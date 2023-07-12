@@ -1,0 +1,14 @@
+---
+title: Totem Pole Spirit Land
+author: Matt Crump
+image: ../../images/Superland/Superland - 1 of 19 (7).jpg
+description: oil on canvas
+categories: [Superland]
+date: 2008-11-04 11:22:40
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Superland/Superland - 1 of 19 (7).jpg)
+

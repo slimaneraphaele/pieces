@@ -1,0 +1,14 @@
+---
+title: Floating Earth Balls
+author: Matt Crump
+image: ../../images/Superland/Superland - 1 of 19 (8).jpg
+description: oil on canvas
+categories: [Superland]
+date: 2008-11-06 02:10:12
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Superland/Superland - 1 of 19 (8).jpg)
+

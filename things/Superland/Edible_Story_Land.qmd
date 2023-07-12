@@ -1,0 +1,14 @@
+---
+title: Edible Story Land
+author: Matt Crump
+image: ../../images/Superland/Superland - 1 of 19 (14).jpg
+description: oil on canvas
+categories: [Superland]
+date: 2008-11-06 02:04:06
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Superland/Superland - 1 of 19 (14).jpg)
+

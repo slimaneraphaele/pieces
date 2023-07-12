@@ -1,0 +1,14 @@
+---
+title: Space School
+author: Matt Crump
+image: ../../images/Superland/Superland - 1 of 19.jpg
+description: oil on canvas
+categories: [Superland]
+date: 2009-07-20 14:14:40
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Superland/Superland - 1 of 19.jpg)
+

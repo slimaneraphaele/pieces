@@ -1,0 +1,14 @@
+---
+title: Untitled Generative 1
+author: Matt Crump
+image: ../../images/Generative/Untitled Generative 1.jpeg
+description: Digital
+categories: [Generative]
+date: 2022-11-23 09:13:25
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Generative/Untitled Generative 1.jpeg)
+

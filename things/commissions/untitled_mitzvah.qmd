@@ -1,0 +1,14 @@
+---
+title: Untitled
+author: Matt Crump
+image: ../../images/commissions/Mitzvah.jpeg
+description: spraypaint on canvas
+categories: [commissions]
+date: 2022-09-18
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/commissions/Mitzvah.jpeg)
+

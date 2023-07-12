@@ -5,7 +5,7 @@ library(knitr)
 library(glue)
 library(tidyverse)
 
-lsfiles <- file.info(dir("images", full.names = TRUE,recursive = TRUE))
+lsfiles <- file.info(dir("images/Scribble", full.names = TRUE,recursive = TRUE))
 lsfiles <- lsfiles[order(lsfiles$mtime, decreasing=TRUE),]
 
 files <- rownames(lsfiles)

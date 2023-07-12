@@ -1,0 +1,14 @@
+---
+title: Colorland 3
+author: Matt Crump
+image: ../../images/Colorlands/Colorland_3.jpeg
+description: Digital Work
+categories: [Colorlands]
+date: 2022-06-10
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Colorlands/Colorland_3.jpeg)
+

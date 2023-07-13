@@ -10,5 +10,10 @@ format:
     page-layout: full
 ---
 
-![](../../images/Scribble/Scribble Picture 1.jpeg)
+![](../../images/Scribble/Scribble%20Picture%201.jpeg)
 
+### Process notes
+
+Walk around take pictures of NYC. Bring the RAW image into Adobe lightroom and push it around. Settled on a bleached out color spectrum. Pop the image into Adobe Fresco.
+
+First layer is drawing body parts in black ink. The same pen is used to graffiti text in the image. Body parts are filled. Opacity of layers are adjusted. Add another layer of color stuff for fun.

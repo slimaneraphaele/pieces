@@ -1,0 +1,16 @@
+---
+title: Scribble Picture 10
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 10.jpeg
+description: Digital Work
+categories: [Scribble]
+date: 2023-07-25 18:08:25
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 10.jpeg)
+## Process notes
+
+Brooklyn, same process as other scribble pictures.

@@ -5,6 +5,8 @@ library(knitr)
 library(glue)
 library(tidyverse)
 
+
+# get images in directory
 lsfiles <- file.info(dir("images/Scribble", full.names = TRUE,recursive = TRUE))
 lsfiles <- lsfiles[order(lsfiles$mtime, decreasing=TRUE),]
 
@@ -26,7 +28,9 @@ for(i in 1:length(files)){
   output_dir <- paste0("things/",directory)
   if (!dir.exists(output_dir)) {dir.create(output_dir)}
 
-  glue("
+  # if file exists don't overwrite
+  if (!file.exists(paste0(output_dir,"/",file_name))) {
+    glue("
   ---
   title: <<title>>
   author: Matt Crump
@@ -42,7 +46,8 @@ for(i in 1:length(files)){
   ![](../../<<image_location>>)
 
   ",.open = "<<", .close = ">>") %>%
-    write_lines(paste0("things/",directory,"/",file_name))
+      write_lines(paste0("things/",directory,"/",file_name))
+     }
 
   }
 

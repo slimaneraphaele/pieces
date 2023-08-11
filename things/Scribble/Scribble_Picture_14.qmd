@@ -1,0 +1,14 @@
+---
+title: Scribble Picture 14
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 14.jpeg
+description: Digital Work
+categories: [Scribble]
+date: 2023-08-03 20:23:17
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 14.jpeg)
+

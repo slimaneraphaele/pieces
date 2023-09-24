@@ -14,5 +14,5 @@ format:
 
 ## Process notes
 
-[Meeting of the mountains](hhttps://www.crumplab.com/things/things/Colorlands/Meeting_Of_The_Mountains.html) processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source.
+[Meeting of the mountains](https://www.crumplab.com/things/things/Colorlands/Meeting_Of_The_Mountains.html) processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source.
 

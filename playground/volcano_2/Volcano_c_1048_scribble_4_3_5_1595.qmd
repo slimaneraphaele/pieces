@@ -1,0 +1,18 @@
+---
+title: Volcano_c_1048_scribble_4_3_5_1595
+author: Matt Crump
+image: ../../playground_images/volcano_2/volcano_C_1048_scribble_4_3_5_1595.jpeg
+description: Cliffs of volcano ball lake processed by stable diffusion
+categories: [volcano_2]
+date: 2023-09-24 14:22:36
+format:
+  html:
+    page-layout: full
+---
+
+![](../../playground_images/volcano_2/volcano_C_1048_scribble_4_3_5_1595.jpeg)
+
+## Process notes
+
+[Cliffs at Volcano ball lake](https://www.crumplab.com/things/things/commissions/The_Cliffs_Of_Volcano_Ball_Lake.html) processed through stable diffusion 1.5, and then xl.
+

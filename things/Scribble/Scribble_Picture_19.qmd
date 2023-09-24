@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 19
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 19.jpeg
+description: Digital Work
+categories: [Scribble]
+date: 2023-09-10 09:54:27
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 19.jpeg)
+
+## Process Notes
+
+Stanley park.

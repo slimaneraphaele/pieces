@@ -1,0 +1,23 @@
+---
+title: "things by Matt Crump"
+listing:
+  contents: playground
+  type: grid
+  image-height: "100%"
+  grid-columns: 4
+  page-size: 20
+  grid-item-border: false
+  fields: [image]
+  sort-ui: [date,categories]
+  categories: true
+  sort:
+    - "date desc"
+format:
+  html:
+    page-layout: full
+---
+
+A playground of trying things out
+
+::: {#playground}
+:::

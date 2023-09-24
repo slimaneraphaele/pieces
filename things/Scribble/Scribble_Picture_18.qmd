@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 18
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 18.jpeg
+description: Digital Work
+categories: [Scribble]
+date: 2023-09-10 09:54:27
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 18.jpeg)
+
+## Process Notes
+
+Outside near the F train.

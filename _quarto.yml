@@ -25,6 +25,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: playground.qmd
+        text: playground
       - href: about.qmd
   page-footer: |
     Copyright 2023, All works by Matt Crump

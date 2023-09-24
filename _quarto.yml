@@ -24,10 +24,11 @@ website:
     search: false
     contents:
       - href: index.qmd
-        text: Home
+        text: home
       - href: playground.qmd
         text: playground
       - href: about.qmd
+        text: about
   page-footer: |
     Copyright 2023, All works by Matt Crump
 

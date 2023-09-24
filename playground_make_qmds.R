@@ -7,7 +7,7 @@ library(tidyverse)
 
 
 # get images in directory
-lsfiles <- file.info(dir("playground_images/volcano_ball_lake", full.names = TRUE,recursive = TRUE))
+lsfiles <- file.info(dir("playground_images/meeting_mountains", full.names = TRUE,recursive = TRUE))
 lsfiles <- lsfiles[order(lsfiles$mtime, decreasing=TRUE),]
 
 files <- rownames(lsfiles)
@@ -21,7 +21,7 @@ for(i in 1:length(files)){
   image_location <- dat[i,]$SourceFile
   date <- dat[i,]$FileModifyDate %>%
     lubridate::as_datetime()
-  description <- "Volcano ball lake processed with stable diffusion"
+  description <- "Meeting of the mountains processed with stable diffusion"
 
   file_name <- paste0(gsub(" ","_",title),".qmd")
   directory <- gsub("playground_images/","",dat[i,]$Directory)
@@ -48,7 +48,7 @@ for(i in 1:length(files)){
 
   ## Process notes
 
-  [Cliffs at Volcano ball lake](https://www.crumplab.com/things/things/commissions/The_Cliffs_Of_Volcano_Ball_Lake.html) processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters.
+  [Meeting of the mountains](hhttps://www.crumplab.com/things/things/Colorlands/Meeting_Of_The_Mountains.html) processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source.
 
   ",.open = "<<", .close = ">>") %>%
       write_lines(paste0("playground/",directory,"/",file_name))

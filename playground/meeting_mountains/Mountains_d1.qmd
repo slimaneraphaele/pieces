@@ -1,0 +1,18 @@
+---
+title: Mountains_d1
+author: Matt Crump
+image: ../../playground_images/meeting_mountains/mountains_D1.jpeg
+description: Meeting of the mountains processed with stable diffusion
+categories: [meeting_mountains]
+date: 2023-09-22 21:21:36
+format:
+  html:
+    page-layout: full
+---
+
+![](../../playground_images/meeting_mountains/mountains_D1.jpeg)
+
+## Process notes
+
+[Meeting of the mountains](hhttps://www.crumplab.com/things/things/Colorlands/Meeting_Of_The_Mountains.html) processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source.
+

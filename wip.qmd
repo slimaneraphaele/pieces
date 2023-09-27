@@ -20,7 +20,7 @@ This is the first big drawing that I've done in a while. Here's some of the step
 
 ![Generated several variations using stable diffusion. Variation 1](wip/volcano_C_1048_scribble_4_0_5_2240.jpeg){group="gallery"}
 
-![Generated several variations using stable diffusion. Variation 2](wip/volcano_C_1048_scribble_4_1_5_4687.jpeg){group="gallery"}
+![Variation 2](wip/volcano_C_1048_scribble_4_1_5_4687.jpeg){group="gallery"}
 
 ![Variation 3](wip/volcano_C_1048_scribble_4_2_5_4448.jpeg){group="gallery"}
 

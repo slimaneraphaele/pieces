@@ -1,0 +1,35 @@
+---
+author: "Matt Crump"
+title: "Work in progress"
+description: "Some snapshots of things across the building process"
+image: wip/IMG_0405.jpeg
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+This is the first big drawing that I've done in a while. Here's some of the steps this time. I started this process from another piece. Note, it should be possible to click on an image to view them all in gallery.
+
+
+::: {layout-ncol=4}
+
+![Cliffs of Volcano ball lake. I started with this piece.](images/commissions/Cliffs-of-Volcano-ball-lake.jpg){group="gallery"}
+
+![Took the line art from it and inverted it.](wip/Cliffs of Volcano ball lake bw.png){group="gallery"}
+
+![Generated several variations using stable diffusion. Variation 1](wip/volcano_C_1048_scribble_4_0_5_2240.jpeg){group="gallery"}
+
+![Generated several variations using stable diffusion. Variation 2](wip/volcano_C_1048_scribble_4_1_5_4687.jpeg){group="gallery"}
+
+![Variation 3](wip/volcano_C_1048_scribble_4_2_5_4448.jpeg){group="gallery"}
+
+![Variation 4](wip/volcano_C_1048_scribble_4_3_5_1595.jpeg){group="gallery"}
+
+![Used the variations as layers, sampled aspects of them while putting together the line art](wip/IMG_0401.jpeg)
+
+![About halfway done with line work](wip/IMG_0403.jpeg)
+
+![Getting closer and fixing up a few details](wip/IMG_0405.jpeg)
+
+:::

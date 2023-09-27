@@ -27,6 +27,8 @@ website:
         text: home
       - href: playground.qmd
         text: playground
+      - href: wip.qmd
+        text: work in progress
       - href: about.qmd
         text: about
   page-footer: |

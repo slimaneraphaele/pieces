@@ -1,5 +1,6 @@
 ---
 title: "things by Matt Crump"
+subtitle: "Copyright Matt Crump 2019-2023. All Rights Reserved."
 listing:
   contents: things
   type: grid

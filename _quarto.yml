@@ -32,7 +32,7 @@ website:
       - href: about.qmd
         text: about
   page-footer: |
-    Copyright 2023, All works by Matt Crump
+    Copyright 2019-2023 Matt Crump, All rights reserved.
 
 format:
   html:

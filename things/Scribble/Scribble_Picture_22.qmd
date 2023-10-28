@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 22
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 22.jpeg
+description: Digital Work
+categories: [Scribble]
+date: 2023-010-17 09:54:27
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 22.jpeg)
+
+## Process Notes
+
+NYC, view from high line

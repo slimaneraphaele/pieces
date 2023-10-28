@@ -1,7 +1,7 @@
 ---
 title: Scribble Picture 20
 author: Matt Crump
-image: ../../images/Scribble/Scribble Picture 2.jpeg
+image: ../../images/Scribble/Scribble Picture 20.jpeg
 description: Digital Work
 categories: [Scribble]
 date: 2023-09-10 09:54:27

@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 21
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 21.jpeg
+description: Digital Work
+categories: [Scribble]
+date: 2023-10-18 09:54:27
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 21.jpeg)
+
+## Process Notes
+
+NYC, Chelsea

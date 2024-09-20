@@ -1,18 +1,18 @@
 ---
 title: "things by Matt Crump"
-subtitle: "Copyright Matt Crump 2019-2023. All Rights Reserved."
+subtitle: "Copyright Matt Crump 2019-2024. All Rights Reserved."
 listing:
   contents: things
   type: grid
   image-height: "100%"
+  sort-ui: [date,categories]
+  sort: "date desc"
   grid-columns: 4
-  page-size: 20
+  page-size: 40
   grid-item-border: false
   fields: [image]
-  sort-ui: [date,categories]
   categories: true
-  sort:
-    - "date desc"
+  
 format:
   html:
     page-layout: full

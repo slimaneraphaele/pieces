@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 24
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 24.jpeg
+description: Digital Work
+categories: [Scribble]
+date: 2024-09-15 18:17:42
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 24.jpeg)
+
+## Process Notes
+
+First night-time scribble picture. Katz's.

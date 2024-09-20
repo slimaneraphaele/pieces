@@ -1,0 +1,13 @@
+---
+title: Scribble Picture 25
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 25.jpeg
+description: Digital Work
+categories: [Scribble]
+date: 2024-09-16 20:45:56
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 25.jpeg)

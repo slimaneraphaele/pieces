@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 23
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 23.jpeg
+description: Digital Work
+categories: [Scribble]
+date: 2024/09/15
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 23.jpeg)
+
+## Process Notes
+
+Almost a year since the last scribble picture. Church Ave, Brooklyn.

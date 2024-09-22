@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 28
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 28.jpeg
+description: NA
+categories: [Scribble]
+date: 2024-09-22 07:45:06
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 28.jpeg)
+
+## Process notes
+
+Walked up into Atlantic Ave from Brooklyn Bridge Park.

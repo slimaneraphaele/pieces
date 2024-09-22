@@ -2,9 +2,9 @@
 title: NA
 author: Matt Crump
 image: ../../images/Desertland/fiona.jpg
-description: NA
+description: Oil on wood
 categories: [Desertland]
-date: NA
+date: 2019-10-10
 format:
   html:
     page-layout: full

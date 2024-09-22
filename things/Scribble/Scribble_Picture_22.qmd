@@ -4,7 +4,7 @@ author: Matt Crump
 image: ../../images/Scribble/Scribble Picture 22.jpeg
 description: Digital Work
 categories: [Scribble]
-date: 2023-010-17 09:54:27
+date: 2023-10-17 09:54:27
 format:
   html:
     page-layout: full

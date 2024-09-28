@@ -2,7 +2,7 @@
 title: Scribble Picture 24
 author: Matt Crump
 image: ../../images/Scribble/Scribble Picture 24.jpeg
-description: Digital Work
+description: Digital Work, XH2 Fuji, Katz's
 categories: [Scribble]
 date: 2024-9-15 18:17:42
 format:

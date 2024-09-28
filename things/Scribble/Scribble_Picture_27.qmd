@@ -2,7 +2,7 @@
 title: Scribble Picture 27
 author: Matt Crump
 image: ../../images/Scribble/Scribble Picture 27.jpeg
-description: NA
+description: Digital Work, XH2 Fuji, Canal St
 categories: [Scribble]
 date: 2024-09-21 17:49:04
 format:

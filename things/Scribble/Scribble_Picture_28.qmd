@@ -2,7 +2,7 @@
 title: Scribble Picture 28
 author: Matt Crump
 image: ../../images/Scribble/Scribble Picture 28.jpeg
-description: NA
+description: Digital Work, XH2 Fuji, Heading up Atlantic Ave
 categories: [Scribble]
 date: 2024-09-22 07:45:06
 format:

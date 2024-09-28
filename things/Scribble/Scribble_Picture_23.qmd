@@ -2,7 +2,7 @@
 title: Scribble Picture 23
 author: Matt Crump
 image: ../../images/Scribble/Scribble Picture 23.jpeg
-description: Digital Work
+description: Digital Work, XH2 Fuji, Church Ave
 categories: [Scribble]
 date: 2024/09/15
 format:

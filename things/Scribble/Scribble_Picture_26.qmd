@@ -2,7 +2,7 @@
 title: Scribble Picture 26
 author: Matt Crump
 image: ../../images/Scribble/Scribble Picture 26.jpeg
-description: Digital Work
+description: Digital Work, XH2 Fuji, Greenwich village
 categories: [Scribble]
 date: 2024-9-19 20:30:02
 format:

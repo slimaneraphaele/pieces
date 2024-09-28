@@ -2,7 +2,7 @@
 title: Scribble Picture 30
 author: Matt Crump
 image: ../../images/Scribble/Scribble Picture 30.jpeg
-description: NA
+description: Digital Work, XH2 Fuji, Dumbo Flea Market
 categories: [Scribble]
 date: 2024-09-28 05:33:52
 format:

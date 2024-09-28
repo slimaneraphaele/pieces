@@ -2,7 +2,7 @@
 title: Scribble Picture 29
 author: Matt Crump
 image: ../../images/Scribble/Scribble Picture 29.jpeg
-description: NA
+description: Digital Work, XH2 Fuji, Soho
 categories: [Scribble]
 date: 2024-09-22 14:53:57
 format:

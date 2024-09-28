@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 29
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 29.jpeg
+description: NA
+categories: [Scribble]
+date: 2024-09-22 14:53:57
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 29.jpeg)
+
+## Process notes
+
+Walked around soho

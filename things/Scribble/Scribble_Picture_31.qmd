@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 31
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 31.jpeg
+description: Digital Work, Dumbo/Brooklyn Bridge Ferry Terminal Pier 1
+categories: [Scribble]
+date: 2024-09-29 07:30:57
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 31.jpeg)
+
+## Process Notes
+
+Dumbo/Brooklyn Bridge Ferry Terminal Pier 1 in September

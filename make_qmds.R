@@ -14,7 +14,7 @@ files <- rownames(lsfiles)
 
 dat <- read_exif(files)
 
-for(i in 1:length(files)){
+for(i in 1:2){
 
   title <- stringr::str_to_title(dat[i,]$ObjectName)
   image_location <- dat[i,]$SourceFile

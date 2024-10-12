@@ -25,6 +25,8 @@ website:
     contents:
       - href: index.qmd
         text: home
+      - href: prints.qmd
+        text: Buy Prints
       - href: playground.qmd
         text: playground
       - href: wip.qmd

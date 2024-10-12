@@ -1,0 +1,21 @@
+---
+title: Scribble Picture 33
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 33.jpeg
+description: Digital Work
+categories: [Scribble]
+date: 2024-10-05 08:43:43
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 33.jpeg)
+
+## Buy Prints
+
+[https://crumplab/things/prints](https://crumplab/things/prints)
+
+## Process Notes
+
+DUMBO, layered with Broadway

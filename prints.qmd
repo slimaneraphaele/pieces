@@ -4,46 +4,7 @@ description: "Options for purchasing prints."
 image: prints/SpecSheet.png
 ---
 
-## Excuses
-
-No online store at the moment, a bit busy with other stuff, email me about prints or DM on instagram [@mattcrumplab](https://www.instagram.com/mattcrumplab/) I suppose.
-
-## Scribble Picture Open Edition Prints
-
-Prints from the scribble picture series are available for purchase:
-
-- Regular size = $75 + shipping
-- Jumbo size = $100 + shipping
-
-Prints are shipped in a tube. Usually about $10 to ship. Multiple prints ship in the same tube.
-
-![](prints/SpecSheet.png)
-
-These prints are digitally signed open edition prints. Each print shows the print number in order of printing. If you get the first one, then it says #1, otherwise #2 etc. Each print shows the scribble picture number. The one above is Scribble Picture 24. Each print shows the year and I sign each one on the right hand side.
-
-The regular size is an 18x27 print on 20.5 x 29.5 matte cotton natural white art paper.
-
-The jumbo size is a 22x33 print on 24.5 x 35.5 matte cotton natural white art paper.
-
-Both prints have a 1.25" border, which should accommodate some framing preferences. My preferred framing option uses 2" matting. The matting is cut to leave 1" of the border from the print showing (to give a double matted appearance). The extra .25" on the print is for matting tolerance. Note these prints are unframed.
-
-Framed options could be available too. Some rough estimates are:
-
-Framed 18x27 print = $75 (print) + $150 (frame) + shipping ($20-30)
-
-- Frame dimensions about 25" x 34"
-- Single Matte
-- Clear acrylic protective cover
-- Black satin metal frame
-
-
-```{r}
-#| fig-width: .5
-#| echo: false
-knitr::include_graphics("prints/regularframe.png")
-```
-
-
+Coming Soon
 
 
 

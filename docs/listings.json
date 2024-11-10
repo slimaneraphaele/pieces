@@ -61,6 +61,12 @@
     ]
   },
   {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/1_10_8_24_first_post/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/things/Scribble/Scribble_Picture_35.html",

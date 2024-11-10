@@ -24,6 +24,12 @@ about:
       text: Brooklyn College
       href: https://www.brooklyn.edu/faculty-staff/matthew-crump/
     - icon: globe
+      text: flickr
+      href: https://www.flickr.com/photos/201779890@N02/
+    - icon: globe
+      text: bluesky
+      href: https://bsky.app/profile/mattcrumplab.bsky.social
+    - icon: globe
       text: The Graduate Center, CUNY
       href: https://www.gc.cuny.edu/psychology/training-areas/cognitive-and-comparative-psychology
 engine: knitr

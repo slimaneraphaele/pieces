@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>things</title>
+<link>https://crumplab.com/things/blog.html</link>
+<atom:link href="https://crumplab.com/things/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Occasional blog posts about things I make here.</description>
+<image>
+<url>https://crumplab.com/things/imgs/things.jpg</url>
+<title>things</title>
+<link>https://crumplab.com/things/blog.html</link>
+</image>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Tue, 08 Oct 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>First Things Blog post</title>
+  <dc:creator>Matt Crump</dc:creator>
+  <link>https://crumplab.com/things/blog/1_10_8_24_first_post/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="cover.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://crumplab.com/things/blog/1_10_8_24_first_post/cover.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:50.0%"></a></p>
+</figure>
+</div>
+<section id="quick-test" class="level2">
+<h2 class="anchored" data-anchor-id="quick-test">Quick Test</h2>
+<p>Not much to see on this post. Just setting up the blogging system on this site.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>blogging</category>
+  <guid>https://crumplab.com/things/blog/1_10_8_24_first_post/</guid>
+  <pubDate>Tue, 08 Oct 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://crumplab.com/things/blog/1_10_8_24_first_post/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

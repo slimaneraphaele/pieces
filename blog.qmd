@@ -1,0 +1,19 @@
+---
+title: "Things Blog"
+author: Matt Crump
+description: Occasional blog posts about things I make here.
+image: imgs/things.jpg
+editor: visual
+listing:
+  contents: blog
+  id: blog_list
+  sort: "date desc"
+  type: default
+  categories: true
+  image-align: 'right'
+  image-height: '100%'
+  feed: true
+---
+
+::: {#blog_list}
+:::

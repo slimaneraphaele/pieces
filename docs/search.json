@@ -1,260 +1,250 @@
 [
   {
-    "objectID": "prints.html",
-    "href": "prints.html",
-    "title": "Buy Prints",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Coming Soon",
+    "text": "Matt Crump is a cognitive psychologist at Brooklyn College of CUNY, and runs the computational cognition lab in the Department of Psychology.\nHe sometimes makes paintings, pictures, and other visual things.",
     "crumbs": [
-      "Buy Prints"
+      "about"
     ]
   },
   {
-    "objectID": "prints.html#excuses",
-    "href": "prints.html#excuses",
-    "title": "Buy Prints",
-    "section": "",
-    "text": "No online store at the moment, a bit busy with other stuff, email me about prints or DM on instagram @mattcrumplab I suppose.",
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nPostdoc, Vanderbilt University - 2011 (Psychology)\nPh.D., McMaster University - 2007 (Psychology)\nB.Sc., University of Lethbridge - 2002 (Psychology)",
     "crumbs": [
-      "Buy Prints"
+      "about"
     ]
   },
   {
-    "objectID": "prints.html#scribble-picture-open-edition-prints",
-    "href": "prints.html#scribble-picture-open-edition-prints",
-    "title": "Buy Prints",
-    "section": "Scribble Picture Open Edition Prints",
-    "text": "Scribble Picture Open Edition Prints\nPrints from the scribble picture series are available for purchase:\n\nRegular size = $75 + shipping\nJumbo size = $100 + shipping\n\nPrints are shipped in a tube. Usually about $10 to ship. Multiple prints ship in the same tube.\n\nThese prints are digitally signed open edition prints. Each print shows the print number in order of printing. If you get the first one, then it says #1, otherwise #2 etc. Each print shows the scribble picture number. The one above is Scribble Picture 24. Each print shows the year and I sign each one on the right hand side.\nThe regular size is an 18x27 print on 20.5 x 29.5 matte cotton natural white art paper.\nThe jumbo size is a 22x33 print on 24.5 x 35.5 matte cotton natural white art paper.\nBoth prints have a 1.25” border, which should accommodate some framing preferences. My preferred framing option uses 2” matting. The matting is cut to leave 1” of the border from the print showing (to give a double matted appearance). The extra .25” on the print is for matting tolerance. Note these prints are unframed.\nFramed options could be available too. Some rough estimates are:\nFramed 18x27 print = $75 (print) + $150 (frame) + shipping ($20-30)\n\nFrame dimensions about 25” x 34”\nSingle Matte\nClear acrylic protective cover\nBlack satin metal frame",
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nAssistant Professor - Brooklyn College of CUNY (2011)\nAssociate Professor - Brooklyn College of CUNY (2016)\nFull Professor - Brooklyn College of CUNY (2022)",
     "crumbs": [
-      "Buy Prints"
+      "about"
     ]
   },
   {
-    "objectID": "wip.html",
-    "href": "wip.html",
-    "title": "Work in progress",
-    "section": "",
-    "text": "This is the first big drawing that I’ve done in a while. Here’s some of the steps this time. I started this process from another piece. Note, it should be possible to click on an image to view them all in gallery.\n\n\n\n\n\n\n\n\n\nCliffs of Volcano ball lake. I started with this piece.\n\n\n\n\n\n\n\nTook the line art from it and inverted it.\n\n\n\n\n\n\n\nGenerated several variations using stable diffusion. Variation 1\n\n\n\n\n\n\n\nVariation 2\n\n\n\n\n\n\n\n\n\nVariation 3\n\n\n\n\n\n\n\nVariation 4\n\n\n\n\n\n\n\nUsed the variations as layers, sampled aspects of them while putting together the line art\n\n\n\n\n\n\n\nAbout halfway done with line work\n\n\n\n\n\n\n\n\n\nGetting closer and fixing up a few details",
-    "crumbs": [
-      "work in progress"
-    ]
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_9.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_9.html#buy-prints",
-    "title": "Scribble Picture 9",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_9.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_9.html#process-notes",
-    "title": "Scribble Picture 9",
-    "section": "Process notes",
-    "text": "Process notes\nChurch Ave"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_7.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_7.html#process-notes",
-    "title": "Scribble Picture 7",
+    "objectID": "things/Scribble/Scribble_Picture_8.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_8.html#process-notes",
+    "title": "Scribble Picture 8",
     "section": "Process notes",
     "text": "Process notes\nToronto, same process as other scribble pictures."
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_5.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_5.html#process-notes",
-    "title": "Scribble Picture 5",
+    "objectID": "things/Scribble/Scribble_Picture_6.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_6.html#buy-prints",
+    "title": "Scribble Picture 6",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_6.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_6.html#process-notes",
+    "title": "Scribble Picture 6",
     "section": "Process notes",
     "text": "Process notes\nWalk around take pictures of NYC. Bring the RAW image into Adobe lightroom and push it around. Settled on a bleached out color spectrum. Pop the image into Adobe Fresco.\nFirst layer is drawing body parts in black ink. The same pen is used to graffiti text in the image. Body parts are filled. Opacity of layers are adjusted. Add another layer of color stuff for fun."
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_35.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_35.html#buy-prints",
-    "title": "Scribble Picture 35",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_35.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_35.html#process-notes",
-    "title": "Scribble Picture 35",
-    "section": "Process Notes",
-    "text": "Process Notes\nView from Fulton Mall…feels like it needs something more in the sky. maybe not done yet?"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_32.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_32.html#buy-prints",
-    "title": "Scribble Picture 32",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_32.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_32.html#process-notes",
-    "title": "Scribble Picture 32",
-    "section": "Process notes",
-    "text": "Process notes\nLooking out on Ditmas Ave from F train"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_30.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_30.html#buy-prints",
-    "title": "Scribble Picture 30",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_30.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_30.html#process-notes",
-    "title": "Scribble Picture 30",
-    "section": "Process Notes",
-    "text": "Process Notes\nDumbo flea market"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_29.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_29.html#buy-prints",
-    "title": "Scribble Picture 29",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_29.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_29.html#process-notes",
-    "title": "Scribble Picture 29",
-    "section": "Process notes",
-    "text": "Process notes\nWalked around soho"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_27.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_27.html#buy-prints",
-    "title": "Scribble Picture 27",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_27.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_27.html#process-notes",
-    "title": "Scribble Picture 27",
-    "section": "Process notes",
-    "text": "Process notes\nWalked down Canal street."
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_25.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_25.html#buy-prints",
-    "title": "Scribble Picture 25",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_25.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_25.html#process-notes",
-    "title": "Scribble Picture 25",
-    "section": "Process notes",
-    "text": "Process notes\nGoing to get some gelato"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_23.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_23.html#buy-prints",
-    "title": "Scribble Picture 23",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_23.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_23.html#process-notes",
-    "title": "Scribble Picture 23",
-    "section": "Process Notes",
-    "text": "Process Notes\nAlmost a year since the last scribble picture. Church Ave, Brooklyn."
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_21.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_21.html#buy-prints",
-    "title": "Scribble Picture 21",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_21.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_21.html#process-notes",
-    "title": "Scribble Picture 21",
-    "section": "Process Notes",
-    "text": "Process Notes\nNYC, Chelsea"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_2.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_2.html#process-notes",
-    "title": "Scribble Picture 2",
+    "objectID": "things/Scribble/Scribble_Picture_4.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_4.html#process-notes",
+    "title": "Scribble Picture 4",
     "section": "Process notes",
     "text": "Process notes\nWalk around take pictures of NYC. Bring the RAW image into Adobe lightroom and push it around. Settled on a bleached out color spectrum. Pop the image into Adobe Fresco.\nFirst layer is drawing body parts in black ink. The same pen is used to graffiti text in the image. Body parts are filled. Opacity of layers are adjusted. Add another layer of color stuff for fun."
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_18.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_18.html#buy-prints",
-    "title": "Scribble Picture 18",
+    "objectID": "things/Scribble/Scribble_Picture_33.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_33.html#buy-prints",
+    "title": "Scribble Picture 33",
     "section": "Buy Prints",
     "text": "Buy Prints\nhttps://crumplab/things/prints"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_18.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_18.html#process-notes",
-    "title": "Scribble Picture 18",
+    "objectID": "things/Scribble/Scribble_Picture_33.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_33.html#process-notes",
+    "title": "Scribble Picture 33",
     "section": "Process Notes",
-    "text": "Process Notes\nOutside near the F train."
+    "text": "Process Notes\nDUMBO, layered with Broadway"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_16.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_16.html#buy-prints",
-    "title": "Scribble Picture 16",
+    "objectID": "things/Scribble/Scribble_Picture_31.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_31.html#buy-prints",
+    "title": "Scribble Picture 31",
     "section": "Buy Prints",
     "text": "Buy Prints\nhttps://crumplab/things/prints"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_16.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_16.html#process-notes",
-    "title": "Scribble Picture 16",
+    "objectID": "things/Scribble/Scribble_Picture_31.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_31.html#process-notes",
+    "title": "Scribble Picture 31",
     "section": "Process Notes",
-    "text": "Process Notes\nChurch Ave Deli"
+    "text": "Process Notes\nDumbo/Brooklyn Bridge Ferry Terminal Pier 1 in September"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_14.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_14.html#buy-prints",
-    "title": "Scribble Picture 14",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_14.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_14.html#process-notes",
-    "title": "Scribble Picture 14",
-    "section": "Process Notes",
-    "text": "Process Notes\nFlatbush near the 7th ave BQ"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_12.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_12.html#buy-prints",
-    "title": "Scribble Picture 12",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_12.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_12.html#process-notes",
-    "title": "Scribble Picture 12",
-    "section": "Process Notes",
-    "text": "Process Notes\nCortelyou Rd Deli"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_10.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_10.html#buy-prints",
-    "title": "Scribble Picture 10",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_10.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_10.html#process-notes",
-    "title": "Scribble Picture 10",
+    "objectID": "things/Scribble/Scribble_Picture_3.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_3.html#process-notes",
+    "title": "Scribble Picture 3",
     "section": "Process notes",
-    "text": "Process notes\nKings theatre"
+    "text": "Process notes\nWalk around take pictures of NYC. Bring the RAW image into Adobe lightroom and push it around. Settled on a bleached out color spectrum. Pop the image into Adobe Fresco.\nFirst layer is drawing body parts in black ink. The same pen is used to graffiti text in the image. Body parts are filled. Opacity of layers are adjusted. Add another layer of color stuff for fun."
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_28.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_28.html#buy-prints",
+    "title": "Scribble Picture 28",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_28.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_28.html#process-notes",
+    "title": "Scribble Picture 28",
+    "section": "Process notes",
+    "text": "Process notes\nWalked up into Atlantic Ave from Brooklyn Bridge Park."
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_26.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_26.html#buy-prints",
+    "title": "Scribble Picture 26",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_26.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_26.html#process-notes",
+    "title": "Scribble Picture 26",
+    "section": "Process Notes",
+    "text": "Process Notes\nGreenwich Village"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_24.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_24.html#buy-prints",
+    "title": "Scribble Picture 24",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_24.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_24.html#process-notes",
+    "title": "Scribble Picture 24",
+    "section": "Process Notes",
+    "text": "Process Notes\nFirst night-time scribble picture. Katz’s."
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_22.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_22.html#buy-prints",
+    "title": "Scribble Picture 22",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_22.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_22.html#process-notes",
+    "title": "Scribble Picture 22",
+    "section": "Process Notes",
+    "text": "Process Notes\nNYC, view from high line"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_20.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_20.html#buy-prints",
+    "title": "Scribble Picture 20",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_20.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_20.html#process-notes",
+    "title": "Scribble Picture 20",
+    "section": "Process Notes",
+    "text": "Process Notes\nVancouver. Pretend clouds."
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_19.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_19.html#buy-prints",
+    "title": "Scribble Picture 19",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_19.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_19.html#process-notes",
+    "title": "Scribble Picture 19",
+    "section": "Process Notes",
+    "text": "Process Notes\nStanley park."
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_17.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_17.html#buy-prints",
+    "title": "Scribble Picture 17",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_17.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_17.html#process-notes",
+    "title": "Scribble Picture 17",
+    "section": "Process Notes",
+    "text": "Process Notes\nThe creatures are creeping in.\nHaving fun with these scribble pictures. I didn’t expect to get to the 17th one already.\nNone of them have been printed yet. I’m looking at a target print size of 24x36. This scribble picture was adjusted to hit that poster size. I’m likely to print with a border, so now there is room for a digital signature outside of the print."
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_15.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_15.html#buy-prints",
+    "title": "Scribble Picture 15",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_15.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_15.html#process-notes",
+    "title": "Scribble Picture 15",
+    "section": "Process Notes",
+    "text": "Process Notes\nNear Central park"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_13.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_13.html#buy-prints",
+    "title": "Scribble Picture 13",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_13.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_13.html#process-notes",
+    "title": "Scribble Picture 13",
+    "section": "Process Notes",
+    "text": "Process Notes\nFake cartoon mountains"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_11.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_11.html#buy-prints",
+    "title": "Scribble Picture 11",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_11.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_11.html#process-notes",
+    "title": "Scribble Picture 11",
+    "section": "Process notes",
+    "text": "Process notes\nFlatbush"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_1.html",
+    "href": "things/Scribble/Scribble_Picture_1.html",
+    "title": "Scribble Picture 1",
+    "section": "",
+    "text": "Process notes\nWalk around take pictures of NYC. Bring the RAW image into Adobe lightroom and push it around. Settled on a bleached out color spectrum. Pop the image into Adobe Fresco.\nFirst layer is drawing body parts in black ink. The same pen is used to graffiti text in the image. Body parts are filled. Opacity of layers are adjusted. Add another layer of color stuff for fun."
+  },
+  {
+    "objectID": "things/Colorlands/Cliffs_at_another_volcano_ball_lake.html#process-notes",
+    "href": "things/Colorlands/Cliffs_at_another_volcano_ball_lake.html#process-notes",
+    "title": "Cliffs at another volcano ball lake",
+    "section": "process notes",
+    "text": "process notes\nCurrently shown on the work in progress page."
   },
   {
     "objectID": "playground/volcano_ball_lake/Volcano_a_1048_scribble_4_4_5_7134.html#process-notes",
@@ -463,6 +453,13 @@
     ]
   },
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Things Blog",
+    "section": "",
+    "text": "First Things Blog post\n\n\n\n\n\n\nblogging\n\n\n\nSetting up this blog\n\n\n\n\n\nOct 8, 2024\n\n\nMatt Crump\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "things by Matt Crump",
@@ -669,250 +666,247 @@
     "text": "Process notes\nCliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
   },
   {
-    "objectID": "things/Colorlands/Cliffs_at_another_volcano_ball_lake.html#process-notes",
-    "href": "things/Colorlands/Cliffs_at_another_volcano_ball_lake.html#process-notes",
-    "title": "Cliffs at another volcano ball lake",
-    "section": "process notes",
-    "text": "process notes\nCurrently shown on the work in progress page."
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_1.html",
-    "href": "things/Scribble/Scribble_Picture_1.html",
-    "title": "Scribble Picture 1",
+    "objectID": "prints.html",
+    "href": "prints.html",
+    "title": "Buy Prints",
     "section": "",
-    "text": "Process notes\nWalk around take pictures of NYC. Bring the RAW image into Adobe lightroom and push it around. Settled on a bleached out color spectrum. Pop the image into Adobe Fresco.\nFirst layer is drawing body parts in black ink. The same pen is used to graffiti text in the image. Body parts are filled. Opacity of layers are adjusted. Add another layer of color stuff for fun."
+    "text": "Open Edition prints are now available through my shopify storefront:\nhttps://mattcrump.myshopify.com\nPrints are on matte art paper in very high resolution. I’ve been very happy with them. There is also a framing option. Prints ship rolled. Framed prints ship with the print in the frame.\nLimited editions and commissions may also be available from time to time.",
+    "crumbs": [
+      "Buy Prints"
+    ]
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_11.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_11.html#buy-prints",
-    "title": "Scribble Picture 11",
+    "objectID": "things/Scribble/Scribble_Picture_10.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_10.html#buy-prints",
+    "title": "Scribble Picture 10",
     "section": "Buy Prints",
     "text": "Buy Prints\nhttps://crumplab/things/prints"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_11.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_11.html#process-notes",
-    "title": "Scribble Picture 11",
+    "objectID": "things/Scribble/Scribble_Picture_10.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_10.html#process-notes",
+    "title": "Scribble Picture 10",
     "section": "Process notes",
-    "text": "Process notes\nFlatbush"
+    "text": "Process notes\nKings theatre"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_13.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_13.html#buy-prints",
-    "title": "Scribble Picture 13",
+    "objectID": "things/Scribble/Scribble_Picture_12.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_12.html#buy-prints",
+    "title": "Scribble Picture 12",
     "section": "Buy Prints",
     "text": "Buy Prints\nhttps://crumplab/things/prints"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_13.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_13.html#process-notes",
-    "title": "Scribble Picture 13",
+    "objectID": "things/Scribble/Scribble_Picture_12.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_12.html#process-notes",
+    "title": "Scribble Picture 12",
     "section": "Process Notes",
-    "text": "Process Notes\nFake cartoon mountains"
+    "text": "Process Notes\nCortelyou Rd Deli"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_15.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_15.html#buy-prints",
-    "title": "Scribble Picture 15",
+    "objectID": "things/Scribble/Scribble_Picture_14.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_14.html#buy-prints",
+    "title": "Scribble Picture 14",
     "section": "Buy Prints",
     "text": "Buy Prints\nhttps://crumplab/things/prints"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_15.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_15.html#process-notes",
-    "title": "Scribble Picture 15",
+    "objectID": "things/Scribble/Scribble_Picture_14.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_14.html#process-notes",
+    "title": "Scribble Picture 14",
     "section": "Process Notes",
-    "text": "Process Notes\nNear Central park"
+    "text": "Process Notes\nFlatbush near the 7th ave BQ"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_17.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_17.html#buy-prints",
-    "title": "Scribble Picture 17",
+    "objectID": "things/Scribble/Scribble_Picture_16.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_16.html#buy-prints",
+    "title": "Scribble Picture 16",
     "section": "Buy Prints",
     "text": "Buy Prints\nhttps://crumplab/things/prints"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_17.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_17.html#process-notes",
-    "title": "Scribble Picture 17",
+    "objectID": "things/Scribble/Scribble_Picture_16.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_16.html#process-notes",
+    "title": "Scribble Picture 16",
     "section": "Process Notes",
-    "text": "Process Notes\nThe creatures are creeping in.\nHaving fun with these scribble pictures. I didn’t expect to get to the 17th one already.\nNone of them have been printed yet. I’m looking at a target print size of 24x36. This scribble picture was adjusted to hit that poster size. I’m likely to print with a border, so now there is room for a digital signature outside of the print."
+    "text": "Process Notes\nChurch Ave Deli"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_19.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_19.html#buy-prints",
-    "title": "Scribble Picture 19",
+    "objectID": "things/Scribble/Scribble_Picture_18.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_18.html#buy-prints",
+    "title": "Scribble Picture 18",
     "section": "Buy Prints",
     "text": "Buy Prints\nhttps://crumplab/things/prints"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_19.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_19.html#process-notes",
-    "title": "Scribble Picture 19",
+    "objectID": "things/Scribble/Scribble_Picture_18.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_18.html#process-notes",
+    "title": "Scribble Picture 18",
     "section": "Process Notes",
-    "text": "Process Notes\nStanley park."
+    "text": "Process Notes\nOutside near the F train."
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_20.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_20.html#buy-prints",
-    "title": "Scribble Picture 20",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_20.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_20.html#process-notes",
-    "title": "Scribble Picture 20",
-    "section": "Process Notes",
-    "text": "Process Notes\nVancouver. Pretend clouds."
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_22.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_22.html#buy-prints",
-    "title": "Scribble Picture 22",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_22.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_22.html#process-notes",
-    "title": "Scribble Picture 22",
-    "section": "Process Notes",
-    "text": "Process Notes\nNYC, view from high line"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_24.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_24.html#buy-prints",
-    "title": "Scribble Picture 24",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_24.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_24.html#process-notes",
-    "title": "Scribble Picture 24",
-    "section": "Process Notes",
-    "text": "Process Notes\nFirst night-time scribble picture. Katz’s."
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_26.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_26.html#buy-prints",
-    "title": "Scribble Picture 26",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_26.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_26.html#process-notes",
-    "title": "Scribble Picture 26",
-    "section": "Process Notes",
-    "text": "Process Notes\nGreenwich Village"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_28.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_28.html#buy-prints",
-    "title": "Scribble Picture 28",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_28.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_28.html#process-notes",
-    "title": "Scribble Picture 28",
-    "section": "Process notes",
-    "text": "Process notes\nWalked up into Atlantic Ave from Brooklyn Bridge Park."
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_3.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_3.html#process-notes",
-    "title": "Scribble Picture 3",
+    "objectID": "things/Scribble/Scribble_Picture_2.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_2.html#process-notes",
+    "title": "Scribble Picture 2",
     "section": "Process notes",
     "text": "Process notes\nWalk around take pictures of NYC. Bring the RAW image into Adobe lightroom and push it around. Settled on a bleached out color spectrum. Pop the image into Adobe Fresco.\nFirst layer is drawing body parts in black ink. The same pen is used to graffiti text in the image. Body parts are filled. Opacity of layers are adjusted. Add another layer of color stuff for fun."
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_31.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_31.html#buy-prints",
-    "title": "Scribble Picture 31",
+    "objectID": "things/Scribble/Scribble_Picture_21.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_21.html#buy-prints",
+    "title": "Scribble Picture 21",
     "section": "Buy Prints",
     "text": "Buy Prints\nhttps://crumplab/things/prints"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_31.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_31.html#process-notes",
-    "title": "Scribble Picture 31",
+    "objectID": "things/Scribble/Scribble_Picture_21.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_21.html#process-notes",
+    "title": "Scribble Picture 21",
     "section": "Process Notes",
-    "text": "Process Notes\nDumbo/Brooklyn Bridge Ferry Terminal Pier 1 in September"
+    "text": "Process Notes\nNYC, Chelsea"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_33.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_33.html#buy-prints",
-    "title": "Scribble Picture 33",
+    "objectID": "things/Scribble/Scribble_Picture_23.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_23.html#buy-prints",
+    "title": "Scribble Picture 23",
     "section": "Buy Prints",
     "text": "Buy Prints\nhttps://crumplab/things/prints"
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_33.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_33.html#process-notes",
-    "title": "Scribble Picture 33",
+    "objectID": "things/Scribble/Scribble_Picture_23.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_23.html#process-notes",
+    "title": "Scribble Picture 23",
     "section": "Process Notes",
-    "text": "Process Notes\nDUMBO, layered with Broadway"
+    "text": "Process Notes\nAlmost a year since the last scribble picture. Church Ave, Brooklyn."
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_4.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_4.html#process-notes",
-    "title": "Scribble Picture 4",
+    "objectID": "things/Scribble/Scribble_Picture_25.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_25.html#buy-prints",
+    "title": "Scribble Picture 25",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_25.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_25.html#process-notes",
+    "title": "Scribble Picture 25",
+    "section": "Process notes",
+    "text": "Process notes\nGoing to get some gelato"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_27.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_27.html#buy-prints",
+    "title": "Scribble Picture 27",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_27.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_27.html#process-notes",
+    "title": "Scribble Picture 27",
+    "section": "Process notes",
+    "text": "Process notes\nWalked down Canal street."
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_29.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_29.html#buy-prints",
+    "title": "Scribble Picture 29",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_29.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_29.html#process-notes",
+    "title": "Scribble Picture 29",
+    "section": "Process notes",
+    "text": "Process notes\nWalked around soho"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_30.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_30.html#buy-prints",
+    "title": "Scribble Picture 30",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_30.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_30.html#process-notes",
+    "title": "Scribble Picture 30",
+    "section": "Process Notes",
+    "text": "Process Notes\nDumbo flea market"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_32.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_32.html#buy-prints",
+    "title": "Scribble Picture 32",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_32.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_32.html#process-notes",
+    "title": "Scribble Picture 32",
+    "section": "Process notes",
+    "text": "Process notes\nLooking out on Ditmas Ave from F train"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_35.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_35.html#buy-prints",
+    "title": "Scribble Picture 35",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_35.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_35.html#process-notes",
+    "title": "Scribble Picture 35",
+    "section": "Process Notes",
+    "text": "Process Notes\nView from Fulton Mall…feels like it needs something more in the sky. maybe not done yet?"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_5.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_5.html#process-notes",
+    "title": "Scribble Picture 5",
     "section": "Process notes",
     "text": "Process notes\nWalk around take pictures of NYC. Bring the RAW image into Adobe lightroom and push it around. Settled on a bleached out color spectrum. Pop the image into Adobe Fresco.\nFirst layer is drawing body parts in black ink. The same pen is used to graffiti text in the image. Body parts are filled. Opacity of layers are adjusted. Add another layer of color stuff for fun."
   },
   {
-    "objectID": "things/Scribble/Scribble_Picture_6.html#buy-prints",
-    "href": "things/Scribble/Scribble_Picture_6.html#buy-prints",
-    "title": "Scribble Picture 6",
-    "section": "Buy Prints",
-    "text": "Buy Prints\nhttps://crumplab/things/prints"
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_6.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_6.html#process-notes",
-    "title": "Scribble Picture 6",
-    "section": "Process notes",
-    "text": "Process notes\nWalk around take pictures of NYC. Bring the RAW image into Adobe lightroom and push it around. Settled on a bleached out color spectrum. Pop the image into Adobe Fresco.\nFirst layer is drawing body parts in black ink. The same pen is used to graffiti text in the image. Body parts are filled. Opacity of layers are adjusted. Add another layer of color stuff for fun."
-  },
-  {
-    "objectID": "things/Scribble/Scribble_Picture_8.html#process-notes",
-    "href": "things/Scribble/Scribble_Picture_8.html#process-notes",
-    "title": "Scribble Picture 8",
+    "objectID": "things/Scribble/Scribble_Picture_7.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_7.html#process-notes",
+    "title": "Scribble Picture 7",
     "section": "Process notes",
     "text": "Process notes\nToronto, same process as other scribble pictures."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "things/Scribble/Scribble_Picture_9.html#buy-prints",
+    "href": "things/Scribble/Scribble_Picture_9.html#buy-prints",
+    "title": "Scribble Picture 9",
+    "section": "Buy Prints",
+    "text": "Buy Prints\nhttps://crumplab/things/prints"
+  },
+  {
+    "objectID": "things/Scribble/Scribble_Picture_9.html#process-notes",
+    "href": "things/Scribble/Scribble_Picture_9.html#process-notes",
+    "title": "Scribble Picture 9",
+    "section": "Process notes",
+    "text": "Process notes\nChurch Ave"
+  },
+  {
+    "objectID": "wip.html",
+    "href": "wip.html",
+    "title": "Work in progress",
     "section": "",
-    "text": "Matt Crump is a cognitive psychologist at Brooklyn College of CUNY, and runs the computational cognition lab in the Department of Psychology.\nHe sometimes makes paintings, pictures, and other visual things.",
+    "text": "This is the first big drawing that I’ve done in a while. Here’s some of the steps this time. I started this process from another piece. Note, it should be possible to click on an image to view them all in gallery.\n\n\n\n\n\n\n\n\n\nCliffs of Volcano ball lake. I started with this piece.\n\n\n\n\n\n\n\nTook the line art from it and inverted it.\n\n\n\n\n\n\n\nGenerated several variations using stable diffusion. Variation 1\n\n\n\n\n\n\n\nVariation 2\n\n\n\n\n\n\n\n\n\nVariation 3\n\n\n\n\n\n\n\nVariation 4\n\n\n\n\n\n\n\nUsed the variations as layers, sampled aspects of them while putting together the line art\n\n\n\n\n\n\n\nAbout halfway done with line work\n\n\n\n\n\n\n\n\n\nGetting closer and fixing up a few details",
     "crumbs": [
-      "about"
+      "work in progress"
     ]
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\nPostdoc, Vanderbilt University - 2011 (Psychology)\nPh.D., McMaster University - 2007 (Psychology)\nB.Sc., University of Lethbridge - 2002 (Psychology)",
-    "crumbs": [
-      "about"
-    ]
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About",
-    "section": "Experience",
-    "text": "Experience\nAssistant Professor - Brooklyn College of CUNY (2011)\nAssociate Professor - Brooklyn College of CUNY (2016)\nFull Professor - Brooklyn College of CUNY (2022)",
-    "crumbs": [
-      "about"
-    ]
+    "objectID": "blog/1_10_8_24_first_post/index.html#quick-test",
+    "href": "blog/1_10_8_24_first_post/index.html#quick-test",
+    "title": "First Things Blog post",
+    "section": "Quick Test",
+    "text": "Quick Test\nNot much to see on this post. Just setting up the blogging system on this site."
   }
 ]

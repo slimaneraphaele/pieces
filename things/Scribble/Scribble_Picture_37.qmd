@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 37
+author: Matt Crump
+image: ../../images/Scribble/Scribble picture 37.jpeg
+description: NA
+categories: [Scribble]
+date: 2024-11-11 11:15:40
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble picture 37.jpeg)
+
+## Process Notes
+
+View from Brooklyn Bridge Park

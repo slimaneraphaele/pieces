@@ -14,9 +14,13 @@ files <- rownames(lsfiles)
 
 dat <- read_exif(files)
 
-for(i in 1:2){
+for(i in 1:9){
 
   title <- stringr::str_to_title(dat[i,]$ObjectName)
+  if(is.na(title)){
+    title <- stringr::str_to_title(dat[i,]$Title)
+  }
+
   image_location <- dat[i,]$SourceFile
   date <- dat[i,]$CreateDate %>%
     lubridate::as_datetime()

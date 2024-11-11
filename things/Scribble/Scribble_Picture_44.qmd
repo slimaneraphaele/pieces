@@ -1,0 +1,21 @@
+---
+title: Scribble Picture 44
+author: Matt Crump
+image: ../../images/Scribble/Scribble picture 44.jpeg
+description: NA
+categories: [Scribble]
+date: 2024-11-12 11:20:13
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble picture 44.jpeg)
+
+## Buy Print
+
+
+
+## Process Notes
+
+People reflecting in a mirror room

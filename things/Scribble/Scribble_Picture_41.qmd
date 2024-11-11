@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 41
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 41.jpeg
+description: NA
+categories: [Scribble]
+date: 2024-10-12 11:20:13
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 41.jpeg)
+
+## Process Notes
+
+Beside the old baseball field

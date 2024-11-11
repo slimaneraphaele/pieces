@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 39
+author: Matt Crump
+image: ../../images/Scribble/Scribble Picture 39.jpeg
+description: NA
+categories: [Scribble]
+date: 2023-09-15 15:31:15
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble Picture 39.jpeg)
+
+## Process Notes
+
+Greenway

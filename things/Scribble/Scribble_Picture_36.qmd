@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 36
+author: Matt Crump
+image: ../../images/Scribble/Scribble picture 36.jpeg
+description: Digital Work
+categories: [Scribble]
+date: 2024-11-11 11:15:02
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble picture 36.jpeg)
+
+## Process Notes
+
+Dinosaur bus

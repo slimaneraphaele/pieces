@@ -1,0 +1,14 @@
+---
+title: Scribble Picture 45
+author: Matt Crump
+image: ../../images/Scribble/Scribble picture 45.jpeg
+description: Creatures in a tree
+categories: [Scribble]
+date: 11/15/24
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble picture 45.jpeg)
+

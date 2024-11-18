@@ -1,0 +1,17 @@
+---
+title: Scribble Picture 46
+author: Matt Crump
+image: ../../images/Scribble/Scribble picture 46.jpg
+description: People at DUMBO Fleamarket
+categories: [Scribble]
+date: 11/17/24
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble picture 46.jpg)
+
+## Process notes
+
+Quick one

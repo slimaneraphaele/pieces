@@ -2,7 +2,7 @@
 title: Scribble Picture 44
 author: Matt Crump
 image: ../../images/Scribble/Scribble picture 44.jpeg
-description: NA
+description: People reflecting in a mirror room
 categories: [Scribble]
 date: 2024-11-12 11:20:13
 format:
@@ -14,7 +14,7 @@ format:
 
 ## Buy Print
 
-
+<https://mattcrump.myshopify.com/products/scribble-picture-44>
 
 ## Process Notes
 

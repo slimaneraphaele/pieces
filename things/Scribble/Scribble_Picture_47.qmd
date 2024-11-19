@@ -1,0 +1,21 @@
+---
+title: Scribble Picture 47
+author: Matt Crump
+image: ../../images/Scribble/Scribble picture 47.jpeg
+description: Street under construction
+categories: [Scribble]
+date: 11/19/24
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble picture 47.jpeg)
+
+## Buy Print
+
+<https://mattcrump.myshopify.com/products/scribble-picture-46>
+
+## Process Notes
+
+Minimal cartooning

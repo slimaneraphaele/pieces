@@ -1,0 +1,15 @@
+---
+title: Scribble Picture 48
+author: Matt Crump
+image: ../../images/Scribble/Scribble picture 48.jpg
+description: Dominant Species in NYC
+categories: [Scribble,commissions]
+date: 2024-11-29
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/Scribble/Scribble picture 48.jpg)
+
+Special Commission

@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Matt Crump is a cognitive psychologist at Brooklyn College of CUNY, and runs the computational cognition lab in the Department of Psychology.\nHe sometimes makes paintings, pictures, and other visual things.",
+    "text": "various artworks i make",
     "crumbs": [
       "about"
     ]
@@ -427,7 +427,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "things by Matt Crump",
+    "title": "pieces by Raphaele Adjerad",
     "section": "",
     "text": "No matching items",
     "crumbs": [
@@ -437,16 +437,16 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Things Blog",
+    "title": "Pieces Blog",
     "section": "",
     "text": "First Things Blog post\n\n\n\n\n\n\nblogging\n\n\n\nSetting up this blog\n\n\n\n\n\nOct 8, 2024\n\n\nMatt Crump\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "playground.html",
     "href": "playground.html",
-    "title": "things by Matt Crump",
+    "title": "pieces by Raphaele Adjerad",
     "section": "",
-    "text": "A playground of trying things out\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "test\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "playground"
     ]
@@ -841,7 +841,7 @@
     "href": "wip.html",
     "title": "Work in progress",
     "section": "",
-    "text": "This is the first big drawing that I’ve done in a while. Here’s some of the steps this time. I started this process from another piece. Note, it should be possible to click on an image to view them all in gallery.\n\n\n\n\n\n\n\n\n\nCliffs of Volcano ball lake. I started with this piece.\n\n\n\n\n\n\n\nTook the line art from it and inverted it.\n\n\n\n\n\n\n\nGenerated several variations using stable diffusion. Variation 1\n\n\n\n\n\n\n\nVariation 2\n\n\n\n\n\n\n\n\n\nVariation 3\n\n\n\n\n\n\n\nVariation 4\n\n\n\n\n\n\n\nUsed the variations as layers, sampled aspects of them while putting together the line art\n\n\n\n\n\n\n\nAbout halfway done with line work\n\n\n\n\n\n\n\n\n\nGetting closer and fixing up a few details",
+    "text": "Took the line art from it and inverted it.",
     "crumbs": [
       "work in progress"
     ]

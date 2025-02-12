@@ -1,5 +1,5 @@
 ---
-title: "things by Matt Crump"
+title: "pieces by Raphaele Adjerad"
 listing:
   contents: playground
   type: grid
@@ -17,7 +17,7 @@ format:
     page-layout: full
 ---
 
-A playground of trying things out
+test
 
 ::: {#playground}
 :::

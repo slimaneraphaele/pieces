@@ -8,14 +8,14 @@
 <title>things</title>
 <link>https://crumplab.com/things/blog.html</link>
 <atom:link href="https://crumplab.com/things/blog.xml" rel="self" type="application/rss+xml"/>
-<description>Occasional blog posts about things I make here.</description>
+<description>Occasional blog posts.</description>
 <image>
 <url>https://crumplab.com/things/imgs/things.jpg</url>
 <title>things</title>
 <link>https://crumplab.com/things/blog.html</link>
 </image>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Tue, 08 Oct 2024 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Tue, 08 Oct 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>First Things Blog post</title>
   <dc:creator>Matt Crump</dc:creator>
@@ -40,7 +40,7 @@
  ]]></description>
   <category>blogging</category>
   <guid>https://crumplab.com/things/blog/1_10_8_24_first_post/</guid>
-  <pubDate>Tue, 08 Oct 2024 04:00:00 GMT</pubDate>
+  <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
   <media:content url="https://crumplab.com/things/blog/1_10_8_24_first_post/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

@@ -1,5 +1,5 @@
 ## Readme
 
-Visual portfolio website for Matt Crump.
+Visual portfolio website for Raphaele Adjerad.
 
 Built with Quarto.

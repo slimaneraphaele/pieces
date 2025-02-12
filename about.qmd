@@ -5,33 +5,15 @@ about:
   template: trestles
   image: imgs/Crump.png
   links:
-    - icon: globe
-      text: Lab website
-      href: https://crumplab.com
-    - icon: mastodon
-      text: Social 
-      href: https://fosstodon.org/@MattCrumpLab
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/slimaneraphaele/
     - icon: github
       text: Github
-      href: https://github.com/CrumpLab
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=49EVuVcAAAAJ&hl=en
+      href: https://github.com/raphaeleadjerad/
     - icon: youtube
       href: https://www.youtube.com/c/CrumpsComputationalCognitionLab
       text: Youtube
-    - icon: globe
-      text: Brooklyn College
-      href: https://www.brooklyn.edu/faculty-staff/matthew-crump/
-    - icon: globe
-      text: flickr
-      href: https://www.flickr.com/photos/201779890@N02/
-    - icon: globe
-      text: bluesky
-      href: https://bsky.app/profile/mattcrumplab.bsky.social
-    - icon: globe
-      text: The Graduate Center, CUNY
-      href: https://www.gc.cuny.edu/psychology/training-areas/cognitive-and-comparative-psychology
 engine: knitr
 format:
   html:
@@ -45,24 +27,7 @@ format:
 ```
 
 
-Matt Crump is a cognitive psychologist at Brooklyn College of CUNY, and runs the [computational cognition lab](https://crumplab.com) in the Department of Psychology.
+miscellaneous artworks 
 
-He sometimes makes paintings, pictures, and other visual things.
-
-## Education
-
-Postdoc, Vanderbilt University - 2011 (Psychology)
-
-Ph.D., McMaster University - 2007 (Psychology)
-
-B.Sc., University of Lethbridge - 2002 (Psychology)
-
-## Experience
-
-Assistant Professor - Brooklyn College of CUNY (2011)
-
-Associate Professor - Brooklyn College of CUNY (2016)
-
-Full Professor - Brooklyn College of CUNY (2022)
 
 

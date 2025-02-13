@@ -1,10 +1,10 @@
 ---
-title: Bike 1
-author: Matt Crump
-image: ../../images/airbrush/bike 1.jpg
-description: airbrush on paper
+title: Quartier de la goutte d'or
+author: Raphaële Adjerad
+image: ../../images/airbrush/goutteor.png
+description: Quartier de la goutte d'or
 categories: [airbrush]
-date: 2016-04-01 09:10:50
+date: 2024-02-06
 format:
   html:
     page-layout: full

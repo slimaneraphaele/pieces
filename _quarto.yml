@@ -13,7 +13,7 @@ project:
 website:
   title: "things"
   site-url: https://crumplab.com/things
-  description: Visual things by Matt Crump
+  description: pieces by Raphaële Adjerad
   open-graph:
     image: imgs/things.jpg
   twitter-card:
@@ -34,7 +34,7 @@ website:
       - href: about.qmd
         text: about
   page-footer: |
-    Copyright 2019-2024 Matt Crump, All rights reserved.
+    Copyright Raphaële Adjerad, All rights reserved.
 
 format:
   html:

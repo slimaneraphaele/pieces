@@ -1,0 +1,14 @@
+---
+title: Shallan, Les archives de Roshar, Brandon Sanderson
+author: Raphaële Slimane
+image: ../../images/airbrush/sanderson1.png
+description: Illustration du personnage de Shallan, Les archives de Roshar, Brandon Sanderson
+categories: [sanderson]
+date: 2024-06-24
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/sanderson/sanderson1.png)
+

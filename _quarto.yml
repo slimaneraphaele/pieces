@@ -13,7 +13,7 @@ project:
 website:
   title: "things"
   site-url: https://crumplab.com/things
-  description: pieces by Raphaële Adjerad
+  description: pieces by Raphaële Slimane
   open-graph:
     image: imgs/things.jpg
   twitter-card:
@@ -34,7 +34,7 @@ website:
       - href: about.qmd
         text: about
   page-footer: |
-    Copyright Raphaële Adjerad, All rights reserved.
+    Copyright Raphaële Slimane, All rights reserved.
 
 format:
   html:

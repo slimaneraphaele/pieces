@@ -1,6 +1,6 @@
 ---
 title: "First Things Blog post"
-author: "Matt Crump"
+author: "Raphaele Slimane"
 date: 10/8/24
 description: "Setting up this blog"
 image: "cover.jpg"
@@ -29,7 +29,7 @@ lightbox:
 
 ## Quick Test
 
-Not much to see on this post. Just setting up the blogging system on this site.
+test
 
 
 

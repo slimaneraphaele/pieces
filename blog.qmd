@@ -1,6 +1,6 @@
 ---
 title: "Pieces Blog"
-author: Raphaele Adjerad
+author: Raphaele Slimane
 description: Occasional blog posts.
 image: imgs/things.jpg
 editor: visual

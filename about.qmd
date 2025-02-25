@@ -8,11 +8,8 @@ about:
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/slimaneraphaele/
-    - icon: github
-      text: Github
-      href: https://github.com/raphaeleadjerad/
     - icon: youtube
-      href: https://www.youtube.com/c/CrumpsComputationalCognitionLab
+      href: https://www.youtube.com/@colormajor
       text: Youtube
 engine: knitr
 format:
@@ -27,7 +24,7 @@ format:
 ```
 
 
-various artworks i make
+trucs en vrac que je fais
 
 
 

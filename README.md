@@ -1,5 +1,5 @@
 ## Readme
 
-Visual portfolio website for Raphaele Adjerad.
+Visual portfolio website for Raphaële Slimane.
 
 Built with Quarto.

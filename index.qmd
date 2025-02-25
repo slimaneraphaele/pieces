@@ -1,6 +1,6 @@
 ---
-title: "pieces by Raphaele Slimane"
-subtitle: "Copyright Raphaele Slimane, All Rights Reserved."
+title: "pieces by Raphaële Slimane"
+subtitle: "Copyright Raphaële Slimane, All Rights Reserved."
 listing:
   contents: things
   type: grid

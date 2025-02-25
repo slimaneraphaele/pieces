@@ -1,5 +1,5 @@
 ---
-author: "Raphaele Slimane"
+author: "Raphaële Slimane"
 title: "Work in progress"
 description: "Some snapshots of things across the building process"
 image: wip/IMG_0405.jpeg

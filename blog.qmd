@@ -1,7 +1,7 @@
 ---
 title: "Pieces Blog"
-author: Raphaele Slimane
-description: Occasional blog posts.
+author: Raphaële Slimane
+description: posts de blog.
 image: imgs/things.jpg
 editor: visual
 listing:

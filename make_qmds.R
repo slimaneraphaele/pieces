@@ -37,7 +37,7 @@ for(i in 1:9){
     glue("
   ---
   title: <<title>>
-  author: Raphaele Adjerad
+  author: Raphaële Slimane
   image: ../../<<image_location>>
   description: <<description>>
   categories: [<<directory>>]

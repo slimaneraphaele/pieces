@@ -25,7 +25,7 @@ format:
 ```
 
 
-trucs en vrac que je fais
+
 
 
 

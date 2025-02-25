@@ -13,7 +13,7 @@ project:
 website:
   title: "pieces"
   site-url: https://crumplab.com/things
-  description: pieces by Raphaële Slimane
+  description: Raphaële Slimane's corner
   open-graph:
     image: imgs/things.jpg
   twitter-card:
@@ -37,7 +37,7 @@ website:
 format:
   html:
     theme: sketchy
-    css: bootstrap.css
+    css: styles.css
     toc: true
     page-layout: full
     grid:

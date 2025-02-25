@@ -1,5 +1,5 @@
 ---
-title: "pieces by Raphaële Slimane"
+title: "Raphaële Slimane's corner"
 subtitle: "Copyright Raphaële Slimane, All Rights Reserved."
 listing:
   contents: things

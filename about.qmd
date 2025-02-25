@@ -1,9 +1,9 @@
 ---
 title: "About"
-image: imgs/Crump.png
+image: imgs/photo2.jpg
 about:
   template: trestles
-  image: imgs/Crump.png
+  image: imgs/photo2.jpg
   links:
     - icon: instagram
       text: Instagram

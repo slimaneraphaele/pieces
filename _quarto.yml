@@ -25,8 +25,8 @@ website:
     contents:
       - href: index.qmd
         text: home
-      - href: playground.qmd
-        text: playground
+      - href: blog.qmd
+        text: blog
       - href: wip.qmd
         text: work in progress
       - href: about.qmd

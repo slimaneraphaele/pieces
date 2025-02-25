@@ -1,0 +1,13 @@
+---
+title: Grand-mère
+author: Raphaële Slimane
+image: ../../images/childrenillustration/illustrationenfant.png
+description: Grand-mère
+categories: [childrenillustration]
+date: 2024-08-05
+format:
+  html:
+  page-layout: full
+---
+
+![](../../images/childrenillustration/illustrationenfant.png)

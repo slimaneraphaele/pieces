@@ -439,7 +439,10 @@
     "href": "blog.html",
     "title": "Pieces Blog",
     "section": "",
-    "text": "First Things Blog post\n\n\n\n\n\n\nblogging\n\n\n\nSetting up this blog\n\n\n\n\n\nOct 8, 2024\n\n\nRaphaele Slimane\n\n\n\n\n\n\nNo matching items"
+    "text": "First Things Blog post\n\n\n\n\n\n\nblogging\n\n\n\nSetting up this blog\n\n\n\n\n\nOct 8, 2024\n\n\nRaphaele Slimane\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "blog"
+    ]
   },
   {
     "objectID": "playground.html",
@@ -448,7 +451,7 @@
     "section": "",
     "text": "test\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "terrain de jeux"
+      "playground"
     ]
   },
   {
@@ -843,7 +846,7 @@
     "section": "",
     "text": "Took the line art from it and inverted it.",
     "crumbs": [
-      "travaux en cours"
+      "work in progress"
     ]
   },
   {

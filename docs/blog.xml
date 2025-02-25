@@ -5,13 +5,13 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>things</title>
+<title>pieces</title>
 <link>https://crumplab.com/things/blog.html</link>
 <atom:link href="https://crumplab.com/things/blog.xml" rel="self" type="application/rss+xml"/>
 <description>posts de blog.</description>
 <image>
 <url>https://crumplab.com/things/imgs/things.jpg</url>
-<title>things</title>
+<title>pieces</title>
 <link>https://crumplab.com/things/blog.html</link>
 </image>
 <generator>quarto-1.6.40</generator>

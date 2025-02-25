@@ -1,0 +1,14 @@
+---
+title: Grand cafe athenes
+author: Raphaële Adjerad
+image: ../../images/airbrush/grandcafeathene.png
+description: Grand Café d'Athènes Chateau d'eau, Paris
+categories: [airbrush]
+date: 2024-02-06
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/airbrush/grandcafeathene.png)
+

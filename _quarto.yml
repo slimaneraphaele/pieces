@@ -11,22 +11,20 @@ project:
     - "!*.Rmd"
 
 website:
-  title: "things"
+  title: "pieces"
   site-url: https://crumplab.com/things
   description: pieces by Raphaële Slimane
   open-graph:
     image: imgs/things.jpg
   twitter-card:
     image: imgs/things.jpg
-  google-analytics: "G-5FFRFL1GSE"
+  google-analytics: ""
   sidebar:
     style: "floating"
     search: false
     contents:
       - href: index.qmd
         text: home
-      - href: prints.qmd
-        text: Buy Prints
       - href: playground.qmd
         text: playground
       - href: wip.qmd
@@ -38,8 +36,8 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: sketchy
+    css: bootstrap.css
     toc: true
     page-layout: full
     grid:

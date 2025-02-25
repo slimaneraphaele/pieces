@@ -1,5 +1,5 @@
 ---
-title: "pieces by Raphaele Adjerad"
+title: "pieces by Raphaele Slimane"
 listing:
   contents: playground
   type: grid
@@ -14,6 +14,7 @@ listing:
     - "date desc"
 format:
   html:
+    theme: sketchy
     page-layout: full
 ---
 

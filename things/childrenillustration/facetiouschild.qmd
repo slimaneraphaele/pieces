@@ -1,0 +1,14 @@
+---
+title: Enfant
+author: Raphaële Slimane
+image: ../../images/childrenillustration/facetiouschild.png
+description: Enfant facétieux 
+categories: [childrenillustration]
+date: 2024-03-15
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/childrenillustration/facetiouschild.png)
+

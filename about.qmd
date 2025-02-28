@@ -11,18 +11,12 @@ about:
     - icon: youtube
       href: https://www.youtube.com/@colormajor
       text: Youtube
-engine: knitr
 format:
   html:
     theme: sketchy
     toc: false
 ---
 
-```{css, echo=FALSE}
-#quarto-sidebar-glass {
-    display: none;
-  }
-```
 
 
 

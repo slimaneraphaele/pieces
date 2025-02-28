@@ -20,10 +20,6 @@ lightbox:
   loop: true
 ---
 
-```{r}
-
-```
-
 
 ![](cover.jpg){width="50%" fig-align="left"}
 

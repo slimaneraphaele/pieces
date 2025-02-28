@@ -1,0 +1,14 @@
+---
+title: Petite sorcière
+author: Raphaële Slimane
+image: ../../images/childrenillustration/illustrationenfant2.png
+description: Une petite sorcière qui rève
+categories: [childrenillustration]
+date: 2024-05-23
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/childrenillustration/illustrationenfant2.png)
+

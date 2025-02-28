@@ -1,9 +1,5 @@
 project:
   type: website
-  preview:
-    port: 4200
-    browser: true
-    navigate: true
   render:
     - "*.qmd"
     - "!vignettes/"
@@ -12,11 +8,9 @@ project:
 website:
   title: "pieces"
   description: Raphaële Slimane's corner
-  open-graph:
-    image: imgs/things.jpg
-  twitter-card:
-    image: imgs/things.jpg
-  google-analytics: ""
+  #open-graph:
+    #image: imgs/things.jpg
+  #google-analytics: ""
   sidebar:
     style: "floating"
     search: false

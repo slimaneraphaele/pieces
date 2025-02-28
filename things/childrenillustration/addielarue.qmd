@@ -1,14 +1,14 @@
 ---
-title: Addie
+title: Chevalière
 author: Raphaële Slimane
-image: ../../images/childrenillustration/addielarue.png
-description: Addie Larue de La Vie invisible d'Addie Larue, V. E. Schwab
+image: ../../images/childrenillustration/chevalier.png
+description: Petite chevalière
 categories: [childrenillustration]
-date: 2024-03-13
+date: 2024-04-01
 format:
   html:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/addielarue.png)
+![](../../images/childrenillustration/chevalier.png)
 

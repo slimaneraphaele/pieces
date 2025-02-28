@@ -1,0 +1,14 @@
+---
+title: Ours
+author: Raphaële Slimane
+image: ../../images/childrenillustration/littlebear.png
+description: Petit ours qui fait de la poterie
+categories: [childrenillustration]
+date: 2024-04-05
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/childrenillustration/littlebear.png)
+

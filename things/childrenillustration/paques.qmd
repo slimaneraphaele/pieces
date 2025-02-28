@@ -1,0 +1,14 @@
+---
+title: Paques
+author: Raphaële Slimane
+image: ../../images/childrenillustration/paques.png
+description: Enfant qui joue avec des oeufs de Pâques
+categories: [childrenillustration]
+date: 2024-03-29
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/childrenillustration/paques.png)
+

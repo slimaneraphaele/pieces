@@ -1,0 +1,14 @@
+---
+title: Fille avec un tatouage
+author: Raphaële Slimane
+image: ../../images/generalillustration/tattoe.png
+description: Illustration d'une fille avec un tatouage 
+categories: [generalillustration]
+date: 2024-05-07
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/generalillustration/tattoe.png)
+

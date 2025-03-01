@@ -1,0 +1,14 @@
+---
+title: Fourth Wing
+author: Raphaële Slimane
+image: ../../images/fanart/fourthwing.png
+description: Illustration de Violet, Fourth Wing
+categories: [fanart]
+date: 2024-05-01
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/fanart/fourthwing.png)
+

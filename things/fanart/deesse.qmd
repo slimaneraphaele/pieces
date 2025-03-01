@@ -1,0 +1,14 @@
+---
+title: Hecate
+author: Raphaële Slimane
+image: ../../images/fanart/deesse.png
+description: Illustration de la déesse Hecate
+categories: [fanart]
+date: 2024-01-29
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/fanart/deesse.png)
+

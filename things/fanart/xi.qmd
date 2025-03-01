@@ -1,0 +1,14 @@
+---
+title: Xi
+author: Raphaële Slimane
+image: ../../images/fanart/xi.png
+description: Illustration du personnage de Xi, jeux de rôle Avatar le dernier maître de l'air
+categories: [fanart]
+date: 2025-02-20
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/fanart/xi.png)
+

@@ -1,0 +1,14 @@
+---
+title: Tran Tran Zai
+author: Raphaële Slimane
+image: ../../images/urbansketch/trantranzai.png
+description: Tran Tran Zai, Châtelet, Paris
+categories: [urbansketch]
+date: 2025/02/22
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/trantranzai.png)
+

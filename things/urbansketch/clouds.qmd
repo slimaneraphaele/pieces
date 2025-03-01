@@ -1,0 +1,14 @@
+---
+title: Nuages
+author: Raphaële Slimane
+image: ../../images/urbansketch/clouds.png
+description: Nuages
+categories: [urbansketch]
+date: 2025/02/21
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/clouds.png)
+

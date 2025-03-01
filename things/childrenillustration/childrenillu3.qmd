@@ -2,7 +2,7 @@
 title: Petite sorcière
 author: Raphaële Slimane
 image: ../../images/childrenillustration/illustrationenfant2.png
-description: Une petite sorcière qui rève
+description: Une petite sorcière qui rêve
 categories: [childrenillustration]
 date: 2024-05-23
 format:

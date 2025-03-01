@@ -1,0 +1,14 @@
+---
+title: Italy
+author: Raphaële Slimane
+image: ../../images/urbansketch/italy.png
+description: Unknown city, little bridge, Italy
+categories: [urbansketch]
+date: 2024/10/13
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/italy.png)
+

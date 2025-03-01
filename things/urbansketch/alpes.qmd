@@ -1,0 +1,14 @@
+---
+title: Valloire
+author: Raphaële Slimane
+image: ../../images/urbansketch/alpes.png
+description: Sculpture sur paille et foin, Valloire, Alpes
+categories: [urbansketch]
+date: 2024/07/14
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/alpes.png)
+

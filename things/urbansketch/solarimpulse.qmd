@@ -1,0 +1,14 @@
+---
+title: Solar impulse
+author: Raphaële Slimane
+image: ../../images/urbansketch/solarimpulse.png
+description: Solar Impulse, Cité des sciences, Paris
+categories: [urbansketch]
+date: 2025/02/28
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/solarimpulse.png)
+

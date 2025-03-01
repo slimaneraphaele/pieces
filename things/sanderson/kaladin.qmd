@@ -1,0 +1,14 @@
+---
+title: Kaladin, Les archives de Roshar, Brandon Sanderson
+author: Raphaële Slimane
+image: ../../images/sanderson/kaladin.png
+description: Illustration du personnage de Kaladin, Les archives de Roshar, Brandon Sanderson
+categories: [sanderson]
+date: 2024-06-25
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/sanderson/kaladin.png)
+

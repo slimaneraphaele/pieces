@@ -1,8 +1,7 @@
 ---
 author: "Raphaële Slimane"
 title: "Work in progress"
-description: "Some snapshots of things across the building process"
-image: wip/IMG_0405.jpeg
+description: ""
 lightbox: 
   match: auto
   desc-position: right
@@ -15,7 +14,6 @@ lightbox:
 ::: {layout-ncol=4}
 
 
-![Took the line art from it and inverted it.](wip/Cliffs of Volcano ball lake bw.png){group="gallery"}
 
 
 :::

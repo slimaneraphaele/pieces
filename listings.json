@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/1_10_8_24_first_post/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/things/urbansketch/solarimpulse.html",
@@ -22,6 +16,9 @@
       "/things/childrenillustration/childrenillu2.html",
       "/things/childrenillustration/dragonrider.html",
       "/things/childrenillustration/childrenillu3.html",
+      "/things/generalillustration/pizza.html",
+      "/things/generalillustration/tatooe.html",
+      "/things/childrenillustration/rabbit.html",
       "/things/fanart/fourthwing.html",
       "/things/childrenillustration/calvinhobbes.html",
       "/things/childrenillustration/littlebear.html",
@@ -36,6 +33,12 @@
       "/things/childrenillustration/pandas.html",
       "/things/childrenillustration/taupe.html",
       "/things/urbansketch/england.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/1_10_8_24_first_post/index.html"
     ]
   }
 ]

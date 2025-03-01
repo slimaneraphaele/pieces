@@ -2,7 +2,7 @@
 title: "Pieces Blog"
 author: Raphaële Slimane
 description: posts de blog.
-image: imgs/things.jpg
+image: images/childrenillustration/illustrationenfant2.png
 editor: visual
 listing:
   contents: blog

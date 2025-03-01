@@ -1,4 +1,38 @@
-img {
-  max-height: 800px;
+/* Increase the font size of blog posts */
+body {
+  font-size: 25px;  /* Adjust as needed */
+  line-height: 1.6; /* Improves readability */
 }
 
+/* Enhance headings */
+h1, h2, h3 {
+  font-weight: bold;
+  margin-top: 1.5em;
+}
+
+/* Improve paragraph spacing */
+p {
+  margin-bottom: 1em;
+}
+
+/* Style for blog images */
+img {
+  max-height: 800px;
+  max-width: 100%; /* Makes sure images scale properly */
+  height: auto;
+  display: block;
+  margin: 20px auto; /* Centers images */
+}
+
+/* Adjust figure alignment */
+figure {
+  text-align: center;
+}
+
+/* Style for blockquotes */
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #999;
+  padding-left: 15px;
+  color: #555;
+}

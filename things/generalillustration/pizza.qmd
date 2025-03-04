@@ -2,7 +2,7 @@
 title: Pizza
 author: Raphaële Slimane
 image: ../../images/generalillustration/pizza.png
-description: Illustration "d'une fille avec un tatouage "You can't make everyone happy you are not pizza"
+description: Illustration "You can't make everyone happy you are not pizza"
 categories: [generalillustration]
 date: 2024-05-17
 format:

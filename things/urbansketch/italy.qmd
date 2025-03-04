@@ -2,7 +2,7 @@
 title: Italy
 author: Raphaële Slimane
 image: ../../images/urbansketch/italy.png
-description: Unknown city, little bridge, Italy
+description: Un petit pont en Italie / Little bridge in Italy
 categories: [urbansketch]
 date: 2024/10/13
 format:

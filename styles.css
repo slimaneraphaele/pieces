@@ -2,6 +2,7 @@
 body {
   font-size: 25px;  /* Adjust as needed */
   line-height: 1.6; /* Improves readability */
+  font-weight: normal;
 }
 
 /* Enhance headings */

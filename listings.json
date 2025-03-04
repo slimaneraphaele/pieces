@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/things/childrenillustration/mouseteaparty.html",
+      "/things/childrenillustration/selflove.html",
       "/things/urbansketch/solarimpulse.html",
       "/things/urbansketch/trantranzai.html",
       "/things/urbansketch/clouds.html",
@@ -22,12 +24,12 @@
       "/things/fanart/fourthwing.html",
       "/things/childrenillustration/calvinhobbes.html",
       "/things/childrenillustration/littlebear.html",
-      "/things/childrenillustration/addielarue.html",
       "/things/childrenillustration/chat.html",
+      "/things/childrenillustration/chevaliere.html",
       "/things/childrenillustration/paques.html",
       "/things/childrenillustration/deguisement.html",
       "/things/childrenillustration/facetiouschild.html",
-      "/things/childrenillustration/chevalier.html",
+      "/things/fanart/addielarue.html",
       "/things/fanart/fae.html",
       "/things/fanart/deesse.html",
       "/things/childrenillustration/pandas.html",
@@ -38,8 +40,7 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/blog/2_2024_08_02_visages/index.html",
-      "/blog/1_2024_07_24_cheval/index.html"
+      "/blog/1_2025_03_04_bienvenue/index.html"
     ]
   }
 ]

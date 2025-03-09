@@ -5,13 +5,13 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>pieces</title>
+<title>Raphaële Slimane&#39;s corner</title>
 <link>https://www.slimaneraphaele.com/blog.html</link>
 <atom:link href="https://www.slimaneraphaele.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description>posts de blog.</description>
 <image>
 <url>https://www.slimaneraphaele.com/images/childrenillustration/illustrationenfant2.png</url>
-<title>pieces</title>
+<title>Raphaële Slimane&#39;s corner</title>
 <link>https://www.slimaneraphaele.com/blog.html</link>
 <height>127</height>
 <width>144</width>
@@ -42,7 +42,7 @@
 
 </section>
 
- ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>blogging</category>
   <guid>https://www.slimaneraphaele.com/blog/1_2025_03_04_bienvenue/</guid>
   <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>

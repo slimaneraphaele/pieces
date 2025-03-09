@@ -1,10 +1,132 @@
 [
   {
+    "objectID": "wip.html",
+    "href": "wip.html",
+    "title": "Work in progress",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "work in progress"
+    ]
+  },
+  {
+    "objectID": "things/urbansketch/solarimpulse.html",
+    "href": "things/urbansketch/solarimpulse.html",
+    "title": "Solar impulse",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/urbansketch/italy.html",
+    "href": "things/urbansketch/italy.html",
+    "title": "Italy",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/urbansketch/england.html",
+    "href": "things/urbansketch/england.html",
+    "title": "Hebdenbridge",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/urbansketch/alpes.html",
+    "href": "things/urbansketch/alpes.html",
+    "title": "Valloire",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/sanderson/kaladin.html",
+    "href": "things/sanderson/kaladin.html",
+    "title": "Kaladin, Les archives de Roshar, Brandon Sanderson",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/generalillustration/pizza.html",
+    "href": "things/generalillustration/pizza.html",
+    "title": "Pizza",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/fanart/fourthwing.html",
+    "href": "things/fanart/fourthwing.html",
+    "title": "Fourth Wing",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/fanart/deesse.html",
+    "href": "things/fanart/deesse.html",
+    "title": "Hecate",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/taupe.html",
+    "href": "things/childrenillustration/taupe.html",
+    "title": "Loutre",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/rabbit.html",
+    "href": "things/childrenillustration/rabbit.html",
+    "title": "Lapin et Blaireau",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/pandas.html",
+    "href": "things/childrenillustration/pandas.html",
+    "title": "Pandas",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/littlebear.html",
+    "href": "things/childrenillustration/littlebear.html",
+    "title": "Ours",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/dragonrider.html",
+    "href": "things/childrenillustration/dragonrider.html",
+    "title": "Dragon",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/childrenillu3.html",
+    "href": "things/childrenillustration/childrenillu3.html",
+    "title": "Petite sorcière",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/childrenillu.html",
+    "href": "things/childrenillustration/childrenillu.html",
+    "title": "Grand-mere",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/chat.html",
+    "href": "things/childrenillustration/chat.html",
+    "title": "Chat",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Raphaële Slimane’s corner",
+    "title": "Raphaële Slimane’s corner   ",
     "section": "",
-    "text": "No matching items",
+    "text": "No matching items\n\n Back to top",
     "crumbs": [
       "home"
     ]
@@ -14,9 +136,19 @@
     "href": "blog.html",
     "title": "Pieces Blog",
     "section": "",
-    "text": "Bienvenue / Welcome\n\n\n\n\n\n\nblogging\n\n\n\nBienvenue / Welcome\n\n\n\n\n\nMar 4, 2025\n\n\nRaphaële Slimane\n\n\n\n\n\n\nNo matching items",
+    "text": "Bienvenue / Welcome\n\n\n\n\n\n\nblogging\n\n\n\nBienvenue / Welcome\n\n\n\n\n\nMar 4, 2025\n\n\nRaphaële Slimane\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "blog"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "about"
     ]
   },
   {
@@ -39,5 +171,124 @@
     "title": "Bienvenue / Welcome",
     "section": "Welcome to my site!",
     "text": "Welcome to my site!\nHi, and welcome! I’m Raphaële Slimane, an illustrator navigating between different styles and media. Here, you’ll find a mix of children’s illustrations, urban sketching, explorations of traditional and digital techniques (Procreate), fanart, and character design. I’ll also be sharing my daily sketches and technical experiments.\nI work with paint, ink, pencils, and iPad, depending on the project and the mood. Drawing has always been a passion, but I started digital illustration in 2023. Since then, I’ve been diving into Procreate, while still working with traditional media. I love testing new things, learning, and improving, and I’ll be sharing my progress and discoveries along the way. I live in Paris, surrounded by books and rarely without a sketchbook. By day, I have a more conventional job, but illustration is where my focus really is.\nI write my content in both French and English—French because it’s my native language, and English to connect with the wider artistic community beyond France. Interested in collaborating, discussing a project, or just saying hi? You can reach me on Instagram (@slimaneraphaele)."
+  },
+  {
+    "objectID": "things/childrenillustration/calvinhobbes.html",
+    "href": "things/childrenillustration/calvinhobbes.html",
+    "title": "Calvin",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/chevaliere.html",
+    "href": "things/childrenillustration/chevaliere.html",
+    "title": "Chevalière",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/childrenillu2.html",
+    "href": "things/childrenillustration/childrenillu2.html",
+    "title": "Souris avec des cookies",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/deguisement.html",
+    "href": "things/childrenillustration/deguisement.html",
+    "title": "Deguisement",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/facetiouschild.html",
+    "href": "things/childrenillustration/facetiouschild.html",
+    "title": "Enfant",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/mouseteaparty.html",
+    "href": "things/childrenillustration/mouseteaparty.html",
+    "title": "Souris / Mouse",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/paques.html",
+    "href": "things/childrenillustration/paques.html",
+    "title": "Paques",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/selflove.html",
+    "href": "things/childrenillustration/selflove.html",
+    "title": "Amour de soi / Self-love",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/fanart/addielarue.html",
+    "href": "things/fanart/addielarue.html",
+    "title": "Addie",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/fanart/fae.html",
+    "href": "things/fanart/fae.html",
+    "title": "Aud, Emily Wilde",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/fanart/xi.html",
+    "href": "things/fanart/xi.html",
+    "title": "Xi",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/generalillustration/tatooe.html",
+    "href": "things/generalillustration/tatooe.html",
+    "title": "Fille avec un tatouage",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/sanderson/sanderson1.html",
+    "href": "things/sanderson/sanderson1.html",
+    "title": "Shallan, Les archives de Roshar, Brandon Sanderson",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/urbansketch/clouds.html",
+    "href": "things/urbansketch/clouds.html",
+    "title": "Nuages",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/urbansketch/grandcafeathene.html",
+    "href": "things/urbansketch/grandcafeathene.html",
+    "title": "Grand cafe Athenes",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/urbansketch/morbihan.html",
+    "href": "things/urbansketch/morbihan.html",
+    "title": "Penerf",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/urbansketch/trantranzai.html",
+    "href": "things/urbansketch/trantranzai.html",
+    "title": "Tran Tran Zai",
+    "section": "",
+    "text": "Back to top"
   }
 ]

@@ -3,7 +3,7 @@ title: Souris / Mouse
 author: Raphaële Slimane
 image: ../../images/childrenillustration/mouseteaparty.png
 description: Souris au salon de thé, mouse at a tea party
-categories: [childrenillustration]
+categories: ["children illustration"]
 date: 2025-03-04
 format:
   html:

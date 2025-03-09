@@ -3,7 +3,7 @@ title: Calvin
 author: Raphaële Slimane
 image: ../../images/childrenillustration/calvinhobbes.png
 description: Mon interprétation de Calvin et Hobbes
-categories: [childrenillustration]
+categories: ["children illustration"]
 date: 2024-04-18
 format:
   html:

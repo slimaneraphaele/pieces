@@ -6,7 +6,7 @@ project:
     - "!*.Rmd"
 
 website:
-  title: "pieces"
+  title: "Raphaële Slimane's corner"
   description: Raphaële Slimane's corner
   #open-graph:
     #image: imgs/things.jpg
@@ -23,8 +23,23 @@ website:
         text: work in progress
       - href: about.qmd
         text: about
-  page-footer: |
-    Copyright Raphaële Slimane, All rights reserved.
+  page-footer: 
+    left: "Copyright [Raphaële Slimane {{< fa brands instagram>}}](https://www.instagram.com/slimaneraphaele/). All rights reserved." 
+    right: 
+      - icon: instagram
+        href: https://www.instagram.com/slimaneraphaele/
+  back-to-top-navigation: true
+  # navbar:
+  #   background: light
+  #   search: true
+  #   left:
+  #     - text: "_Raphaële Slimane's corner_"
+  #       href: index.qmd
+  #     - text: "{{< fa brands instagram >}}"
+  #       href: https://www.instagram.com/slimaneraphaele/
+  #   right: 
+  #     - text: "{{< fa brands instagram >}}"
+  #       href: https://www.instagram.com/slimaneraphaele/
 
 format:
   html:

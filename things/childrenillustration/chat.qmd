@@ -3,7 +3,7 @@ title: Chat
 author: Raphaële Slimane
 image: ../../images/childrenillustration/chat.png
 description: Chat dans un pot
-categories: [childrenillustration]
+categories: ["children illustration"]
 date: 2024-04-01
 format:
   html:

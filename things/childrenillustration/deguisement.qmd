@@ -3,7 +3,7 @@ title: Deguisement
 author: Raphaële Slimane
 image: ../../images/childrenillustration/deguisement.png
 description: Enfant qui se déguise en Monstres et compagnie
-categories: [childrenillustration]
+categories: ["children illustration"]
 date: 2024-03-16
 format:
   html:

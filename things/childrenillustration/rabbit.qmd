@@ -3,7 +3,7 @@ title: Lapin et Blaireau
 author: Raphaële Slimane
 image: ../../images/childrenillustration/rabbit.png
 description: Lapin et Blaireau qui lisent
-categories: [childrenillustration]
+categories: ["children illustration"]
 date: 2024-05-05
 format:
   html:

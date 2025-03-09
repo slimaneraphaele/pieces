@@ -37,3 +37,22 @@ blockquote {
   padding-left: 15px;
   color: #555;
 }
+
+
+/*
+Cards
+*/
+
+.card-img-top {
+  width: 100%; /* Ensures all images stretch to the card width */
+  height: 300px; /* Set a uniform height for all images */
+  object-fit: cover; /* Crop images to fill the set dimensions */
+  transition: object-position 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
+
+.card-img-top:hover {
+  object-fit: contain; /* Show the whole image on hover */
+  object-position: center; /* Center the image when fully visible */
+  transform: scale(1.1); /* Slight zoom to ensure visibility */
+}
+

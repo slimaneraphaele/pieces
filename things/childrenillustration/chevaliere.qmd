@@ -3,7 +3,7 @@ title: Chevalière
 author: Raphaële Slimane
 image: ../../images/childrenillustration/chevalier.png
 description: Petite chevalière
-categories: [childrenillustration]
+categories: ["children illustration"]
 date: 2024-04-01
 format:
   html:

@@ -3,7 +3,7 @@ title: Loutre
 author: Raphaële Slimane
 image: ../../images/childrenillustration/taupe.png
 description: Loutre qui fait son jardin
-categories: [childrenillustration]
+categories: ["children illustration"]
 date: 2024-01-11
 format:
   html:

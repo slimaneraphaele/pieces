@@ -3,7 +3,7 @@ title: Grand-mere
 author: Raphaële Slimane
 image: ../../images/childrenillustration/illustrationenfant.png
 description: Illustration d'une discussion de grand-mère
-categories: [childrenillustration]
+categories: ["children illustration"]
 date: 2024-08-05
 format:
   html:

@@ -87,9 +87,16 @@
     "text": "Back to top"
   },
   {
-    "objectID": "things/childrenillustration/littlebear.html",
-    "href": "things/childrenillustration/littlebear.html",
-    "title": "Ours",
+    "objectID": "things/childrenillustration/mouseteaparty.html",
+    "href": "things/childrenillustration/mouseteaparty.html",
+    "title": "Souris / Mouse",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/forestcreatures.html",
+    "href": "things/childrenillustration/forestcreatures.html",
+    "title": "Créatures de la forêt / Forest creatures",
     "section": "",
     "text": "Back to top"
   },
@@ -208,9 +215,16 @@
     "text": "Back to top"
   },
   {
-    "objectID": "things/childrenillustration/mouseteaparty.html",
-    "href": "things/childrenillustration/mouseteaparty.html",
-    "title": "Souris / Mouse",
+    "objectID": "things/childrenillustration/littlebear.html",
+    "href": "things/childrenillustration/littlebear.html",
+    "title": "Ours",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "things/childrenillustration/nymphs.html",
+    "href": "things/childrenillustration/nymphs.html",
+    "title": "Nymphes / Nymphs",
     "section": "",
     "text": "Back to top"
   },

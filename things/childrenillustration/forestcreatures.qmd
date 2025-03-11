@@ -1,0 +1,14 @@
+---
+title: Créatures de la forêt / Forest creatures
+author: Raphaële Slimane
+image: ../../images/childrenillustration/forestcreatures.png
+description: Des créatures de la forêt qui bavardent et s'amusent / enchanted forest rendezvous 
+categories: ["children illustration"]
+date: 2025-03-08
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/childrenillustration/forestcreatures.png)
+

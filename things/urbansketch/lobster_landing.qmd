@@ -1,0 +1,14 @@
+---
+title: Lobster landing 
+author: Raphaële Slimane
+image: ../../images/urbansketch/lobster_landing.png
+description: Lobster landing 
+categories: [urbansketch]
+date: 2025/06/11
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/lobster_landing.png)
+

@@ -1,0 +1,14 @@
+---
+title: Une Eglise en Bretagne / A church in Brittany
+author: Raphaële Slimane
+image: ../../images/urbansketch/bretagne_finistere_eglise.png
+description: Eglise de Saint-Goulven /  Saint-Goulven Church
+categories: [urbansketch]
+date: 2025/06/26
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/bretagne_finistere_eglise.png)
+

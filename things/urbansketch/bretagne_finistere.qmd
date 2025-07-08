@@ -1,0 +1,14 @@
+---
+title: Des rochers aux formes insolites / Weird looking rocks
+author: Raphaële Slimane
+image: ../../images/urbansketch/bretagne_finistere.png
+description: Des rochers dans le Finistère / Rocks in Brittany
+categories: [urbansketch]
+date: 2025/07/03
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/bretagne_finistere.png)
+

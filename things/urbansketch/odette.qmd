@@ -1,0 +1,14 @@
+---
+title: Odette Paris
+author: Raphaële Slimane
+image: ../../images/urbansketch/odette.png
+description: Odette Paris 
+categories: [urbansketch]
+date: 2025/07/07
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/odette.png)
+

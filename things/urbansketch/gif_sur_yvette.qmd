@@ -1,0 +1,14 @@
+---
+title: Balade le long de l'Yvette / Walking along the Yvette
+author: Raphaële Slimane
+image: ../../images/urbansketch/gif_sur_yvette.png
+description: Balade le long de l'Yvette / Walking along the Yvette
+categories: [urbansketch]
+date: 2025/06/02
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/gif_sur_yvette.png)
+

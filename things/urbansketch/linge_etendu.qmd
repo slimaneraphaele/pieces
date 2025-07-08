@@ -1,0 +1,14 @@
+---
+title: Venise / Venice
+author: Raphaële Slimane
+image: ../../images/urbansketch/linge_etendu.png
+description: Venise / Venice
+categories: [urbansketch]
+date: 2025/06/18
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/linge_etendu.png)
+

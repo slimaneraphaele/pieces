@@ -1,0 +1,14 @@
+---
+title: Grenoble
+author: Raphaële Slimane
+image: ../../images/urbansketch/grenoble.png
+description: Chateau d'eau Lavalette fountain, Grenoble
+categories: [urbansketch]
+date: 2025/07/17
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/grenoble.png)
+

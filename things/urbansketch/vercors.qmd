@@ -1,0 +1,14 @@
+---
+title: Vercors
+author: Raphaële Slimane
+image: ../../images/urbansketch/vercors.png
+description: Lans en Vercors, vue du chalet
+categories: [urbansketch]
+date: 2025/07/15
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/urbansketch/vercors.png)
+

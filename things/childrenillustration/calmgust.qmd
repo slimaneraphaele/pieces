@@ -1,0 +1,14 @@
+---
+title: Calmgust
+author: Raphaële Slimane
+image: ../../images/childrenillustration/calmgust.png
+description: Participation to challenge Calmgust
+categories: ["children illustration"]
+date: 2025-08-07
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/childrenillustration/calmgust.png)
+

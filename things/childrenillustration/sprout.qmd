@@ -1,0 +1,14 @@
+---
+title: Sprout
+author: Raphaële Slimane
+image: ../../images/childrenillustration/sprout.png
+description: A stroll into magical beans / Une promenade parmi les haricots magiques
+categories: ["children illustration"]
+date: 2024-08-27
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/childrenillustration/sprout.png)
+

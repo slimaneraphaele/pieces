@@ -1,0 +1,14 @@
+---
+title: Ghost dog
+author: Raphaële Slimane
+image: ../../images/childrenillustration/chienfantome.png
+description: A little girl and her ghost dog / Une petite fille et son chien fantôme
+categories: ["children illustration"]
+date: 2024-07-31
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/childrenillustration/chienfantome.png)
+

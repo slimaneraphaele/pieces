@@ -1,0 +1,14 @@
+---
+title: A girl reading in the forest
+author: Raphaële Slimane
+image: ../../images/childrenillustration/vangogh.png
+description: Participation to challenge selftember, van Gogh inspiration
+categories: ["children illustration"]
+date: 2025-09-03
+format:
+  html:
+    page-layout: full
+---
+
+![](../../images/childrenillustration/vangogh.png)
+

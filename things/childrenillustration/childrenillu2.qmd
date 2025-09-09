@@ -1,7 +1,7 @@
 ---
 title: Souris avec des cookies
 author: Raphaële Slimane
-image: ../../images/childrenillustration/illustrationenfant3.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411632/illustrationenfant3_jzxgez.png
 description: Illustration d'une souris portant un plat de cookies
 categories: ["children illustration"]
 date: 2024-06-03
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/illustrationenfant3.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411632/illustrationenfant3_jzxgez.png)
 

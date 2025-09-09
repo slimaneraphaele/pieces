@@ -1,8 +1,8 @@
 ---
-title: Petite sorcière
+title: Petite sorcière / Little witch
 author: Raphaële Slimane
-image: ../../images/childrenillustration/illustrationenfant2.png
-description: Une petite sorcière qui rêve
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411628/illustrationenfant2_ol7kqa.png
+description: Une petite sorcière qui rêve / Little dreaming witch
 categories: ["children illustration"]
 date: 2024-05-23
 format:
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/illustrationenfant2.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411628/illustrationenfant2_ol7kqa.png)
 

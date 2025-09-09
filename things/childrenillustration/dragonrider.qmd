@@ -1,8 +1,8 @@
 ---
 title: Dragon
 author: Raphaële Slimane
-image: ../../images/childrenillustration/dragonrider.png
-description: Petite cavalière et son dragon de compagnie
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411591/dragonrider_xukzos.png
+description: Petite cavalière et son dragon de compagnie / Little rider and her pet dragon
 categories: ["children illustration"]
 date: 2024-05-30
 format:
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/dragonrider.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411591/dragonrider_xukzos.png)
 

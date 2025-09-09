@@ -1,7 +1,7 @@
 ---
 title: Chat
 author: Raphaële Slimane
-image: ../../images/childrenillustration/chat.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411572/chat_cdcq73.png
 description: Chat dans un pot
 categories: ["children illustration"]
 date: 2024-04-01
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/chat.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411572/chat_cdcq73.png)
 

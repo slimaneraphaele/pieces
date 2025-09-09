@@ -1,8 +1,8 @@
 ---
-title: Deguisement
+title: Deguisement / Monster costume
 author: Raphaële Slimane
-image: ../../images/childrenillustration/deguisement.png
-description: Enfant qui se déguise en Monstres et compagnie
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411587/deguisement_msueqo.png
+description: Enfant qui se déguise en Monstres et compagnie / Costume from Monster and Inc
 categories: ["children illustration"]
 date: 2024-03-16
 format:
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/deguisement.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411587/deguisement_msueqo.png)
 

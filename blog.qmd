@@ -1,7 +1,7 @@
 ---
-title: "Pieces Blog"
+title: "Curating golden nuggets of art"
 author: Raphaële Slimane
-description: Blog posts.
+description: Archive from my substack.
 listing:
   contents: blog
   id: blog_list

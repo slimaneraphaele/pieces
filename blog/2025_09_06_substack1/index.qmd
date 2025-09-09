@@ -20,6 +20,8 @@ lightbox:
   loop: true
 ---
 
+[Link to the post on my substack](https://raphaeleart.substack.com/p/5-art-related-things-that-sparked)
+
 1. I’ve been reading *[Letters to Theo](https://www.vangoghmuseum.nl/en/highlights/letters)* by Vincent van Gogh.  
 It is the correspondence Vincent wrote throughout his life to his brother.  
 The letters are in turn poetic, funny, witty, delightfully weird, and all in all wonderful.  

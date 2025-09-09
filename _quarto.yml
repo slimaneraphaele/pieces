@@ -19,8 +19,6 @@ website:
         text: home
       - href: blog.qmd
         text: blog
-      - href: wip.qmd
-        text: work in progress
       - href: about.qmd
         text: about
   page-footer: 

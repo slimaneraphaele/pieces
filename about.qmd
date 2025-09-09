@@ -8,9 +8,9 @@ about:
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/slimaneraphaele/
-    - icon: youtube
-      href: https://www.youtube.com/@colormajor
-      text: Youtube
+ #   - icon: youtube
+#      href: https://www.youtube.com/@colormajor
+ #     text: Youtube
 format:
   html:
     theme: sketchy

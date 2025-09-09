@@ -1,0 +1,13 @@
+---
+title: Johanna van Gogh-Bonger
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757423661/johannavangogh_stxsxj.png
+description: Johanna van Gogh-Bonger 
+categories: [fanart]
+date: 2025-09-08
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757423661/johannavangogh_stxsxj.png)

@@ -1,7 +1,7 @@
 ---
 title: Aud, Emily Wilde
 author: Raphaële Slimane
-image: ../../images/fanart/fae.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411603/fae_sxsykq.png
 description: Illustration du personnage de Aud, Emily Wilde's encyclopaedia of faeries, Heather Fawcett
 categories: [fanart]
 date: 2024-02-24
@@ -10,4 +10,4 @@ format:
     page-layout: full
 ---
 
-![](../../images/fanart/fae.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411603/fae_sxsykq.png)

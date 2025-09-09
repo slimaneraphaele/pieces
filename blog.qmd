@@ -1,18 +1,22 @@
 ---
 title: "Pieces Blog"
 author: Raphaële Slimane
-description: posts de blog.
-image: images/childrenillustration/illustrationenfant2.png
-editor: visual
+description: Blog posts.
 listing:
   contents: blog
   id: blog_list
+  type: grid               # cartes
   sort: "date desc"
-  type: default
+  page-size: 9
   categories: true
-  image-align: 'right'
-  image-height: '100%'
-  feed: true
+  filter-ui: true          # champ de recherche
+  sort-ui: [date, title]   # menu de tri
+  # Optionnel (nécessite Quarto ≥1.4) :
+  # fields: [image, title, categories, description, date]
+format:
+  html:
+    page-layout: full
+    toc: false
 ---
 
 ::: {#blog_list}

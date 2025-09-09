@@ -1,14 +1,8 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/2025_09_06_substack1/index.html",
-      "/blog/1_2025_03_04_bienvenue/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
+      "/things/fanart/johannavangogh.html",
       "/things/childrenillustration/vangogh.html",
       "/things/childrenillustration/sprout.html",
       "/things/urbansketch/coulee_verte.html",
@@ -67,6 +61,13 @@
       "/things/childrenillustration/pandas.html",
       "/things/childrenillustration/taupe.html",
       "/things/urbansketch/england.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/2025_09_06_substack1/index.html",
+      "/blog/1_2025_03_04_bienvenue/index.html"
     ]
   }
 ]

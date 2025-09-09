@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Raphaële Slimane">
-<meta name="description" content="posts de blog.">
+<meta name="description" content="Blog posts.">
 
 <title>Pieces Blog – Raphaële Slimane’s corner</title>
 <style>
@@ -83,9 +83,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -134,7 +134,7 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Raphaële Slimane's corner" href="blog.xml" data-external="1"></head>
+</head>
 
 <body class="nav-sidebar floating quarto-light">
 
@@ -192,7 +192,6 @@ window.Quarto = {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="YmxvZ2dpbmc=">blogging <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content column-body" id="quarto-document-content">
@@ -204,7 +203,7 @@ window.Quarto = {
 
 <div>
   <div class="description">
-    posts de blog.
+    Blog posts.
   </div>
 </div>
 
@@ -227,67 +226,87 @@ window.Quarto = {
 </header>
 
 
-<div id="listing-blog_list" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="YmxvZ2dpbmc=" data-listing-date-sort="1757116800000" data-listing-file-modified-sort="1757423828903" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="668">
-<div class="thumbnail"><a href="./blog/2025_09_06_substack1/index.html" class="no-external">
-
-<img loading="lazy" src="./blog/2025_09_06_substack1/vangogh.png" class="thumbnail-image" style="height: 100%;">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/2025_09_06_substack1/index.html" class="no-external">5 art-related things that sparked something in me this week</a>
-</h3>
+<div id="listing-blog_list" class="quarto-listing quarto-listing-container-grid">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-blog_list-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-blog_list'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="YmxvZ2dpbmc=" data-listing-date-sort="1757116800000" data-listing-file-modified-sort="1757424407732" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="668">
+<a href="./blog/2025_09_06_substack1/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./blog/2025_09_06_substack1/vangogh.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+5 art-related things that sparked something in me this week
+</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('YmxvZ2dpbmc='); return false;">blogging</div>
 
 </div>
-<div class="delink listing-description"><a href="./blog/2025_09_06_substack1/index.html" class="no-external">
+<div class="card-text listing-description delink">
 <p>Deep dive into Vincent Van Gogh</p>
-</a></div>
 </div>
-<div class="metadata">
-<a href="./blog/2025_09_06_substack1/index.html" class="no-external">
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Raphaële Slimane
+</div>
 <div class="listing-date">
 Sep 6, 2025
 </div>
-<div class="listing-author">
-Raphaële Slimane
-</div>
-</a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="YmxvZ2dpbmc=" data-listing-date-sort="1741046400000" data-listing-file-modified-sort="1757423828903" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="362">
-<div class="thumbnail"><a href="./blog/1_2025_03_04_bienvenue/index.html" class="no-external">
-
-<img loading="lazy" src="./blog/1_2025_03_04_bienvenue/illustrationenfant2.png" class="thumbnail-image" style="height: 100%;">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./blog/1_2025_03_04_bienvenue/index.html" class="no-external">Bienvenue / Welcome</a>
-</h3>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="YmxvZ2dpbmc=" data-listing-date-sort="1741046400000" data-listing-file-modified-sort="1757424407731" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="362">
+<a href="./blog/1_2025_03_04_bienvenue/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./blog/1_2025_03_04_bienvenue/illustrationenfant2.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bienvenue / Welcome
+</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('YmxvZ2dpbmc='); return false;">blogging</div>
 
 </div>
-<div class="delink listing-description"><a href="./blog/1_2025_03_04_bienvenue/index.html" class="no-external">
+<div class="card-text listing-description delink">
 <p>Bienvenue / Welcome</p>
-</a></div>
 </div>
-<div class="metadata">
-<a href="./blog/1_2025_03_04_bienvenue/index.html" class="no-external">
-<div class="listing-date">
-Mar 4, 2025
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Raphaële Slimane
 </div>
-</a>
+<div class="listing-date">
+Mar 4, 2025
 </div>
+</div>
+</div>
+</div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>

@@ -1,7 +1,7 @@
 ---
 title: La coulée verte de Malakoff
 author: Raphaële Slimane
-image: ../../images/urbansketch/coulee_verte2.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757408631/coulee_verte2_wnlvvq.png
 description: La coulée verte de Malakoff, printemps, à l'huile
 categories: [urbansketch]
 date: 2025/08/20
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/urbansketch/coulee_verte2.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757408631/coulee_verte2_wnlvvq.png)
 

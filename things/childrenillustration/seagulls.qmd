@@ -1,7 +1,7 @@
 ---
 title: Seagulls
 author: Raphaële Slimane
-image: ../../images/childrenillustration/seagulls.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757408633/seagulls_mewy9b.png
 description: Seagulls, Bretagne
 categories: ["children illustration"]
 date: 2025-07-24
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/seagulls.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757408633/seagulls_mewy9b.png)
 

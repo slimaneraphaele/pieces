@@ -2,7 +2,7 @@
 title: Xi
 author: Raphaële Slimane
 image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411740/xi_zwkdfb.png
-description: Personnage de Xi, jeux de rôle Avatar le dernier maître de l'air / character Xi, role-playing games Avatar: The Last Airbender
+description: Personnage de Xi, Avatar le dernier maître de l'air /  Xi, games Avatar: The Last Airbender
 categories: [fanart]
 date: 2025-02-20
 format:

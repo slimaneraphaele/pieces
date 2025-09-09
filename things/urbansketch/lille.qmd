@@ -1,7 +1,7 @@
 ---
 title: Lille supermarché / Supermarket Lille
 author: Raphaële Slimane
-image: ../../images/urbansketch/lille.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411645/lille_w2zhqk.png
 description: Lille supermarché / Supermarket Lille
 categories: [urbansketch]
 date: 2025/05/05
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/urbansketch/lille.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411645/lille_w2zhqk.png)
 

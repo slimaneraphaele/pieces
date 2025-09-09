@@ -1,7 +1,7 @@
 ---
 title: Cabine téléphonique, Angleterre / Telephone booth, England
 author: Raphaële Slimane
-image: ../../images/urbansketch/angleterre_cabine_tel.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411759/angleterre_cabine_tel_evtyah.png
 description: Un peu de cottage core / A bit of cottage core
 categories: [urbansketch]
 date: 2025/06/16
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/urbansketch/angleterre_cabine_tel.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411759/angleterre_cabine_tel_evtyah.png)
 

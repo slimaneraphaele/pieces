@@ -1,7 +1,7 @@
 ---
 title: Cordes sur Ciel
 author: Raphaële Slimane
-image: ../../images/urbansketch/sud_ouest.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411721/sud_ouest_vdbpdq.png
 description: Cordes sur Ciel
 categories: [urbansketch]
 date: 2025/06/13
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/urbansketch/sud_ouest.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411721/sud_ouest_vdbpdq.png)
 

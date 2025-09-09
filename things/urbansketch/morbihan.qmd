@@ -1,7 +1,7 @@
 ---
 title: Penerf
 author: Raphaële Slimane
-image: ../../images/urbansketch/morbihan.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411667/morbihan_fmwwdp.png
 description: Penerf, Morbihan, Bretagne
 categories: [urbansketch]
 date: 2024/06/30
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/urbansketch/morbihan.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411667/morbihan_fmwwdp.png)
 

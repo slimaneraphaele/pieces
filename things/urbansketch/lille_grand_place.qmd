@@ -1,7 +1,7 @@
 ---
 title: Lille grand-place / Grand Place Lille
 author: Raphaële Slimane
-image: ../../images/urbansketch/lille_grand_place.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411649/lille_grand_place_ktpeuk.png
 description: Lille grand-place / Grand Place Lille
 categories: [urbansketch]
 date: 2025/05/03
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/urbansketch/lille_grand_place.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411649/lille_grand_place_ktpeuk.png)
 

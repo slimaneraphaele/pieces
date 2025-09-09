@@ -1,7 +1,7 @@
 ---
 title: Italy
 author: Raphaële Slimane
-image: ../../images/urbansketch/italy.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411636/italy_zrknt4.png
 description: Un petit pont en Italie / Little bridge in Italy
 categories: [urbansketch]
 date: 2024/10/13
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/urbansketch/italy.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411636/italy_zrknt4.png)
 

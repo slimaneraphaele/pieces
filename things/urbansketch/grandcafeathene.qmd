@@ -1,7 +1,7 @@
 ---
 title: Grand cafe Athenes
 author: Raphaële Slimane
-image: ../../images/urbansketch/grandcafeathene.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411619/grandcafeathene_hdyxqr.png
 description: Grand Café d'Athènes, Château d'eau, Paris
 categories: [urbansketch]
 date: 2024-10-21
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/urbansketch/grandcafeathene.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411619/grandcafeathene_hdyxqr.png)
 

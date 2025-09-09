@@ -1,7 +1,7 @@
 ---
 title: Zeta enfant / Child Zeta
 author: Raphaële Slimane
-image: ../../images/childrenillustration/zetaenfant.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411745/zetaenfant_fin1k3.png
 description: Un Do This In Your own Style (dtiys) d'un personnage nommé Zeta / A DTIYS of a character named Zeta
 categories: ["children illustration"]
 date: 2025-03-15
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/zetaenfant.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411745/zetaenfant_fin1k3.png)
 

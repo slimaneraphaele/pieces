@@ -1,7 +1,7 @@
 ---
 title: Nymphes / Nymphs
 author: Raphaële Slimane
-image: ../../images/childrenillustration/nymphs.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411676/nymphs_e5raj7.png
 description: Réécriture du tableau "Nymphes découvrant la tête d'orphée" / Reinterpretation fo the painting "Nymphs finding the head of Orpheus"
 categories: ["children illustration"]
 date: 2025-03-11
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/nymphs.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411676/nymphs_e5raj7.png)
 

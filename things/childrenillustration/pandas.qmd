@@ -1,8 +1,8 @@
 ---
 title: Pandas
 author: Raphaële Slimane
-image: ../../images/childrenillustration/pandas.png
-description: Illustration de pandas qui lisent
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411685/pandas_mo2qnr.png
+description: Illustration de pandas qui lisent / Reading pandas
 categories: ["children illustration"]
 date: 2024-01-14
 format:
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/pandas.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411685/pandas_mo2qnr.png)
 

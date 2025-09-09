@@ -1,7 +1,7 @@
 ---
 title: Lift, Les archives de Roshar, Brandon Sanderson
 author: Raphaële Slimane
-image: ../../images/sanderson/sanderson_lift.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411703/sanderson_lift_sewaoc.png
 description: Illustration du personnage de Lift, Les archives de Roshar, Brandon Sanderson
 categories: [sanderson]
 date: 2025/04/15
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/sanderson/sanderson_lift.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411703/sanderson_lift_sewaoc.png)
 

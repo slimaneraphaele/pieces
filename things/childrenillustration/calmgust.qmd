@@ -1,7 +1,7 @@
 ---
 title: Calmgust
 author: Raphaële Slimane
-image: ../../images/childrenillustration/calmgust.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757410355/calmgust_cgz5sh.png
 description: Participation to challenge Calmgust
 categories: ["children illustration"]
 date: 2025-08-07
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/calmgust.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757410355/calmgust_cgz5sh.png)
 

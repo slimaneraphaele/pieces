@@ -1,8 +1,8 @@
 ---
-title: Addie
+title: Addie Larue
 author: Raphaële Slimane
-image: ../../images/childrenillustration/addielarue.png
-description: Addie Larue de La Vie invisible d'Addie Larue, V. E. Schwab
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411750/addielarue_z6900i.png
+description: Addie Larue de La Vie invisible d'Addie Larue, V. E. Schwab / The invisible life of Addie Larue, VE Schwab
 categories: [fanart]
 date: 2024-03-13
 format:
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](../../images/childrenillustration/addielarue.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411750/addielarue_z6900i.png)
 

@@ -1,0 +1,14 @@
+---
+title: Ghost Market / Marché de fantômes
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757935921/ghostmarket_cui4me.png
+description: A ghost market inspired by the Sapan / Un marché de fantômes inspiré du Sapan
+categories: ["children illustration"]
+date: 2025-09-15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757935921/ghostmarket_cui4me.png)
+

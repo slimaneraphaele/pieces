@@ -1,0 +1,28 @@
+/* Colonne/largeur plus étroite uniquement sur la home */
+.home-narrow #quarto-document-content,
+.home-narrow main.content,
+.home-narrow .quarto-container .page-columns .content,
+.home-narrow .quarto-listing {
+  max-width: 1100px;   /* essaie 1000px si tu veux encore plus étroit */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Évite les “barres” blanches au-dessus des vignettes sur la home */
+.home-narrow .quarto-listing img,
+.home-narrow .quarto-grid-item img,
+.home-narrow .quarto-grid-item .card-img-top {
+  margin: 0 !important;
+}
+
+/* Vignettes homogènes et rognées proprement sur la home */
+.home-narrow .quarto-grid-item.card .card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+
+/* (Optionnel) réduire un peu la taille du texte uniquement sur la home
+.home-narrow { font-size: 18px; line-height: 1.65; }
+*/

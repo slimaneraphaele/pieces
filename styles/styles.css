@@ -94,3 +94,77 @@ Cards
   height: 300px;
   object-fit: cover !important;
 }
+
+/* Blog listing: title vs subtitle sizes */
+.quarto-listing .quarto-grid-item.card .listing-title {
+  font-size: 1.15rem;   /* bigger */
+  line-height: 1.25;
+  margin-bottom: .25rem;
+  font-weight: 700;
+}
+
+.quarto-listing .quarto-grid-item.card .listing-subtitle,
+.quarto-listing .quarto-grid-item.card .card-subtitle {
+  font-size: .95rem;    /* smaller */
+  line-height: 1.35;
+  color: rgba(0,0,0,.7);
+  margin-bottom: .35rem;
+  font-weight: 500;
+}
+
+/* (optional) keep description readable but below the title */
+.quarto-listing .quarto-grid-item.card .listing-description {
+  font-size: 1rem;
+  line-height: 1.5;
+  opacity: .9;
+}
+
+/* ── Dark mode (Slate) overrides: make text light on dark ───────────── */
+/* Quarto sets data-bs-theme="dark" on <body> for dark mode. */
+body[data-bs-theme="dark"], .quarto-dark {
+  /* Core Bootstrap color tokens used by Slate in dark mode */
+  --bs-body-color: #f2f5f8;           /* main text (very light grey) */
+  --bs-heading-color: #ffffff;        /* headings = pure white */
+  --bs-link-color: #d8e7ff;           /* links: light bluish */
+  --bs-link-hover-color: #ffffff;     /* links on hover */
+  --bs-secondary-color: rgba(255,255,255,.75);  /* captions, meta */
+  --bs-border-color: rgba(255,255,255,.2);
+}
+
+/* Ensure article content actually uses those colors */
+body[data-bs-theme="dark"] #quarto-document-content,
+body[data-bs-theme="dark"] main.content {
+  color: var(--bs-body-color);
+}
+
+/* Headings + page title */
+body[data-bs-theme="dark"] h1,
+body[data-bs-theme="dark"] h2,
+body[data-bs-theme="dark"] h3,
+body[data-bs-theme="dark"] .quarto-title-block .title {
+  color: var(--bs-heading-color);
+}
+
+/* Links inside the reading column */
+body[data-bs-theme="dark"] main.content a {
+  color: var(--bs-link-color);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+body[data-bs-theme="dark"] main.content a:hover {
+  color: var(--bs-link-hover-color);
+}
+
+/* Captions / small meta */
+body[data-bs-theme="dark"] figcaption,
+body[data-bs-theme="dark"] .quarto-title-meta {
+  color: var(--bs-secondary-color);
+  opacity: 1; /* override any previous opacity */
+}
+
+/* Blockquotes: lighten text + border */
+body[data-bs-theme="dark"] blockquote {
+  color: var(--bs-body-color);
+  border-left-color: var(--bs-border-color);
+}
+

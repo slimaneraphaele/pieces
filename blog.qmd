@@ -8,7 +8,7 @@ listing:
   type: grid               # cartes
   sort: "date desc"
   page-size: 9
-  categories: true
+  categories: false
   filter-ui: true          # champ de recherche
   sort-ui: [date, title]   # menu de tri
   # Optionnel (nécessite Quarto ≥1.4) :

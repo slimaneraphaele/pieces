@@ -1,0 +1,9 @@
+---
+title: "About"
+title-block: false
+freeze: true
+---
+
+![](imgs/photo2.jpg){width=30%}
+
+[Instagram](https://www.instagram.com/slimaneraphaele/)

@@ -5,22 +5,28 @@ project:
     - "!vignettes/"
     - "!*.Rmd"
 
+
 website:
   title: "Raphaële Slimane's corner"
   description: Raphaële Slimane's corner
   #open-graph:
     #image: imgs/things.jpg
   #google-analytics: ""
-  sidebar:
-    style: "floating"
-    search: false
-    contents:
+  navbar:
+    #style: "floating"
+    #search: false
+    left:
       - href: index.qmd
         text: Artworks
       - href: blog.qmd
         text: Substack
-      - href: about.qmd
-        text: About
+      #- href: about.qmd
+       # text: About
+  sidebar:
+    right:
+      contents:
+        - about-sidebar.qmd
+
   page-footer: 
     left: "Copyright [Raphaële Slimane {{< fa brands instagram>}}](https://www.instagram.com/slimaneraphaele/). All rights reserved." 
     right: 
@@ -46,11 +52,10 @@ format:
       dark: slate
     css: 
       - styles/styles.css
-      - styles/home.css
-    toc: true
-    page-layout: full
+    toc: false
+    # page-layout: article
     grid:
       sidebar-width: 100px
-      body-width: 2000px
+      body-width: 1000px
       margin-width: 150px
 

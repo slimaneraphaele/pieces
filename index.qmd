@@ -1,7 +1,7 @@
 ---
 title: "Raphaële Slimane's corner <a href=\"#\" onclick=\"window.open('https://www.instagram.com/slimaneraphaele/', '_blank', 'toolbar=no,menubar=no,scrollbars=yes,resizable=yes,top=500,left=500,width=1200,height=1000' )\"><b> {{< fa brands instagram >}} </b></a>"
 subtitle: "Copyright Raphaële Slimane, All Rights Reserved."
-page-class: home-narrow
+
 
 listing:
   contents: things
@@ -9,11 +9,11 @@ listing:
   image-height: "100%"
   sort-ui: [date,categories]
   sort: "date desc"
-  grid-columns: 4
-  page-size: 32
+  grid-columns: 3
+  page-size: 30
   grid-item-border: true
   fields: [image]
-  categories: true
+  categories: false
   #template: cards.ejs
   
 format:
@@ -23,6 +23,3 @@ format:
       dark: slate
     page-layout: article
 ---
-
-
-

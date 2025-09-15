@@ -18,11 +18,10 @@ p {
 
 /* Style for blog images */
 img {
-  max-height: 800px;
-  max-width: 100%; /* Makes sure images scale properly */
+  max-width: 100%;
   height: auto;
   display: block;
-  margin: 20px auto; /* Centers images */
+  margin: 0 auto 1rem; /* pas de marge en haut */
 }
 
 /* Adjust figure alignment */
@@ -80,4 +79,18 @@ Cards
 }
 .quarto-listing .quarto-grid-item.card:hover .card-img-top {
   transform: scale(1.03);
+}
+
+/* Aucune marge sur les images de listing (home, blog) */
+.quarto-listing img,
+.quarto-grid-item img,
+.quarto-grid-item .card-img-top {
+  margin: 0 !important;
+}
+
+/* Vignettes : hauteur homogène + crop propre (déjà OK si tu l'as) */
+.quarto-listing .quarto-grid-item.card .card-img-top {
+  width: 100%;
+  height: 300px;
+  object-fit: cover !important;
 }

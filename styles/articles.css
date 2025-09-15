@@ -1,0 +1,82 @@
+/* ——— Reading column presets ——— */
+  :root {
+    /* target ~60–75 characters per line */
+      --reading-width: 70ch;
+    --reading-pad: 1.25rem;
+    --body-size: 18px;         /* smaller than your current 25px */
+      --line-height: 1.65;
+  }
+
+/* Limit the post content width and center it */
+  main.content,
+.quarto-container .page-columns .content,
+#quarto-document-content {
+max-width: var(--reading-width);
+margin-inline: auto;
+padding-inline: var(--reading-pad);
+}
+
+/* Title block same width + centered */
+  .quarto-title-block,
+.quarto-title-block .quarto-title-banner,
+.quarto-title-block .quarto-title {
+  max-width: var(--reading-width);
+  margin-inline: auto;
+  padding-inline: var(--reading-pad);
+  text-align: left; /* set to center if you prefer */
+}
+
+/* Typography tuned for reading */
+  body {
+    font-size: var(--body-size);
+    line-height: var(--line-height);
+  }
+
+/* Headings */
+  h1, h2, h3 {
+    line-height: 1.25;
+    margin-top: 1.6em;
+    margin-bottom: 0.6em;
+  }
+
+/* Paragraph rhythm */
+  p { margin: 0 0 1em 0; }
+
+/* Images stay within the column and don’t overflow */
+  main.content img,
+main.content figure > img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem auto;
+}
+
+/* Optional: scale down captions slightly */
+  figcaption {
+    font-size: 0.95em;
+    opacity: .85;
+  }
+
+/* Links: a subtle underline that looks good on long reads */
+  main.content a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-thickness: 1px;
+  }
+
+/* Optional: soften code blocks in posts */
+  main.content pre code {
+    font-size: 0.95em;
+  }
+
+/* Responsiveness — a touch more width on big screens, comfy on phones */
+  @media (min-width: 1200px) {
+    :root { --reading-width: 72ch; }
+  }
+@media (max-width: 600px) {
+  :root { --reading-pad: 1rem; --body-size: 17px; }
+}
+
+/* If you previously added big global margins or borders to images/cards,
+neutralize them in posts so the column looks clean. */
+  main.content img { margin: 1rem auto !important; border: none !important; }

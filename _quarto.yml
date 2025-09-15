@@ -20,8 +20,8 @@ website:
         text: Artworks
       - href: blog.qmd
         text: Substack
-      #- href: about.qmd
-       # text: About
+      - href: about.qmd
+        text: About
   sidebar:
     right:
       contents:

@@ -15,7 +15,7 @@ listing:
   # fields: [image, title, categories, description, date]
 format:
   html:
-    page-layout: full
+    page-layout: article
     toc: false
 ---
 

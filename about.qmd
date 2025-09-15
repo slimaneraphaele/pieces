@@ -13,7 +13,9 @@ about:
  #     text: Youtube
 format:
   html:
-    theme: sketchy
+    theme: 
+      light: litera
+      dark: slate
     toc: false
 ---
 

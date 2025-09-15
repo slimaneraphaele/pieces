@@ -1,0 +1,6 @@
+format:
+  html:
+    css: 
+      - ../styles/articles.css    # adjust the path if your CSS lives elsewhere
+    toc: false
+    page-layout: article

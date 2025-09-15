@@ -130,3 +130,16 @@ body[data-bs-theme="dark"] blockquote {
   border-left-color: var(--bs-border-color);
 }
 
+/* Article images: slightly narrower than the reading column */
+main.content .quarto-figure img,
+main.content figure > img,
+main.content p > img {
+  max-width: 80% !important;   /* try 90–95% to taste */
+  height: auto;
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Keep listing/card thumbnails unchanged */
+.quarto-listing .card-img-top { max-width: 100% !important; }

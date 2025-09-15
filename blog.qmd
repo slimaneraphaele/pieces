@@ -1,7 +1,7 @@
 ---
-title: "Curating golden nuggets of art"
+title: "Curating golden nuggets of art."
 author: Raphaële Slimane
-description: Archive from my substack.
+description: Archive from my [substack](https://raphaeleart.substack.com/).
 listing:
   contents: blog
   id: blog_list

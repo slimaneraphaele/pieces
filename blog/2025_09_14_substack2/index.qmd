@@ -3,7 +3,7 @@ title: "5 art-related things that sparked something in me this week"
 author: "Raphaële Slimane"
 date: 2025/09/14
 description: "If art begins where we point our attention, a life is made out of paying attention to what we pay attention to"
-image: "https://res.cloudinary.com/dyjfju0u4/image/upload/v1757936383/lyon_nkd84i.heic"
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757937728/lyon2_kxoyzv.png
 categories: 
   - blogging
 execute: 

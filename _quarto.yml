@@ -16,11 +16,11 @@ website:
     search: false
     contents:
       - href: index.qmd
-        text: home
+        text: Artworks
       - href: blog.qmd
-        text: blog
+        text: Substack
       - href: about.qmd
-        text: about
+        text: About
   page-footer: 
     left: "Copyright [Raphaële Slimane {{< fa brands instagram>}}](https://www.instagram.com/slimaneraphaele/). All rights reserved." 
     right: 
@@ -41,8 +41,12 @@ website:
 
 format:
   html:
-    theme: sketchy
-    css: styles.css
+    theme: 
+      light: litera
+      dark: slate
+    css: 
+      - styles/styles.css
+      - styles/home.css
     toc: true
     page-layout: full
     grid:

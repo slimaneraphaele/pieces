@@ -1,0 +1,170 @@
+/* Increase the font size of blog posts */
+body {
+  font-size: 25px;  /* Adjust as needed */
+  line-height: 1.6; /* Improves readability */
+  font-weight: normal;
+}
+
+/* Enhance headings */
+h1, h2, h3 {
+  font-weight: bold;
+  margin-top: 1.5em;
+}
+
+/* Improve paragraph spacing */
+p {
+  margin-bottom: 1em;
+}
+
+/* Style for blog images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem; /* pas de marge en haut */
+}
+
+/* Adjust figure alignment */
+figure {
+  text-align: center;
+}
+
+/* Style for blockquotes */
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #999;
+  padding-left: 15px;
+  color: #555;
+}
+
+
+/*
+Cards
+*/
+
+.card-img-top {
+  width: 100%; /* Ensures all images stretch to the card width */
+  height: 300px; /* Set a uniform height for all images */
+  object-fit: cover; /* Crop images to fill the set dimensions */
+  transition: object-position 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
+
+.card-img-top:hover {
+  object-fit: contain; /* Show the whole image on hover */
+  object-position: center; /* Center the image when fully visible */
+  transform: scale(1.1); /* Slight zoom to ensure visibility */
+}
+
+/* Carte : contour doux + coins arrondis + clipping */
+.quarto-listing .quarto-grid-item.card {
+  border: 1px solid rgba(0,0,0,.08);      /* plus de gros trait noir */
+  border-radius: 16px;
+  overflow: hidden;                        /* empêche l'image de déborder */
+  background: var(--bs-body-bg);
+  box-shadow: 0 1px 3px rgba(0,0,0,.06);
+  transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+}
+.quarto-listing .quarto-grid-item.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.12);
+  border-color: rgba(0,0,0,.12);
+}
+
+/* Image : zoom léger, mais contenu dans la carte grâce à overflow:hidden */
+.quarto-listing .quarto-grid-item.card .card-img-top {
+  display: block;
+  object-fit: cover;
+  transition: transform .25s ease;
+  will-change: transform;
+}
+.quarto-listing .quarto-grid-item.card:hover .card-img-top {
+  transform: scale(1.03);
+}
+
+/* Aucune marge sur les images de listing (home, blog) */
+.quarto-listing img,
+.quarto-grid-item img,
+.quarto-grid-item .card-img-top {
+  margin: 0 !important;
+}
+
+/* Vignettes : hauteur homogène + crop propre (déjà OK si tu l'as) */
+.quarto-listing .quarto-grid-item.card .card-img-top {
+  width: 100%;
+  height: 300px;
+  object-fit: cover !important;
+}
+
+/* Blog listing: title vs subtitle sizes */
+.quarto-listing .quarto-grid-item.card .listing-title {
+  font-size: 1.15rem;   /* bigger */
+  line-height: 1.25;
+  margin-bottom: .25rem;
+  font-weight: 700;
+}
+
+.quarto-listing .quarto-grid-item.card .listing-subtitle,
+.quarto-listing .quarto-grid-item.card .card-subtitle {
+  font-size: .95rem;    /* smaller */
+  line-height: 1.35;
+  color: rgba(0,0,0,.7);
+  margin-bottom: .35rem;
+  font-weight: 500;
+}
+
+/* (optional) keep description readable but below the title */
+.quarto-listing .quarto-grid-item.card .listing-description {
+  font-size: 1rem;
+  line-height: 1.5;
+  opacity: .9;
+}
+
+/* ── Dark mode (Slate) overrides: make text light on dark ───────────── */
+/* Quarto sets data-bs-theme="dark" on <body> for dark mode. */
+body[data-bs-theme="dark"], .quarto-dark {
+  /* Core Bootstrap color tokens used by Slate in dark mode */
+  --bs-body-color: #f2f5f8;           /* main text (very light grey) */
+  --bs-heading-color: #ffffff;        /* headings = pure white */
+  --bs-link-color: #d8e7ff;           /* links: light bluish */
+  --bs-link-hover-color: #ffffff;     /* links on hover */
+  --bs-secondary-color: rgba(255,255,255,.75);  /* captions, meta */
+  --bs-border-color: rgba(255,255,255,.2);
+}
+
+/* Ensure article content actually uses those colors */
+body[data-bs-theme="dark"] #quarto-document-content,
+body[data-bs-theme="dark"] main.content {
+  color: var(--bs-body-color);
+}
+
+/* Headings + page title */
+body[data-bs-theme="dark"] h1,
+body[data-bs-theme="dark"] h2,
+body[data-bs-theme="dark"] h3,
+body[data-bs-theme="dark"] .quarto-title-block .title {
+  color: var(--bs-heading-color);
+}
+
+/* Links inside the reading column */
+body[data-bs-theme="dark"] main.content a {
+  color: var(--bs-link-color);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+body[data-bs-theme="dark"] main.content a:hover {
+  color: var(--bs-link-hover-color);
+}
+
+/* Captions / small meta */
+body[data-bs-theme="dark"] figcaption,
+body[data-bs-theme="dark"] .quarto-title-meta {
+  color: var(--bs-secondary-color);
+  opacity: 1; /* override any previous opacity */
+}
+
+/* Blockquotes: lighten text + border */
+body[data-bs-theme="dark"] blockquote {
+  color: var(--bs-body-color);
+  border-left-color: var(--bs-border-color);
+}
+

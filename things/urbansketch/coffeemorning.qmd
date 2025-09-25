@@ -1,0 +1,14 @@
+---
+title: A coffee in the morning / Un café le matin
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1758808942/coffeemorning_hwtrga.png
+description: A coffee in the morning in autumn / Un café le matin en automne
+categories: [urbansketch]
+date: 2025/09/22
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1758808942/coffeemorning_hwtrga.png)
+

@@ -1,7 +1,17 @@
 [
   {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/2025_09_14_substack2/index.html",
+      "/blog/2025_09_21_substack3/index.html",
+      "/blog/2025_09_06_substack1/index.html",
+      "/blog/1_2025_03_04_bienvenue/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/things/urbansketch/coffeemorning.html",
       "/things/childrenillustration/ghostmarket.html",
       "/things/fanart/johannavangogh.html",
       "/things/childrenillustration/vangogh.html",
@@ -62,15 +72,6 @@
       "/things/childrenillustration/pandas.html",
       "/things/childrenillustration/taupe.html",
       "/things/urbansketch/england.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/2025_09_14_substack2/index.html",
-      "/blog/2025_09_21_substack3/index.html",
-      "/blog/2025_09_06_substack1/index.html",
-      "/blog/1_2025_03_04_bienvenue/index.html"
     ]
   }
 ]

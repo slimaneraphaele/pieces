@@ -1,0 +1,46 @@
+---
+title: "5 art-related things that sparked something in me this week"
+author: "Raphaële Slimane"
+date: 2025/09/27
+description: "All women, all the time"
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1758808942/coffeemorning_hwtrga.png
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1758808942/coffeemorning_hwtrga.png)
+ *A painting of a coffee morning with autumn leaves, September 2025.*
+
+[Link to the post on my substack](https://substack.com/home/post/p-174350962)
+
+1. This week I discovered the work of [Catel](https://www.catel-m.com/) and [Bocquet](https://fr.wikipedia.org/wiki/Jos%C3%A9-Louis_Bocquet). Together, they have written a [great number of books](https://www.casterman.com/Bande-dessinee/Catalogue/(auteur)/Bocquet%20Jos%C3%A9-Louis) about women - women in the arts, women in politics. Last week, I read two of them.  The first one was [*Kiki de Montparnasse*](https://www.casterman.com/Bande-dessinee/Catalogue/kiki-de-montparnasse/9782203232396). She was a model for artists in the 1920s. The graphic novel explores her life both as an artist herself and as a muse for artists such as [Man Ray](https://fr.wikipedia.org/wiki/Man_Ray), [Foujita](https://fr.wikipedia.org/wiki/Tsugouharu_Foujita), [Soutine](https://fr.wikipedia.org/wiki/Cha%C3%AFm_Soutine), etc. She was also a singer and a dancer in Paris cabarets, nicknamed *“queen of the night.”*  The graphic novel shows her exhibiting her own work and painting at times. But it feels as though she couldn’t care less about the exhibitions - she’s just happy they pay for her champagne. The end is very touching: she’s depicted almost like a Fellini heroine or like Madame Rosa in [*La Vie devant soi*](https://fr.wikipedia.org/wiki/La_Vie_devant_soi) by Romain Gary. Bloated and alcoholic, she is nevertheless captured as the dazzling lady from her youth, full of panache and laughter.
+
+
+
+2. The second graphic novel I read this week by Catel and Bocquet was about [Alice Guy](https://en.wikipedia.org/wiki/Alice_Guy-Blach%C3%A9). She is a forgotten figure in the history of cinema. She started out at Gaumont as a typist and went on to make *phonoscènes* (early sound films). She created the first version of the movie called [*The Cabbage Patch Fairy*](https://www.youtube.com/watch?v=-Ewo-jcNYRI).  (Side note: I’ve watched it, and let me tell you, the babies do not seem to be having a blast.)  The lack of recognition is heartbreaking at times. At one point, the book highlights how she was building her own personal archive on paper because films are volatile things: they come, they go, but never quite stick. In doing so, she became the documentarian of her own work. Thank God for that - because later, she even complained that film historians had attributed many of her films to a man (Henri Gallet)!
+
+
+
+3. The two books reminded me of another graphic novel I read back in the spring: [*Vivian Maier Claire Obscure*](https://www.dargaud.com/bd/vivian-maier/vivian-maier-vivian-maier-claire-obscure-bda5387380) by Marzena Sowa and Emilie Plateau. The graphic novel tells the story of Vivian Maier, the photographer who worked as a nanny all her life and died in anonymity.  It is shorter than the first two graphic novels mentioned before. It left ample room for curiosity. I had come across her name before - there was an exhibition in Paris some time ago at the [Musée du Luxembourg](https://museeduluxembourg.fr/fr/agenda/evenement/vivian-maier), and the line was so long it nearly wrapped around the entire garden - but I had never looked into her work.
+
+
+
+4. **Documentary**: Therefore, I watched the documentary [*Finding Vivian Maier*](https://en.wikipedia.org/wiki/Finding_Vivian_Maier) (2013).  The film tells the story of how a young man named John Maloof purchased boxes of her negatives at a Chicago auction in 2007. He developed the films and found breathtaking photographs, which he scanned and uploaded to the internet. The images elicited some interest, and from then on, he made it his mission to gather all her belongings and make her work known to the world.  Vivian Maier kept everything and documented everything. She made the children she cared for walk for hours in so-called “bad neighbourhoods” so she could take pictures. Her personal archive, which traveled with her from house to house, became so heavy that in one of the homes where she worked, the floor of her room actually collapsed.  Interestingly, the documentary also sheds light on darker aspects of her personality.
+
+  
+
+
+
+5. **Book**: I started reading the work of [R.F. Kuang](https://fr.wikipedia.org/wiki/R._F._Kuang) with [*Babel*](https://www.goodreads.com/book/show/57945316-babel) back in early summer. I loved it, but I won’t talk about that one here - instead, I’ll talk about [*Yellowface*](https://en.wikipedia.org/wiki/Yellowface_(novel)).  This is a riveting novel. **[SPOILER ALERT, proceed at your own risk]**  It tells the story of June, who is friends with Athena. Athena is Chinese-American and a very successful young author. June attended Yale at the same time but made her debut in the literary world far less spectacularly. Athena abruptly dies in an accident, and June accidentally gets her hands on Athena’s latest draft, which no one has read. The rest tells itself. The voice of the narrator is incredibly unsympathetic at times, and cynical most of the time, and yet you can’t stop reading. The novel explores so many contemporary conundrums in today’s publishing industry that it can make you dizzy at times. It reads like a thriller.

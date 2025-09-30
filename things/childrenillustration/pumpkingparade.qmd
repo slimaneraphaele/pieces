@@ -1,0 +1,14 @@
+---
+title: Pumpking parade
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1759237452/pumpkinparade_abbud3.png
+description: A pumpkin parade / Un défilé de citrouilles
+categories: ["children illustration"]
+date: 2025-09-29
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1759237452/pumpkinparade_abbud3.png)
+

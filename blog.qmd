@@ -1,7 +1,7 @@
 ---
 title: "Cinq trouvailles artistiques pour bien commencer le week-end"
 author: Raphaële Slimane
-description: Archive : [substack](https://raphaeleart.substack.com/).
+description: Archive [substack](https://raphaeleart.substack.com/).
 listing:
   contents: blog
   id: blog_list

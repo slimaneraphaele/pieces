@@ -3,7 +3,7 @@ title: "5 art-related things that sparked something in me this week"
 author: "Raphaële Slimane"
 date: 2025/10/04
 description: "Funny anecdotes and tips on the seemingly impossible task of drawing on location"
-image: https://res.cloudinary.com/dyjfju0u4/image/f_auto,q_auto/upload/v1757411557/bretagne_finistere_eglise_rnfsm8.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411557/bretagne_finistere_eglise_rnfsm8.png
 categories: 
   - blogging
 execute: 
@@ -20,7 +20,7 @@ lightbox:
   loop: true
 ---
 
-![](https://res.cloudinary.com/dyjfju0u4/image/f_auto,q_auto/upload/v1757411557/bretagne_finistere_eglise_rnfsm8.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411557/bretagne_finistere_eglise_rnfsm8.png)
 **A wonky-lined church in Finistère, Brittany, France, June 2025.**
 
 [Link to the post on my substack](https://raphaeleart.substack.com/p/5-art-related-things-that-sparked-765)

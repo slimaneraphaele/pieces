@@ -1,0 +1,14 @@
+---
+title: Alpes en automne / Fall in the Alps
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877768/alpes_automne_eudtbe.png
+description: Peinture des Alpes en automne photo de Ryan Resatka /  Fall in the Alps photo by Ryan Resatka
+categories: [urbansketch]
+date: 2025/10/27
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877768/alpes_automne_eudtbe.png)
+

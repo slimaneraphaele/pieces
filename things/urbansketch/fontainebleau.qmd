@@ -1,0 +1,14 @@
+---
+title: Fontainebleau
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877378/fontainebleau_siipht.png
+description: Escalade et lecture à Fontainebleau / Climbing and reading in Fontainebleau
+categories: [urbansketch]
+date: 2025/11/10
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877378/fontainebleau_siipht.png)
+

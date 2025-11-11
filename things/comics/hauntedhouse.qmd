@@ -1,0 +1,14 @@
+---
+title: Maison hantée / Haunted house
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877253/hauntedhouse_op4hop.png
+description: Mini comic haunted house / Mini BD maison hantée
+categories: ["comics"]
+date: 2025-10-20
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877253/hauntedhouse_op4hop.png)
+

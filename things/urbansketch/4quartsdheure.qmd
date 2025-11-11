@@ -1,0 +1,14 @@
+---
+title: 4 quarts d'heure
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877355/4quartsdheure_mimyqf.png
+description: Podcast 4 quarts d'heure
+categories: ["generalillustration"]
+date: 2025/11/06
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877355/4quartsdheure_mimyqf.png)
+

@@ -1,0 +1,14 @@
+---
+title: Musée Carnavalet
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877332/museecarnavalet_sickgb.png
+description: Balade dessinée au musée Carnavalet / Sketching walk in the Carnavalet museum
+categories: ["comics"]
+date: 2025-10-13
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877332/museecarnavalet_sickgb.png)
+

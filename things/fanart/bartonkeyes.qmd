@@ -1,0 +1,13 @@
+---
+title: Barton Keyes
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805345/bartonkeyes_t3ybqe.png
+description: Barton Keyes, personnage de Assurance sur la mort
+categories: [fanart]
+date: 2025-10-16
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805345/bartonkeyes_t3ybqe.png)

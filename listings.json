@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/1_2025_03_04_bienvenue/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/things/fanart/arco.html",
@@ -21,6 +15,7 @@
       "/things/comics/bertheweill.html",
       "/things/urbansketch/alpes_automne.html",
       "/things/comics/hauntedhouse.html",
+      "/things/fanart/bartonkeyes.html",
       "/things/comics/carnavalet.html",
       "/things/childrenillustration/pumpkingparade.html",
       "/things/urbansketch/coffeemorning.html",
@@ -85,6 +80,12 @@
       "/things/childrenillustration/pandas.html",
       "/things/childrenillustration/taupe.html",
       "/things/urbansketch/england.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/1_2025_03_04_bienvenue/index.html"
     ]
   }
 ]

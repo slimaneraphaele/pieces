@@ -1,0 +1,14 @@
+---
+title: Folktale week
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790332/folktalesweek_ej40cp.png
+description: Folktale week - légende de Dahut
+categories: ["miscellaneous"]
+date: 2025-11-28
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790332/folktalesweek_ej40cp.png)
+

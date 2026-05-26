@@ -1,0 +1,13 @@
+---
+title: Enfants Pailleron
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790359/enfants_pailleron_zb6wr7.png
+description: Petite fille des enfants Pailleron, Sargent
+categories: [fanart]
+date: 2025-11-18
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790359/enfants_pailleron_zb6wr7.png)

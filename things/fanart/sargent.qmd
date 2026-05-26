@@ -1,0 +1,13 @@
+---
+title: Sargent
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790371/sargent_croquis_vb5pn4.png
+description: Exposition Sargent au Musée d'Orsay
+categories: [fanart]
+date: 2025-11-18
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790371/sargent_croquis_vb5pn4.png)

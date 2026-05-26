@@ -1,0 +1,14 @@
+---
+title: Portraits
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790143/portraitsannees50_nt3g44.png
+description: Portraits de personnages des années 1950
+categories: ["miscellaneous"]
+date: 2026-05-24
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790143/portraitsannees50_nt3g44.png)
+

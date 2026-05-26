@@ -1,0 +1,14 @@
+---
+title: Bird people
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779789997/birdpeople_vodvfs.png
+description: Illustration de personnages oiseaux
+categories: ["miscellaneous"]
+date: 2026-05-20
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779789997/birdpeople_vodvfs.png)
+

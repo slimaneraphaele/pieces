@@ -1,16 +1,7 @@
 ---
 title: "About"
-image: imgs/photo2.jpg
 about:
   template: trestles
-  image: imgs/photo2.jpg
-  links:
-    - icon: instagram
-      text: Instagram
-      href: https://www.instagram.com/slimaneraphaele/
-   # - icon: substack
-   #   href: https://raphaeleart.substack.com/?utm_campaign=profile_chips
-   #   text: Substack
 format:
   html:
     theme: 

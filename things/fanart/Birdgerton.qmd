@@ -1,0 +1,13 @@
+---
+title: Bridgerton
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790270/bridgerton_ylwwoz.png
+description: Dessins divers de la série Bridgerton
+categories: [fanart]
+date: 2026-05-18
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790270/bridgerton_ylwwoz.png)

@@ -1,0 +1,14 @@
+---
+title: Animaux
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790409/animauxaustralie_ykxlbs.png
+description: Animaux d'Australie
+categories: ["miscellaneous"]
+date: 2025-11-16
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790409/animauxaustralie_ykxlbs.png)
+

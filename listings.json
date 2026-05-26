@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/1_2025_03_04_bienvenue/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/things/fanart/arco.html",
@@ -17,6 +11,7 @@
       "/things/generalillustration/fleurs.html",
       "/things/generalillustration/fleurstapisserie.html",
       "/things/generalillustration/annees1980.html",
+      "/things/fanart/misspotter.html",
       "/things/generalillustration/catpeoplecolor.html",
       "/things/generalillustration/ladywithbow.html",
       "/things/generalillustration/catpeople.html",
@@ -97,6 +92,12 @@
       "/things/childrenillustration/pandas.html",
       "/things/childrenillustration/taupe.html",
       "/things/urbansketch/england.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/1_2025_03_04_bienvenue/index.html"
     ]
   }
 ]

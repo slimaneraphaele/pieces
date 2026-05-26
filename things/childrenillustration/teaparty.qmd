@@ -1,0 +1,14 @@
+---
+title: Tea party
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779808236/20251231_084800_uqvt19.jpg
+description: Un fête du thé
+categories: ["children illustration"]
+date: 2026-01-05
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779808236/20251231_084800_uqvt19.jpg)
+

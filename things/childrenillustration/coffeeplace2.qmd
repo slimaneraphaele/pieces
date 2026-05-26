@@ -1,0 +1,14 @@
+---
+title: Le café
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779808026/Template_8_spvfhs.png
+description: Des gens qui prennent le café
+categories: ["generalillustration"]
+date: 2026-01-10
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779808026/Template_8_spvfhs.png)
+

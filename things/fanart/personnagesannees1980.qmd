@@ -1,0 +1,13 @@
+---
+title: Années 1980
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779807787/Template_7_yj34du.png
+description: Stars des années 1980
+categories: [fanart]
+date: 2026-01-04
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779807787/Template_7_yj34du.png)

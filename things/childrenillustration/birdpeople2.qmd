@@ -4,7 +4,7 @@ author: Raphaële Slimane
 image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779791722/birdpeople2_z7vqpq.png
 description: Christmas bird people
 categories: ["children illustration"]
-date: 2025-15-05
+date: 2025-05-15
 format:
   html:
     page-layout: full

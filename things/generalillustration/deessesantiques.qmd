@@ -1,0 +1,14 @@
+---
+title: Déesses diverses
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810118/deessesdiverses_ml8cr5.png
+description: Déesses diverses
+categories: ["generalillustration"]
+date: 2026-01-15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810118/deessesdiverses_ml8cr5.png)
+

@@ -1,0 +1,14 @@
+---
+title: Toits de lyon
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810451/20250531_164627_n0kl3o.jpg
+description: Vue des toîts à Lyon
+categories: [urbansketch]
+date: 2025/05/10
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810451/20250531_164627_n0kl3o.jpg)
+

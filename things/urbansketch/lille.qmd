@@ -1,14 +1,14 @@
 ---
-title: Lille supermarché / Supermarket Lille
+title: Lille théâtre
 author: Raphaële Slimane
-image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411645/lille_w2zhqk.png
-description: Lille supermarché / Supermarket Lille
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810450/20250520_085615_mtem8e.jpg
+description: Théâtre du Nord, Lille
 categories: [urbansketch]
-date: 2025/05/05
+date: 2025/05/06
 format:
   html:
     page-layout: full
 ---
 
-![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411645/lille_w2zhqk.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810450/20250520_085615_mtem8e.jpg)
 

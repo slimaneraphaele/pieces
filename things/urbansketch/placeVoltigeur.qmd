@@ -1,0 +1,14 @@
+---
+title: Place Paris 19
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810120/levoltigeur_tbmlxz.png
+description: Place avec Le Voltigeur, Paris 19e
+categories: [urbansketch]
+date: 2025/07/25
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810120/levoltigeur_tbmlxz.png)
+

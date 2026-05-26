@@ -1,0 +1,14 @@
+---
+title: Musée Carnavalet
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810119/museecarnavalet2_n2kx9w.png
+description: Musée Carnavalet Paris
+categories: [urbansketch]
+date: 2025/10/11
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810119/museecarnavalet2_n2kx9w.png)
+

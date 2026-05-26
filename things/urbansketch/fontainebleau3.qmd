@@ -1,0 +1,14 @@
+---
+title: Fontainebleau
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810119/fontainebleau3_iyylos.png
+description: Musée Carnavalet Paris
+categories: [urbansketch]
+date: 2024/10/03
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810119/fontainebleau3_iyylos.png)
+

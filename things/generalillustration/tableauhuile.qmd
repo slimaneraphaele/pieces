@@ -1,0 +1,14 @@
+---
+title: Reproduction Debusschere
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810118/tableauhuile_mrsdho.png
+description: Reproduction Debusschere, à la peinture à l'huile
+categories: ["generalillustration"]
+date: 2010-08-30
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810118/tableauhuile_mrsdho.png)
+

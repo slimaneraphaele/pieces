@@ -1,0 +1,14 @@
+---
+title: Thanksgiving parade
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805924/parade_v8q0vx.png
+description: Parade
+categories: ["miscellaneous"]
+date: 2025-11-10
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805924/parade_v8q0vx.png)
+

@@ -1,0 +1,14 @@
+---
+title: Femme avec ruban
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805921/ladywithbow_pv7kry.png
+description: Une femme avec un très gros ruban
+categories: ["miscellaneous"]
+date: 2025-12-10
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805921/ladywithbow_pv7kry.png)
+

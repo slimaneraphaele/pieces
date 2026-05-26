@@ -1,0 +1,13 @@
+---
+title: Sophie
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805536/sophiehowlsmovingcastle_lbfacg.png
+description: Sophie du château ambulant
+categories: [fanart]
+date: 2025-11-26
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805536/sophiehowlsmovingcastle_lbfacg.png)

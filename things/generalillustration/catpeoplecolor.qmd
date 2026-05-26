@@ -1,0 +1,14 @@
+---
+title: Personnages-chats
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805919/catpeoplecolor_jmyegt.png
+description: Des chats humains en couleur
+categories: ["miscellaneous"]
+date: 2025-12-26
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805919/catpeoplecolor_jmyegt.png)
+

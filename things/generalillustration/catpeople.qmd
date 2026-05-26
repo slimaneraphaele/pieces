@@ -1,0 +1,14 @@
+---
+title: Personnages-chats
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805916/catpeople_s0m8pd.png
+description: Des chats humains
+categories: ["miscellaneous"]
+date: 2025-12-05
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805916/catpeople_s0m8pd.png)
+

@@ -1,0 +1,14 @@
+---
+title: Palais
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779806638/palaisfacteurcheval_mpbngx.png
+description: Palais du facteur Cheval dans la Drôme
+categories: ["urbansketch"]
+date: 2026/04/01
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779806638/palaisfacteurcheval_mpbngx.png)
+

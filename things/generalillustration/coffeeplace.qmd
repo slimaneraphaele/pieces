@@ -1,0 +1,14 @@
+---
+title: Café
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779806621/Fleurs_1_o7wvet.png
+description: Une scène de café
+categories: ["generalillustration"]
+date: 2026-03-22
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779806621/Fleurs_1_o7wvet.png)
+

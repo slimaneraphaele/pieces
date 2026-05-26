@@ -3,7 +3,7 @@ title: Lyon
 author: Raphaële Slimane
 image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757937728/lyon2_kxoyzv.png
 description: Ville de Lyon, parc de la Tête d'Or
-categories: ["generalillustration"]
+categories: ["urbansketch"]
 date: 2025/11/06
 format:
   html:

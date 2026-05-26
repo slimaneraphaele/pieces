@@ -1,0 +1,14 @@
+---
+title: Fleurs
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779807238/Template_5_uhqerl.png
+description: Diverses fleurs en tapisserie
+categories: ["generalillustration"]
+date: 2026-01-16
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779807238/Template_5_uhqerl.png)
+

@@ -1,0 +1,14 @@
+---
+title: Fleurs
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779807106/Template_3_ge8r66.png
+description: Diverses fleurs
+categories: ["generalillustration"]
+date: 2026-03-01
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779807106/Template_3_ge8r66.png)
+

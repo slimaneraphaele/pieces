@@ -1,0 +1,14 @@
+---
+title: Vitrines
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779808683/Template_11_vrocbh.png
+description: vitrines du Bon Marché
+categories: ["urbansketch"]
+date: 2025-12-27
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779808683/Template_11_vrocbh.png)
+

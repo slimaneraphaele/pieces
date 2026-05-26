@@ -19,7 +19,7 @@ website:
       - href: index.qmd
         text: Artworks
       - href: blog.qmd
-        text: Substack
+        text: Blog
       - href: about.qmd
         text: About
   sidebar:

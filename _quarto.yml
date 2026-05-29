@@ -28,7 +28,7 @@ website:
         - about-sidebar.qmd
 
   page-footer: 
-    left: "Copyright [Raphaële Slimane {{< fa brands instagram>}}](https://www.instagram.com/slimaneraphaele/). All rights reserved." 
+    left: "Copyright [Raphaële Slimane]. All rights reserved." 
     right: 
       - icon: instagram
         href: https://www.instagram.com/slimaneraphaele/

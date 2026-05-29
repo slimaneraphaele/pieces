@@ -1,0 +1,14 @@
+---
+title: Festival du Merveilleux
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061318/festivalmerveilleuxNB_d9ootj.png
+description: Festival du Merveilleux, Musée des Arts Forains, Paris
+categories: ["miscellaneous"]
+date: 2026-01-01
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061318/festivalmerveilleuxNB_d9ootj.png)
+

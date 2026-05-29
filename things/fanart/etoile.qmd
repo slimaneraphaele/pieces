@@ -1,0 +1,13 @@
+---
+title: Etoile
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061139/etoile_bwhrec.png
+description: Série Etoile 2025, de Amy Sherman Palladino
+categories: [fanart]
+date: 2026-05-29
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061139/etoile_bwhrec.png)

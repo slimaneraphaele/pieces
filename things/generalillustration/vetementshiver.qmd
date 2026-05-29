@@ -1,0 +1,14 @@
+---
+title: Hiver
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061314/hivervetements_osi2uv.png
+description: Vêtements d'hiver
+categories: ["miscellaneous"]
+date: 2026-01-12
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061314/hivervetements_osi2uv.png)
+

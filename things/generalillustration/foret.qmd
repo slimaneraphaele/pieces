@@ -1,0 +1,14 @@
+---
+title: Forêt
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061305/foret_npuo30.png
+description: Forêt de Fontainebleau
+categories: ["miscellaneous"]
+date: 2025-11-15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061305/foret_npuo30.png)
+

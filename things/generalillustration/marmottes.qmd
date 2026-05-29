@@ -1,0 +1,14 @@
+---
+title: Marmottes
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061320/marmottes_the6n2.png
+description: Marmottes
+categories: ["miscellaneous"]
+date: 2024-02-18
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061320/marmottes_the6n2.png)
+

@@ -1,0 +1,14 @@
+---
+title: Méduses
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061315/meduses_y7mtym.png
+description: Méduses
+categories: ["miscellaneous"]
+date: 2026-01-21
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061315/meduses_y7mtym.png)
+

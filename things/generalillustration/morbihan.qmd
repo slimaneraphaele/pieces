@@ -1,0 +1,14 @@
+---
+title: Quiberon
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061322/quiberon_nbpjit.png
+description: Quiberon
+categories: ["miscellaneous"]
+date: 2024-10-24
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061322/quiberon_nbpjit.png)
+

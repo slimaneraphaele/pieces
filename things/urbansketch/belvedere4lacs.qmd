@@ -1,0 +1,14 @@
+---
+title: Belvedère 4 lacs
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784037598/belvedere4lacs_vuj2lq.png
+description: forêt près du belvedère des 4 lacs, Jura
+categories: ["urbansketch"]
+date: 2026/07/11
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784037598/belvedere4lacs_vuj2lq.png)
+

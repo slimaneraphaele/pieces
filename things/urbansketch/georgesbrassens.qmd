@@ -1,0 +1,14 @@
+---
+title: Georges Brassens
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784037598/georgesbrassens_x4ffrx.png
+description: au parc Georges Brassens Paris 15
+categories: ["urbansketch"]
+date: 2026/07/06
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784037598/georgesbrassens_x4ffrx.png)
+

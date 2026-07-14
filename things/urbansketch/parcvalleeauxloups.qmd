@@ -1,0 +1,14 @@
+---
+title: Parc de la Vallée aux Loups
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784039590/parcvaleeauxloups_wz4ng4.png
+description: Cèdre du Liban du parc de la Vallée aux Loups
+categories: ["urbansketching"]
+date: 2025/02/08
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784039590/parcvaleeauxloups_wz4ng4.png)
+

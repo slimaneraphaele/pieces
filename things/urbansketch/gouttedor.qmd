@@ -1,0 +1,14 @@
+---
+title: Quartier Goutte d'Or
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784039590/gouttedor_eo9uzf.png
+description: marché du Quartier Goutte d'Or
+categories: ["urbansketching"]
+date: 2025/01/15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784039590/gouttedor_eo9uzf.png)
+

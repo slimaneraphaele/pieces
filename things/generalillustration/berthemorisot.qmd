@@ -1,0 +1,14 @@
+---
+title: Reproduction du Bain de Berthe Morisot
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784039639/berthemorisot_wjz3ij.png
+description: Reproduction du bain de Berthe Morisot
+categories: ["generalillustration"]
+date: 2025-11-30
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784039639/berthemorisot_wjz3ij.png)
+

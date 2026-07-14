@@ -1,0 +1,14 @@
+---
+title: Nouvel an chinois, Paris 13
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784039590/nouvelanchinois_oekuib.png
+description: Nouvel an chinois, Paris 13, porte de Choisy
+categories: ["urbansketching"]
+date: 2025/02/09
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784039590/nouvelanchinois_oekuib.png)
+

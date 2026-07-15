@@ -1,7 +1,7 @@
 ---
 title: Lac Maclu Jura
 author: Raphaële Slimane
-image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784037606/linolacmaclu_thdhwu.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784140579/linolacmaclu2_fzyw5n.png
 description: Près du lac Maclu dans le Jura
 categories: ["urbansketch"]
 date: 2026/07/13
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784037606/linolacmaclu_thdhwu.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784140579/linolacmaclu2_fzyw5n.png)
 

@@ -1,5 +1,5 @@
 ---
-title: Un vélo la nuit
+title: Un vélo dans le Jura
 author: Raphaële Slimane
 image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784140472/velojuranuit_lkigx7.png
 description: Un vélo la nuit dans le Jura, Bellefontaine

@@ -1,5 +1,5 @@
 ---
-title: "Bienvenue / Welcome"
+title: "Bienvenue"
 author: "Raphaële Slimane"
 date: 2025/03/04
 description: " - "
@@ -22,7 +22,7 @@ lightbox:
 
 ## Bienvenue sur mon site
 
-Je suis Raphaële Slimane, je fais de l'illustration. Ici, je partage mon travail. Je vis à Paris, entourée de bouquins.
+Je suis Raphaële Slimane, je fais de l'illustration, de la peinture et du dessin. Ici, je partage mon travail. Je vis à Paris, entourée de bouquins.
 
 
 

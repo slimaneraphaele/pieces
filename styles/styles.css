@@ -120,8 +120,11 @@ Cards
 }
 
 /* ── Dark mode (Slate) overrides: make text light on dark ───────────── */
-/* Quarto sets data-bs-theme="dark" on <body> for dark mode. */
-body[data-bs-theme="dark"], .quarto-dark {
+/* Quarto sets data-bs-theme="dark" on <body> for dark mode.
+   IMPORTANT: on ne scope QUE sur cet attribut, jamais sur .quarto-dark,
+   pour éviter que ces variables ne s'appliquent en mode clair si cette
+   classe reste présente par erreur sur le body. */
+body[data-bs-theme="dark"] {
   /* Core Bootstrap color tokens used by Slate in dark mode */
   --bs-body-color: #f2f5f8;           /* main text (very light grey) */
   --bs-heading-color: #ffffff;        /* headings = pure white */
@@ -168,3 +171,24 @@ body[data-bs-theme="dark"] blockquote {
   border-left-color: var(--bs-border-color);
 }
 
+/* Sécurité supplémentaire : on force explicitement les couleurs par
+   défaut en mode clair, pour qu'aucune règle mal scopée ne puisse
+   plus jamais rendre le texte illisible sur fond clair. */
+body:not([data-bs-theme="dark"]) {
+  --bs-body-color: #3a332c;
+  --bs-heading-color: #3a332c;
+  --bs-secondary-color: rgba(58,51,44,.75);
+}
+
+.navbar-brand {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.4rem;
+  letter-spacing: 0.02em;
+}
+#title-block-header .quarto-title-subtitle,
+.quarto-title .subtitle {
+  font-style: italic;
+  font-size: 0.85rem;
+  opacity: 0.7;
+}

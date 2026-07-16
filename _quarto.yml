@@ -7,7 +7,7 @@ project:
 
 
 website:
-  title: ""
+  title: "Raphaële Slimane"
   description: art
   #open-graph:
     #image: imgs/things.jpg
@@ -29,9 +29,6 @@ website:
 
   page-footer: 
     left: "Copyright [Raphaële Slimane]. All rights reserved." 
-    right: 
-      - icon: instagram
-        href: https://www.instagram.com/slimaneraphaele/
   back-to-top-navigation: true
   # navbar:
   #   background: light

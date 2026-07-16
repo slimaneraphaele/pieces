@@ -1,0 +1,67 @@
+/*-- scss:defaults --*/
+  
+  // Polices
+$font-family-serif: "Cormorant Garamond", Georgia, serif;
+$font-family-sans-serif: "Lora", Georgia, serif;
+
+$headings-font-family: $font-family-serif;
+$font-family-base: $font-family-sans-serif;
+
+// Palette chaude "papier"
+$body-bg: #faf6f0;
+  $body-color: #3a332c;
+  $primary: #b5651d;          // terracotta pour liens/accents
+  $link-color: #9c5a1f;
+  
+  /*-- scss:rules --*/
+  
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
+
+body {
+  background-color: $body-bg;
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(181,101,29,0.03) 0%, transparent 50%),
+  radial-gradient(circle at 80% 80%, rgba(181,101,29,0.03) 0%, transparent 50%);
+}
+
+h1, h2, h3, .navbar-title {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+// Cartes de la galerie / du blog
+.quarto-grid-item {
+  border: none;
+  background: #fff;
+    border-radius: 4px;
+  box-shadow: 0 2px 12px rgba(58, 51, 44, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  overflow: hidden;
+}
+
+.quarto-grid-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(58, 51, 44, 0.15);
+}
+
+.quarto-grid-item img {
+  transition: transform 0.4s ease;
+}
+
+.quarto-grid-item:hover img {
+  transform: scale(1.03);
+}
+
+// Navbar plus discrète, façon carnet
+.navbar {
+  background-color: $body-bg !important;
+  border-bottom: 1px solid rgba(181,101,29,0.15);
+}
+
+// Footer
+.page-footer {
+  border-top: 1px solid rgba(181,101,29,0.15);
+  color: rgba(58,51,44,0.6);
+  font-style: italic;
+}

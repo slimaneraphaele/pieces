@@ -47,10 +47,10 @@ website:
 
 format:
   html:
-    theme: 
-      light: litera
-      dark: slate
-    css: 
+    theme:
+      light: [litera, styles/custom-light.scss]
+      dark: [slate, styles/custom-dark.scss]
+    css:
       - styles/styles.css
     toc: false
     # page-layout: article

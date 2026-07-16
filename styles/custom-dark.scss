@@ -1,0 +1,75 @@
+/*-- scss:defaults --*/
+
+$font-family-serif: "Cormorant Garamond", Georgia, serif;
+$font-family-sans-serif: "Lora", Georgia, serif;
+
+$headings-font-family: $font-family-serif;
+$font-family-base: $font-family-sans-serif;
+
+// Palette sombre "carnet le soir"
+$body-bg: #2a2320;          // brun très sombre, pas gris froid
+$body-color: #ede4d8;       // crème chaud pour le texte
+$primary: #d98c4a;          // terracotta éclairci pour contraste sur fond sombre
+$link-color: #e0a26a;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
+
+body {
+  background-color: $body-bg;
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(217,140,74,0.05) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(217,140,74,0.04) 0%, transparent 50%);
+}
+
+h1, h2, h3, .navbar-title {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: #f3ead e0;
+}
+
+// Cartes de la galerie / du blog
+.quarto-grid-item {
+  border: 1px solid rgba(217,140,74,0.15);
+  background: #342b26;        // brun légèrement plus clair que le fond
+  border-radius: 4px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.35);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  overflow: hidden;
+}
+
+.quarto-grid-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 28px rgba(217,140,74,0.18);
+  border-color: rgba(217,140,74,0.35);
+}
+
+.quarto-grid-item img {
+  transition: transform 0.4s ease, filter 0.4s ease;
+  filter: brightness(0.94);   // évite que les images "flashent" sur fond sombre
+}
+
+.quarto-grid-item:hover img {
+  transform: scale(1.03);
+  filter: brightness(1);
+}
+
+// Navbar
+.navbar {
+  background-color: $body-bg !important;
+  border-bottom: 1px solid rgba(217,140,74,0.15);
+}
+
+// Footer
+.page-footer {
+  border-top: 1px solid rgba(217,140,74,0.15);
+  color: rgba(237,228,216,0.55);
+  font-style: italic;
+}
+
+// Le bouton toggle jour/nuit lui-même, pour rester cohérent
+.quarto-color-scheme-toggle {
+  color: $primary;
+}

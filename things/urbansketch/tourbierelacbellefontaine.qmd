@@ -1,0 +1,14 @@
+---
+title: Tourbière
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784225563/tourbierelacbellefontaine_rkn8ys.png
+description: Tourbière du lac de Bellefontaine
+categories: ["urbansketch"]
+date: 2026-07-16
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784225563/tourbierelacbellefontaine_rkn8ys.png)
+

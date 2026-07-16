@@ -1,7 +1,7 @@
 ---
 title: Un vélo dans le Jura
 author: Raphaële Slimane
-image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784140472/velojuranuit_lkigx7.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784141528/velojuranuit2_fgge7f.png
 description: Un vélo la nuit dans le Jura, Bellefontaine
 categories: ["urbansketch"]
 date: 2026-07-15
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784140472/velojuranuit_lkigx7.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784141528/velojuranuit2_fgge7f.png)
 

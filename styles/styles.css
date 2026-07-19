@@ -144,6 +144,37 @@ Cards
   font-size: 1.4rem;
   letter-spacing: 0.02em;
 }
+
+/* Titre centré sur la barre, desktop comme mobile.
+   Le markup a bien `mx-auto`, mais Quarto l'annule via
+   `.navbar-container > .navbar-brand-container { margin: 0 !important }`.
+   Et un `margin:auto` ne centrerait de toute façon que par rapport aux
+   voisins (liens, outils, recherche), de largeurs inégales. On sort donc
+   la marque du flux pour la centrer sur le conteneur lui-même. */
+.navbar .navbar-container {
+  position: relative;
+  min-height: 3.25rem;   /* la marque étant hors flux, elle ne porte plus la hauteur */
+}
+
+/* `top`/`height` sont explicites : sans eux, la position statique d'un enfant
+   absolu dans un flex `align-items:center` se calcule sur toute la hauteur du
+   conteneur, et le titre descendrait au milieu du menu mobile déplié. */
+.navbar .navbar-container > .navbar-brand-container {
+  position: absolute;
+  top: 0;
+  height: 3.25rem;       /* = min-height du conteneur : reste sur la 1re ligne */
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0 !important;
+  max-width: 60%;        /* garde-fou anti-chevauchement sur petit écran */
+  padding-left: 0.5em;   /* Quarto met 0 à gauche et .5em à droite : décentrerait le texte */
+}
+
+.navbar .navbar-container > .navbar-brand-container .navbar-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 #title-block-header .quarto-title-subtitle,
 .quarto-title .subtitle {
   font-style: italic;

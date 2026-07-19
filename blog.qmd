@@ -1,6 +1,5 @@
 ---
 title: ""
-author: Raphaële Slimane
 description: ""
 listing:
   contents: blog

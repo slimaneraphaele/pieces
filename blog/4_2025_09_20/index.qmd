@@ -3,7 +3,7 @@ title: "Lists, lists, lists"
 author: "Raphaële Slimane"
 date: 2025/09/20
 description: " - "
-image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757937728/lyon2_kxoyzv.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411672/mouseteaparty_aawq1r.png
 categories: 
   - blogging
 execute: 
@@ -20,9 +20,12 @@ lightbox:
   loop: true
 ---
 
-1 - I’ve been reading a lot about lists lately. Lists can be forms of art. In the preface to *Lists of Note*, Shaun Usher, who describes himself as a professional nerd, explains why we absolutely adore lists as human beings. He gives three reasons: *“life is chaotic”*; *“everyone is a critic”* (ranking things is addictive, I count myself in that category while writing this); and finally *“time is precious”* (making lists saves us time, so we have more time for hobbies and, of course, to make more lists). 
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411672/mouseteaparty_aawq1r.png)
+*Mouse at a tea party, March 2025*
 
-The book comprises many lists, some of which are terrifying or hilarious (like the list of temporary golf rules sent to club members while bombs were being dropped on the course in 1940, Richmond, England : *“during gunfire or while bombs are falling, players may take cover without penalty for ceasing play”*), some are wittily written (list of rules for not flirting, distributed by the Anti-Flirt Club, an organization of women in the 1920s), and some are surprisingly accurate (a wish list of things to be achieved by science made in 1662 - many of which have since come true).
+1 - I’ve been reading a lot about lists lately. Lists can be forms of art. In the preface to [*Lists of Note*](https://www.goodreads.com/book/show/23123095-lists-of-note), Shaun Usher, who describes himself as a professional nerd, explains why we absolutely adore lists as human beings. He gives three reasons: *“life is chaotic”*; *“everyone is a critic”* (ranking things is addictive, I count myself in that category while writing this); and finally *“time is precious”* (making lists saves us time, so we have more time for hobbies and, of course, to make more lists). 
+
+The book comprises many lists, some of which are terrifying or hilarious (like the list of temporary golf rules sent to club members while bombs were being dropped on the course in 1940, Richmond, England : *“during gunfire or while bombs are falling, players may take cover without penalty for ceasing play”*), some are wittily written ([list of rules for not flirting](https://en.wikipedia.org/wiki/Anti-Flirt_Club), distributed by the Anti-Flirt Club, an organization of women in the 1920s), and some are surprisingly accurate (a wish list of things to be achieved by science made in 1662 - many of which have since come true).
 
 I also remembered stumbling upon a self-help psychology book about lists at the library a few years back. Most were the typical kinds of lists meant to help with life (your classic run-of-the-mill to-do lists), but what I loved were the weirder ones: like someone’s favorite lost lists. For instance, one person lost a list made in Mexico, in front of La Casa Azul - where Frida Kahlo lived - containing the names of all the cats that had lived there, as told by the gardener (mysteriously lost on a bus).
 

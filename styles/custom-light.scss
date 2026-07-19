@@ -12,7 +12,13 @@ $body-bg: #faf6f0;
   $body-color: #3a332c;
   $primary: #b5651d;          // terracotta pour liens/accents
   $link-color: #9c5a1f;
-  
+
+// Sans ça, Quarto colore la navbar à partir de $primary et en dérive un
+// texte contrastant (quasi blanc) illisible sur notre fond crème. Ces deux
+// variables lui font recalculer liens, marque, hamburger et icônes.
+$navbar-bg: $body-bg;
+$navbar-fg: $body-color;
+
   /*-- scss:rules --*/
   
   @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
@@ -53,7 +59,7 @@ h1, h2, h3, .navbar-title {
 
 // Navbar plus discrète, façon carnet
 .navbar {
-  background-color: $body-bg !important;
+  background-image: none;   // neutralise le dégradé --bs-gradient
   border-bottom: 1px solid rgba(181,101,29,0.15);
 }
 

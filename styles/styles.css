@@ -32,9 +32,9 @@ figure {
 /* Style for blockquotes */
 blockquote {
   font-style: italic;
-  border-left: 4px solid #999;
+  border-left: 4px solid currentColor;  /* suit la couleur du texte, donc le thème */
   padding-left: 15px;
-  color: #555;
+  color: var(--bs-secondary-color);
 }
 
 
@@ -107,7 +107,7 @@ Cards
 .quarto-listing .quarto-grid-item.card .card-subtitle {
   font-size: .95rem;    /* smaller */
   line-height: 1.35;
-  color: rgba(0,0,0,.7);
+  color: var(--bs-secondary-color);
   margin-bottom: .35rem;
   font-weight: 500;
 }
@@ -119,65 +119,23 @@ Cards
   opacity: .9;
 }
 
-/* ── Dark mode (Slate) overrides: make text light on dark ───────────── */
-/* Quarto sets data-bs-theme="dark" on <body> for dark mode.
-   IMPORTANT: on ne scope QUE sur cet attribut, jamais sur .quarto-dark,
-   pour éviter que ces variables ne s'appliquent en mode clair si cette
-   classe reste présente par erreur sur le body. */
-body[data-bs-theme="dark"] {
-  /* Core Bootstrap color tokens used by Slate in dark mode */
-  --bs-body-color: #f2f5f8;           /* main text (very light grey) */
-  --bs-heading-color: #ffffff;        /* headings = pure white */
-  --bs-link-color: #d8e7ff;           /* links: light bluish */
-  --bs-link-hover-color: #ffffff;     /* links on hover */
-  --bs-secondary-color: rgba(255,255,255,.75);  /* captions, meta */
-  --bs-border-color: rgba(255,255,255,.2);
-}
+/* Pas d'override de couleur par thème ici : custom-light.scss et
+   custom-dark.scss définissent déjà --bs-body-color (#3a332c / #ede4d8).
+   Attention, Quarto marque le mode sombre avec la classe `quarto-dark` sur
+   <body>, pas avec data-bs-theme="dark" (cet attribut n'est posé que sur la
+   navbar). Ce fichier étant chargé après les deux bundles, toute règle de
+   couleur écrite ici gagne sur les deux thèmes à la fois : n'y mettre que
+   des couleurs exprimées via les variables Bootstrap.
 
-/* Ensure article content actually uses those colors */
-body[data-bs-theme="dark"] #quarto-document-content,
-body[data-bs-theme="dark"] main.content {
-  color: var(--bs-body-color);
-}
-
-/* Headings + page title */
-body[data-bs-theme="dark"] h1,
-body[data-bs-theme="dark"] h2,
-body[data-bs-theme="dark"] h3,
-body[data-bs-theme="dark"] .quarto-title-block .title {
-  color: var(--bs-heading-color);
-}
-
-/* Links inside the reading column */
-body[data-bs-theme="dark"] main.content a {
-  color: var(--bs-link-color);
-  text-decoration: underline;
-  text-underline-offset: 2px;
-}
-body[data-bs-theme="dark"] main.content a:hover {
-  color: var(--bs-link-hover-color);
-}
-
-/* Captions / small meta */
-body[data-bs-theme="dark"] figcaption,
-body[data-bs-theme="dark"] .quarto-title-meta {
+   Sous-titre YAML `description` : Quarto ne le réduit que via
+   `.description > p`, or il est rendu en texte brut sans <p> quand il tient
+   sur une ligne. Sans la règle ci-dessous il hérite donc des 25px du body. */
+#title-block-header .description {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.1rem;
+  font-style: italic;
+  line-height: 1.4;
   color: var(--bs-secondary-color);
-  opacity: 1; /* override any previous opacity */
-}
-
-/* Blockquotes: lighten text + border */
-body[data-bs-theme="dark"] blockquote {
-  color: var(--bs-body-color);
-  border-left-color: var(--bs-border-color);
-}
-
-/* Sécurité supplémentaire : on force explicitement les couleurs par
-   défaut en mode clair, pour qu'aucune règle mal scopée ne puisse
-   plus jamais rendre le texte illisible sur fond clair. */
-body:not([data-bs-theme="dark"]) {
-  --bs-body-color: #3a332c;
-  --bs-heading-color: #3a332c;
-  --bs-secondary-color: rgba(58,51,44,.75);
 }
 
 .navbar-brand {

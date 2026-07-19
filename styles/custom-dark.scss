@@ -12,6 +12,16 @@ $body-color: #ede4d8;       // crème chaud pour le texte
 $primary: #d98c4a;          // terracotta éclairci pour contraste sur fond sombre
 $link-color: #e0a26a;
 
+// Slate active les dégradés Bootstrap : la navbar reçoit un voile
+// `background-image: var(--bs-gradient)` par-dessus le brun. On veut un
+// rendu plat, cohérent avec le thème clair.
+$enable-gradients: false;
+
+// Sans ça, Quarto colore la navbar à partir de $primary (terracotta) et en
+// dérive un texte quasi noir, illisible sur notre brun sombre.
+$navbar-bg: $body-bg;
+$navbar-fg: $body-color;
+
 /*-- scss:rules --*/
 
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
@@ -25,7 +35,7 @@ h1, h2, h3, .navbar-title {
   font-family: $headings-font-family;
   font-weight: 600;
   letter-spacing: 0.01em;
-  color: #f3ead e0;
+  color: #f3eae0;
 }
 
 // Cartes de la galerie / du blog
@@ -56,8 +66,12 @@ h1, h2, h3, .navbar-title {
 
 // Navbar
 .navbar {
-  background-color: $body-bg !important;
+  background-image: none;   // filet de sécurité si $enable-gradients revient
   border-bottom: 1px solid rgba(217,140,74,0.15);
+  text-shadow: none;        // relief Slate, incohérent sur une navbar plate
+  border-left: none;
+  border-right: none;
+  border-top: none;
 }
 
 // Footer

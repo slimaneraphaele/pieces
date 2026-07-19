@@ -97,7 +97,7 @@ Cards
 
 /* Blog listing: title vs subtitle sizes */
 .quarto-listing .quarto-grid-item.card .listing-title {
-  font-size: 1.15rem;   /* bigger */
+  font-size: 1.35rem;   /* bigger */
   line-height: 1.25;
   margin-bottom: .25rem;
   font-weight: 700;
@@ -119,19 +119,41 @@ Cards
   opacity: .9;
 }
 
-/* Vignettes de la page Blog (#blog_list uniquement, pas la grille Artworks) :
+/* Vignettes de la page Blog (#listing-blog_list uniquement, pas la grille Artworks) :
    carrées. La vraie balise <img> a les classes .thumbnail-image.card-img
    (pas .card-img-top, qui ne cible que le <p> conteneur) et reçoit un
    style="height: ...px" inline posé par Quarto, d'où le !important. */
-#blog_list .card-img-top {
+#listing-blog_list .card-img-top {
   height: auto;
 }
-#blog_list .card-img {
+#listing-blog_list .card-img {
   width: 100% !important;
   height: auto !important;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 4 / 3;
+  max-height: 200px;
   object-fit: cover !important;
   display: block;
+}
+
+/* Quarto fait grandir .card-attribution (flex-grow: 10) pour pousser la
+   date en bas de la carte : pensé pour laisser de la place à une longue
+   description, ça crée un grand vide inutile maintenant qu'on n'affiche
+   plus que titre + date (fields: [image, title, date] dans blog.qmd).
+   flex-grow:0 supprime le vide, margin-top:auto garde quand même la date
+   collée en bas (sans faire grandir la boîte) quand une carte voisine de
+   la même rangée est plus haute (titre sur 2 lignes). */
+#listing-blog_list .card-attribution {
+  flex-grow: 0 !important;
+  margin-top: auto;
+  padding-top: 0.5em;
+}
+
+/* Bootstrap met les dates en majuscules (text-transform: uppercase) via
+   .card-attribution ; on repasse en minuscules ici. */
+#listing-blog_list .card-attribution,
+#listing-blog_list .listing-date {
+  text-transform: none;
+  font-size: 0.8rem;
 }
 
 /* Pas d'override de couleur par thème ici : custom-light.scss et

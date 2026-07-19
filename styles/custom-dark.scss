@@ -74,6 +74,13 @@ h1, h2, h3, .navbar-title {
   border-top: none;
 }
 
+// Slate pose un liseré clair/foncé de part et d'autre de chaque lien
+// (border-right/border-left) pour un effet biseauté : incohérent avec la
+// navbar plate ci-dessus, donc neutralisé ici aussi.
+.navbar .nav-link {
+  border: none;
+}
+
 // Footer
 .page-footer {
   border-top: 1px solid rgba(217,140,74,0.15);

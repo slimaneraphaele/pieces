@@ -6,9 +6,9 @@
     /* Largeur en rem, pas en ch : `ch` vaut la largeur du glyphe « 0 », donc
        elle suit la taille de police et la colonne se déformait à chaque
        ajustement. Les deux réglages sont maintenant indépendants. */
-      --reading-width: 43rem;
+      --reading-width: 39rem;
     --reading-pad: 1.25rem;
-    --body-size: 21px;
+    --body-size: 19px;
       --line-height: 1.6;
   }
 
@@ -21,13 +21,16 @@ margin-inline: auto;
 padding-inline: var(--reading-pad);
 }
 
-/* Title block same width + centered */
+/* Title block same width + centered.
+   Pas de padding-inline ici : .quarto-title-block est un enfant de
+   main.content, qui applique déjà ce padding sur lui-même — l'ajouter
+   aussi ici le cumulait, décalant le titre vers la droite par rapport
+   au texte des paragraphes. */
   .quarto-title-block,
 .quarto-title-block .quarto-title-banner,
 .quarto-title-block .quarto-title {
   max-width: var(--reading-width);
   margin-inline: auto;
-  padding-inline: var(--reading-pad);
   text-align: left; /* set to center if you prefer */
 }
 
@@ -100,10 +103,10 @@ main.content figure > img {
 
 /* Responsiveness — a touch more width on big screens, comfy on phones */
   @media (min-width: 1200px) {
-    :root { --reading-width: 45rem; }
+    :root { --reading-width: 41rem; }
   }
 @media (max-width: 600px) {
-  :root { --reading-pad: 1rem; --body-size: 19px; }
+  :root { --reading-pad: 0.25rem; --body-size: 17px; }
 }
 
 /* If you previously added big global margins or borders to images/cards,
@@ -116,11 +119,17 @@ neutralize them in posts so the column looks clean. */
    Note : Quarto marque le mode sombre avec la classe `quarto-dark` sur
    <body>, pas avec data-bs-theme="dark". */
 
-/* Article images: slightly narrower than the reading column */
+/* Article images: taille fixe et identique pour toutes les images du
+   corps de texte (largeur fixe, hauteur libre pour garder les proportions
+   et ne jamais recadrer l'image).
+   Combinateurs de descendance (espace), pas d'enfant direct (>) : le
+   lightbox (glightbox) enveloppe chaque image dans <a class="lightbox">,
+   donc <img> n'est jamais un enfant direct de <p> ou <figure>. */
 main.content .quarto-figure img,
-main.content figure > img,
-main.content p > img {
-  max-width: 80% !important;   /* try 90–95% to taste */
+main.content figure img,
+main.content p img {
+  width: 500px !important;
+  max-width: 100% !important;  /* ne dépasse pas la colonne sur mobile */
   height: auto;
   display: block;
   margin-left: auto !important;

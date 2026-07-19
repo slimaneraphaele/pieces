@@ -130,6 +130,14 @@ Cards
    Sous-titre YAML `description` : Quarto ne le réduit que via
    `.description > p`, or il est rendu en texte brut sans <p> quand il tient
    sur une ligne. Sans la règle ci-dessous il hérite donc des 25px du body. */
+/* La marge haute posée sur `h1, h2, h3` sert à espacer les titres de section
+   dans le corps du texte, mais elle frappe aussi le titre de la page et crée
+   un vide au-dessus. Le sélecteur (1,1,1) bat les règles `h1,h2,h3` (0,0,1)
+   de ce fichier comme d'articles.css, quel que soit l'ordre de chargement. */
+#title-block-header .title {
+  margin-top: 0;
+}
+
 #title-block-header .description {
   font-family: "Cormorant Garamond", Georgia, serif;
   font-size: 1.1rem;

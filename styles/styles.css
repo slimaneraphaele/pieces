@@ -119,6 +119,21 @@ Cards
   opacity: .9;
 }
 
+/* Vignettes de la page Blog (#blog_list uniquement, pas la grille Artworks) :
+   carrées. La vraie balise <img> a les classes .thumbnail-image.card-img
+   (pas .card-img-top, qui ne cible que le <p> conteneur) et reçoit un
+   style="height: ...px" inline posé par Quarto, d'où le !important. */
+#blog_list .card-img-top {
+  height: auto;
+}
+#blog_list .card-img {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover !important;
+  display: block;
+}
+
 /* Pas d'override de couleur par thème ici : custom-light.scss et
    custom-dark.scss définissent déjà --bs-body-color (#3a332c / #ede4d8).
    Attention, Quarto marque le mode sombre avec la classe `quarto-dark` sur

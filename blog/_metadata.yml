@@ -1,6 +1,14 @@
 format:
   html:
-    css: 
+    css:
       - ../styles/articles.css    # adjust the path if your CSS lives elsewhere
     toc: false
     page-layout: article
+    # Police de lecture des billets, chargée ici plutôt que par un @import
+    # dans articles.css : le <link> est visible dans le HTML généré, donc
+    # vérifiable, et évite l'aller-retour réseau en série qu'impose @import.
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,600;1,400&display=swap">

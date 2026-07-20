@@ -18,8 +18,23 @@ listing:
   
 format:
   html:
-    theme: 
+    theme:
       light: litera
       dark: slate
     page-layout: article
 ---
+
+<p id="artwork-count" class="artwork-count"></p>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var el = document.getElementById("artwork-count");
+  var count = document.querySelectorAll("#listing-listing .quarto-grid-item").length;
+  if (el && count > 0) {
+    el.textContent = "Nombre de dessins, peintures et autres illustrations, gribouillis, etc : " + count;
+  }
+});
+</script>
+
+::: {#listing}
+:::

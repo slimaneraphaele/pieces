@@ -27,12 +27,21 @@ format:
 <p id="artwork-count" class="artwork-count"></p>
 
 <script>
+// Compter via listings.json (généré par Quarto avec la liste complète des
+// items) plutôt qu'en comptant les .quarto-grid-item dans le DOM : la
+// pagination (page-size: 30) ne garde que la page courante dans le DOM,
+// donc un comptage DOM ne donnait que 30 au lieu du total.
 document.addEventListener("DOMContentLoaded", function () {
   var el = document.getElementById("artwork-count");
-  var count = document.querySelectorAll("#listing-listing .quarto-grid-item").length;
-  if (el && count > 0) {
-    el.textContent = "Nombre de dessins, peintures et autres illustrations, gribouillis, etc : " + count;
-  }
+  if (!el) return;
+  fetch("listings.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var entry = data.find(function (d) { return d.listing.endsWith("index.html"); });
+      if (entry) {
+        el.textContent = "Nombre de dessins, peintures et autres illustrations, gribouillis, etc : " + entry.items.length;
+      }
+    });
 });
 </script>
 

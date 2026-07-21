@@ -1,0 +1,14 @@
+---
+title: Piazza di Spagna
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557476/rome_20230404_inj5kh.png
+description: Piazza di Spagna, Rome, cours de Savoir dessiner en urban sketching
+categories: [urbansketch]
+date: 2023/04/04
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557476/rome_20230404_inj5kh.png)
+

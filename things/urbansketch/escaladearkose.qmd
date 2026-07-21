@@ -1,0 +1,14 @@
+---
+title: Escalade
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557487/escalade_20240812_njkyd9.png
+description: Escalade à Arkose Paris
+categories: [urbansketch]
+date: 2024/08/12
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557487/escalade_20240812_njkyd9.png)
+

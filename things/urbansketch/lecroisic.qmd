@@ -1,0 +1,14 @@
+---
+title: Le Croisic
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557486/lecroisic_20240704_p54xin.png
+description: Visite du Croisic
+categories: [urbansketch]
+date: 2024/07/04
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557486/lecroisic_20240704_p54xin.png)
+

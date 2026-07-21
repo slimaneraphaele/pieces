@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/4_2025_09_20/index.html",
-      "/blog/3_2025_09_13/index.html",
-      "/blog/2_2025_09_06/index.html",
-      "/blog/1_2025_03_04_bienvenue/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/things/urbansketch/tourbierelacbellefontaine.html",
@@ -114,9 +105,11 @@
       "/things/urbansketch/grandcafeathene.html",
       "/things/urbansketch/italy.html",
       "/things/urbansketch/fontainebleau3.html",
+      "/things/urbansketch/escaladearkose.html",
       "/things/childrenillustration/childrenillu.html",
       "/things/urbansketch/alpes.html",
       "/things/urbansketch/toits.html",
+      "/things/urbansketch/lecroisic.html",
       "/things/urbansketch/morbihan.html",
       "/things/sanderson/kaladin.html",
       "/things/sanderson/sanderson1.html",
@@ -141,9 +134,19 @@
       "/things/childrenillustration/pandas.html",
       "/things/childrenillustration/taupe.html",
       "/things/urbansketch/england.html",
+      "/things/urbansketch/banlieuesudparis.html",
       "/things/urbansketch/caferose.html",
       "/things/urbansketch/montmartre.html",
       "/things/generalillustration/tableauhuile.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/4_2025_09_20/index.html",
+      "/blog/3_2025_09_13/index.html",
+      "/blog/2_2025_09_06/index.html",
+      "/blog/1_2025_03_04_bienvenue/index.html"
     ]
   }
 ]

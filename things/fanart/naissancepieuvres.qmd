@@ -1,0 +1,13 @@
+---
+title: Dessin d'après la naissance des pieuvres
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549228/naissancedespieuvres_g0odzw.jpg
+description: Dessin d'après la naissance des pieuvres
+categories: [fanart]
+date: 2023-05-06
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549228/naissancedespieuvres_g0odzw.jpg)

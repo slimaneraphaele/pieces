@@ -1,0 +1,13 @@
+---
+title: Dessin d'après Close
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549227/filmclose_pyzxps.jpg
+description: Dessin d'après Close
+categories: [fanart]
+date: 2023-05-29
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549227/filmclose_pyzxps.jpg)

@@ -1,0 +1,14 @@
+---
+title: Puy en Velay
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549192/puyenvelay_q8krjz.jpg
+description: Puy en Velay
+categories: ["urbansketching"]
+date: 2023/04/23
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549192/puyenvelay_q8krjz.jpg)
+

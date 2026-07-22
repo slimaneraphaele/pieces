@@ -1,0 +1,14 @@
+---
+title: Festival des Lumières
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549184/fetedeslumieres_i0cxnk.jpg
+description: Festival des Lumières, Lyon
+categories: ["urbansketching"]
+date: 2023/12/09
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549184/fetedeslumieres_i0cxnk.jpg)
+

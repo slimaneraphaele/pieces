@@ -1,0 +1,14 @@
+---
+title: Intérieur de café en hiver
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549191/cafehiver_xnvjyo.jpg
+description: Intérieur de café en hiver
+categories: ["urbansketching"]
+date: 2023/11/28
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549191/cafehiver_xnvjyo.jpg)
+

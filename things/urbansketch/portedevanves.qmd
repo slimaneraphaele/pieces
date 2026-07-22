@@ -1,0 +1,14 @@
+---
+title: Porte de Vanves
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549185/portedevanves_ev0nsd.jpg
+description: Porte de Vanves, Paris
+categories: ["urbansketching"]
+date: 2023/12/07
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549185/portedevanves_ev0nsd.jpg)
+

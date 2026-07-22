@@ -1,0 +1,14 @@
+---
+title: Cabine dans la forêt
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549193/cabinedanslesbois_vtlerl.jpg
+description: Cabine dans la forêt, cours de savoir dessiner en aquarelle
+categories: ["urbansketching"]
+date: 2023/04/14
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549193/cabinedanslesbois_vtlerl.jpg)
+

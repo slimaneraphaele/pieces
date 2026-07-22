@@ -1,0 +1,14 @@
+---
+title: Réinterprétation des Jeux d'enfants de Pieter Brueghel l'Ancien
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557532/bruegheljeuxdenfants_20220301_ozaavb.png
+description: Réinterprétation des Jeux d'enfants de Pieter Brueghel l'Ancien
+categories: ["generalillustration"]
+date: 2022-03-01
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557532/bruegheljeuxdenfants_20220301_ozaavb.png)
+

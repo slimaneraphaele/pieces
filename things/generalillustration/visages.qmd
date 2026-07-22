@@ -1,0 +1,14 @@
+---
+title: Visages et expressions
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557538/visages_20230115_arzght.png
+description: Visages et expressions, Line of action website
+categories: ["generalillustration"]
+date: 2023-01-15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557538/visages_20230115_arzght.png)
+

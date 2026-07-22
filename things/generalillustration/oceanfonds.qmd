@@ -1,0 +1,14 @@
+---
+title: Fonds de l'océan
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557534/ocean_20220318_nu0woa.png
+description: Fonds de l'océan
+categories: ["generalillustration"]
+date: 2022-03-18
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557534/ocean_20220318_nu0woa.png)
+

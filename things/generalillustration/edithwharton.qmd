@@ -1,0 +1,14 @@
+---
+title: Illustration d'après the House of Mirth de Edith Wharton
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557512/edithwharton_20201115_smvti0.png
+description: Illustration d'après the House of Mirth de Edith Wharton
+categories: ["generalillustration"]
+date: 2020-11-15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557512/edithwharton_20201115_smvti0.png)
+

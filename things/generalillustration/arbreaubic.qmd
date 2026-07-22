@@ -1,0 +1,14 @@
+---
+title: Un arbre au stylo bille
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549268/arbreaubic_odbxsc.jpg
+description: Un arbre au bic, cours sur le stylo bille savoir dessiner
+categories: ["generalillustration"]
+date: 2023-11-24
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549268/arbreaubic_odbxsc.jpg)
+

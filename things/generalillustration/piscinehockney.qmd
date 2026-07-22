@@ -1,0 +1,14 @@
+---
+title: Piscine d'après Hockney
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549269/piscinehockney_zqpso3.jpg
+description: Piscine d'après Hockney, cours
+categories: ["generalillustration"]
+date: 2023-08-01
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549269/piscinehockney_zqpso3.jpg)
+

@@ -1,0 +1,14 @@
+---
+title: Une de mes cousines
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557515/cousine_20210813_rf7yj6.png
+description: Une de mes cousines
+categories: ["generalillustration"]
+date: 2021-08-13
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557515/cousine_20210813_rf7yj6.png)
+

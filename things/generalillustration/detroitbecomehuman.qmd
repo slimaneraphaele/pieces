@@ -1,0 +1,14 @@
+---
+title: Detroit Become Human
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557517/detroit_20211024_gvymhk.png
+description: Detroit Become Human
+categories: ["generalillustration"]
+date: 2021-10-24
+format:
+  html:
+    page-layout: full
+---
+
+![]( https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557517/detroit_20211024_gvymhk.png)
+

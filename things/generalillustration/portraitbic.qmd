@@ -1,0 +1,14 @@
+---
+title: Portraits au stylo bille
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549266/portraitsbic_berjfu.jpg
+description: Portraits au stylo bille
+categories: ["generalillustration"]
+date: 2023-11-19
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549266/portraitsbic_berjfu.jpg)
+

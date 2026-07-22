@@ -1,7 +1,7 @@
 ---
 title: Un pug
 author: Raphaële Slimane
-image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549264/pug_cvvtu4.jpg
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784728772/pug2_gtaakv.png
 description: Pug au crayon de couleur
 categories: ["generalillustration"]
 date: 2026-01-16
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549264/pug_cvvtu4.jpg)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784728772/pug2_gtaakv.png)
 

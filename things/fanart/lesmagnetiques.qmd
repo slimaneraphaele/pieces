@@ -1,0 +1,13 @@
+---
+title: Les Magnétiques
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557608/magnetiques_20211211_kafl5g.png
+description: Les Magnétiques
+categories: [fanart]
+date: 2021-12-11
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557608/magnetiques_20211211_kafl5g.png)

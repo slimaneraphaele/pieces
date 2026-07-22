@@ -1,0 +1,13 @@
+---
+title: Les passagers de la nuit
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557613/passagersdelanuit_20220510_bkcjkt.png
+description: Les passagers de la nuit
+categories: [fanart]
+date: 2022-05-10
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557613/passagersdelanuit_20220510_bkcjkt.png)

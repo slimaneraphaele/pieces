@@ -1,0 +1,13 @@
+---
+title: Films du confinement
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557600/films_20210628_xmqjji.png
+description: Films du confinement - A l'abordage, Fedora, le lac des oies sauvages, Aguirre
+categories: [fanart]
+date: 2021-12-11
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557600/films_20210628_xmqjji.png)

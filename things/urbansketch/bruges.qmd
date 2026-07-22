@@ -1,0 +1,14 @@
+---
+title: Bruges
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061335/bruges_cvvxn3.png
+description: Bruges
+categories: ["urbansketching"]
+date: 2026/03/06
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061335/bruges_cvvxn3.png)
+

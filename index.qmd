@@ -50,48 +50,55 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <script>
 // Ajoute des boutons « Première » / « Dernière » page à la pagination de
-// la grille Artworks. List.js (utilisé par Quarto pour la pagination) ne
-// propose que les numéros de page par défaut, pas de raccourci vers les
-// extrémités. On réinjecte les boutons après chaque "updated" (tri, filtre,
-// changement de page) car List.js régénère entièrement le <ul> à ce moment.
+// la grille Artworks, sur toutes les pages. List.js régénère entièrement
+// le <ul> de pagination à chaque changement de page, et ne déclenche pas
+// systématiquement son évènement "updated" pour un simple clic sur un
+// numéro de page (seulement au tri/filtre) : on utilise donc un
+// MutationObserver qui surveille le <ul> directement, quelle qu'en soit
+// la cause, et réinjecte les boutons à chaque fois qu'il est reconstruit.
 document.addEventListener("DOMContentLoaded", function () {
   var tries = 0;
   (function tryInit() {
     var list = window["quarto-listings"] && window["quarto-listings"]["listing-listing"];
-    if (!list) {
+    var pag = document.querySelector("#listing-pagination ul.pagination");
+    if (!list || !pag) {
       if (tries++ < 50) setTimeout(tryInit, 100);
       return;
     }
     var pageSize = list.page;
+    var injecting = false;
 
     function addFirstLastButtons() {
-      var pag = document.querySelector("#listing-pagination ul.pagination");
-      if (!pag) return;
+      if (injecting) return; // évite que nos propres insertions ne re-déclenchent l'observer
+      injecting = true;
+
       pag.querySelectorAll(".quarto-jump-page").forEach(function (n) { n.remove(); });
 
       var total = (list.matchingItems && list.matchingItems.length) || list.size();
-      if (total <= pageSize) return; // une seule page : rien à ajouter
+      if (total > pageSize) {
+        function makeButton(label, startIndex) {
+          var li = document.createElement("li");
+          li.className = "page-item quarto-jump-page";
+          var a = document.createElement("a");
+          a.className = "page page-link";
+          a.href = "#";
+          a.textContent = label;
+          a.addEventListener("click", function (e) {
+            e.preventDefault();
+            list.show(startIndex, pageSize);
+          });
+          li.appendChild(a);
+          return li;
+        }
 
-      function makeButton(label, startIndex) {
-        var li = document.createElement("li");
-        li.className = "page-item quarto-jump-page";
-        var a = document.createElement("a");
-        a.className = "page page-link";
-        a.href = "#";
-        a.textContent = label;
-        a.addEventListener("click", function (e) {
-          e.preventDefault();
-          list.show(startIndex, pageSize);
-        });
-        li.appendChild(a);
-        return li;
+        pag.insertBefore(makeButton("« Première", 1), pag.firstChild);
+        pag.appendChild(makeButton("Dernière »", Math.max(1, total - pageSize + 1)));
       }
 
-      pag.insertBefore(makeButton("« Première", 1), pag.firstChild);
-      pag.appendChild(makeButton("Dernière »", Math.max(1, total - pageSize + 1)));
+      injecting = false;
     }
 
-    list.on("updated", addFirstLastButtons);
+    new MutationObserver(addFirstLastButtons).observe(pag, { childList: true });
     addFirstLastButtons();
   })();
 });

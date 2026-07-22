@@ -1,0 +1,14 @@
+---
+title: Gerardmer
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549169/gerardmer_wnxyhz.jpg
+description: Gerardmer, Vosges
+categories: ["urbansketching"]
+date: 2026/01/19
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549169/gerardmer_wnxyhz.jpg)
+

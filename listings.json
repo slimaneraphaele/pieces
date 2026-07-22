@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/4_2025_09_20/index.html",
-      "/blog/3_2025_09_13/index.html",
-      "/blog/2_2025_09_06/index.html",
-      "/blog/1_2025_03_04_bienvenue/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/things/urbansketch/tourbierelacbellefontaine.html",
@@ -149,7 +140,37 @@
       "/things/urbansketch/romeplace.html",
       "/things/urbansketch/caferose.html",
       "/things/urbansketch/montmartre.html",
+      "/things/urbansketch/villescandinave.html",
+      "/things/urbansketch/morbihan2.html",
+      "/things/urbansketch/ny.html",
+      "/things/urbansketch/festivaltreso.html",
+      "/things/urbansketch/arkose.html",
+      "/things/urbansketch/pmu.html",
+      "/things/urbansketch/roilion.html",
+      "/things/urbansketch/maisonsbanlieue.html",
+      "/things/urbansketch/latreso.html",
+      "/things/urbansketch/romefontaine4fleuves.html",
+      "/things/urbansketch/romeforumromain.html",
+      "/things/urbansketch/beaubourg.html",
+      "/things/urbansketch/luxembourg.html",
+      "/things/urbansketch/mairie14.html",
+      "/things/urbansketch/lansenvercors.html",
+      "/things/urbansketch/giverny.html",
+      "/things/urbansketch/lansenvercors2.html",
+      "/things/urbansketch/lansenvercors3.html",
+      "/things/urbansketch/rosabonheur.html",
+      "/things/urbansketch/quaresermentkoufra.html",
+      "/things/urbansketch/montmartrerueabreuvoir.html",
       "/things/generalillustration/tableauhuile.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/4_2025_09_20/index.html",
+      "/blog/3_2025_09_13/index.html",
+      "/blog/2_2025_09_06/index.html",
+      "/blog/1_2025_03_04_bienvenue/index.html"
     ]
   }
 ]

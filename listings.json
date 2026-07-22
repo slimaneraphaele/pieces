@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/4_2025_09_20/index.html",
-      "/blog/3_2025_09_13/index.html",
-      "/blog/2_2025_09_06/index.html",
-      "/blog/1_2025_03_04_bienvenue/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/things/generalillustration/portraithockney.html",
@@ -145,6 +136,7 @@
       "/things/fanart/addielarue.html",
       "/things/fanart/fae.html",
       "/things/generalillustration/marmottes.html",
+      "/things/urbansketch/morbihanquiberon.html",
       "/things/fanart/deesse.html",
       "/things/childrenillustration/pandas.html",
       "/things/childrenillustration/taupe.html",
@@ -194,6 +186,15 @@
       "/things/generalillustration/debuscherrerodin.html",
       "/things/urbansketch/henri4.html",
       "/things/generalillustration/tableauhuile.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/4_2025_09_20/index.html",
+      "/blog/3_2025_09_13/index.html",
+      "/blog/2_2025_09_06/index.html",
+      "/blog/1_2025_03_04_bienvenue/index.html"
     ]
   }
 ]

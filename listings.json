@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/things/generalillustration/portraithockney.html",
+      "/things/urbansketch/velojuraadeux.html",
       "/things/urbansketch/tourbierelacbellefontaine.html",
       "/things/urbansketch/velojuranuit.html",
       "/things/urbansketch/lacrousses.html",
@@ -161,6 +163,14 @@
       "/things/urbansketch/rosabonheur.html",
       "/things/urbansketch/quaresermentkoufra.html",
       "/things/urbansketch/montmartrerueabreuvoir.html",
+      "/things/urbansketch/cafe19.html",
+      "/things/urbansketch/gr20.html",
+      "/things/urbansketch/portovecchioarbre.html",
+      "/things/urbansketch/piedsgr20.html",
+      "/things/urbansketch/portovecchiomaison.html",
+      "/things/urbansketch/gr20deuxiemejournee.html",
+      "/things/urbansketch/gr20premierejournee.html",
+      "/things/urbansketch/henri4.html",
       "/things/generalillustration/tableauhuile.html"
     ]
   },

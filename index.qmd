@@ -47,3 +47,50 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ::: {#listing}
 :::
+
+<script>
+// Ajoute des boutons « Première » / « Dernière » page à la pagination de
+// la grille Artworks. List.js (utilisé par Quarto pour la pagination) ne
+// propose que les numéros de page par défaut, pas de raccourci vers les
+// extrémités.
+document.addEventListener("DOMContentLoaded", function () {
+  var tries = 0;
+  (function tryInit() {
+    var list = window["quarto-listings"] && window["quarto-listings"]["listing-listing"];
+    if (!list) {
+      if (tries++ < 50) setTimeout(tryInit, 100);
+      return;
+    }
+    var pageSize = list.page;
+
+    function addFirstLastButtons() {
+      var pag = document.querySelector("#listing-pagination ul.pagination");
+      if (!pag) return;
+      pag.querySelectorAll(".quarto-jump-page").forEach(function (n) { n.remove(); });
+
+      var total = (list.matchingItems && list.matchingItems.length) || list.size();
+      if (total <= pageSize) return; // une seule page : rien à ajouter
+
+      function makeButton(label, startIndex) {
+        var li = document.createElement("li");
+        li.className = "page-item quarto-jump-page";
+        var a = document.createElement("a");
+        a.className = "page page-link";
+        a.href = "#";
+        a.textContent = label;
+        a.addEventListener("click", function (e) {
+          e.preventDefault();
+          list.show(startIndex, pageSize);
+        });
+        li.appendChild(a);
+        return li;
+      }
+
+      pag.insertBefore(makeButton("« Première", 1), pag.firstChild);
+      pag.appendChild(makeButton("Dernière »", Math.max(1, total - pageSize + 1)));
+    }
+
+    addFirstLastButtons();
+  })();
+});
+</script>

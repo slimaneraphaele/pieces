@@ -1,0 +1,14 @@
+---
+title: Quiberon
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061334/quiberon_x64onw.png
+description: Quiberon, Morbihan, Bretagne
+categories: ["urbansketching"]
+date: 2024/02/01
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1780061334/quiberon_x64onw.png)
+

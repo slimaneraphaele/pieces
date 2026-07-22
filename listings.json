@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/4_2025_09_20/index.html",
+      "/blog/3_2025_09_13/index.html",
+      "/blog/2_2025_09_06/index.html",
+      "/blog/1_2025_03_04_bienvenue/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/things/generalillustration/portraithockney.html",
@@ -19,10 +28,13 @@
       "/things/fanart/Birdgerton.html",
       "/things/urbansketch/palais.html",
       "/things/generalillustration/coffeeplace.html",
+      "/things/urbansketch/bruges.html",
       "/things/generalillustration/fleurs.html",
       "/things/generalillustration/animauxaustralie2.html",
       "/things/generalillustration/meduses.html",
+      "/things/urbansketch/gerardmer.html",
       "/things/urbansketch/vosges2.html",
+      "/things/urbansketch/vosgesforet.html",
       "/things/generalillustration/fleurshumaines.html",
       "/things/urbansketch/vosges.html",
       "/things/generalillustration/fleurstapisserie.html",
@@ -182,15 +194,6 @@
       "/things/generalillustration/debuscherrerodin.html",
       "/things/urbansketch/henri4.html",
       "/things/generalillustration/tableauhuile.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/4_2025_09_20/index.html",
-      "/blog/3_2025_09_13/index.html",
-      "/blog/2_2025_09_06/index.html",
-      "/blog/1_2025_03_04_bienvenue/index.html"
     ]
   }
 ]

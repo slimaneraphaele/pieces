@@ -1,0 +1,14 @@
+---
+title: Ourson en 3D avec Blender
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784730517/ourson_diivul.png
+description: Ourson en 3D avec Blender
+categories: ["3D"]
+date: 2021-04-21 
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784730517/ourson_diivul.png)
+

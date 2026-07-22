@@ -1,0 +1,14 @@
+---
+title: Cookie en 3D avec Blender
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784730529/cookie_m4yj1n.png
+description: Cookie en 3D avec Blender, cours de Blender Guru
+categories: ["3D"]
+date: 2021-03-15 
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784730529/cookie_m4yj1n.png)
+

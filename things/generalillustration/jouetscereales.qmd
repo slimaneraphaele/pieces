@@ -1,0 +1,14 @@
+---
+title: Jouets des boites de céréales des années 1990-2000
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557523/jouetscereales_20211229_usyyex.png
+description: Jouets des boites de céréales des années 1990-2000
+categories: ["generalillustration"]
+date: 2021-12-29
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557523/jouetscereales_20211229_usyyex.png)
+

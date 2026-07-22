@@ -1,0 +1,14 @@
+---
+title: bureau dans While we're young
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557527/whilewereyoung_20220225_mjq9cb.png
+description: bureau dans While we're young
+categories: ["generalillustration"]
+date: 2022-02-25
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557527/whilewereyoung_20220225_mjq9cb.png)
+

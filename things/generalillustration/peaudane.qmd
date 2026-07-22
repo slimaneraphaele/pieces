@@ -1,0 +1,14 @@
+---
+title: Peau d'Ane
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557525/peaudane_20220207_jy8wyh.png
+description: Peau d'Ane, dessin avec mes cousins
+categories: ["generalillustration"]
+date: 2022-02-07
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557525/peaudane_20220207_jy8wyh.png)
+

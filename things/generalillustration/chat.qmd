@@ -1,0 +1,14 @@
+---
+title: Chat et bizarreries
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557529/chat_20220304_wjcgdy.png
+description: Chat et bizarreries
+categories: ["generalillustration"]
+date: 2022-03-01
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557529/chat_20220304_wjcgdy.png)
+

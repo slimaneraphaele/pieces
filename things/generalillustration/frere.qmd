@@ -1,0 +1,14 @@
+---
+title: Mon frère
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557521/monfrere_20211228_ejhogz.png
+description: Mon frère
+categories: ["generalillustration"]
+date: 2021-12-28
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557521/monfrere_20211228_ejhogz.png)
+

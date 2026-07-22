@@ -1,0 +1,14 @@
+---
+title: Ville scandinave
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557474/villescandinave_20230324_v9m0m8.png
+description: Cours de Savoir dessiner en urban sketching
+categories: [urbansketch]
+date: 2023/03/24
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557474/villescandinave_20230324_v9m0m8.png)
+

@@ -1,0 +1,14 @@
+---
+title: Rosa Bonheur
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557439/rosabonheur_20210708_gsabpr.png
+description: Le rosa Bonheur à Vincennes
+categories: [urbansketch]
+date: 2021/07/08
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557439/rosabonheur_20210708_gsabpr.png)
+

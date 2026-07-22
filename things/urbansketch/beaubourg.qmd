@@ -1,0 +1,14 @@
+---
+title: Beaubourg, Paris
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557452/beaubourg_20211024_q4mzih.png
+description: Beaubourg, Paris
+categories: [urbansketch]
+date: 2021/10/24
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557452/beaubourg_20211024_q4mzih.png)
+

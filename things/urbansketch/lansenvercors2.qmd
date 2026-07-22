@@ -1,0 +1,14 @@
+---
+title: Lans en Vercors
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557443/vercors_20210805_x4ntxn.png
+description: Vue du chalet le matin
+categories: [urbansketch]
+date: 2021/08/05
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557443/vercors_20210805_x4ntxn.png)
+

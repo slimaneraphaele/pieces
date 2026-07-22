@@ -1,0 +1,14 @@
+---
+title: New York
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557470/ny_20230128_yhtjw2.png
+description: New York sous la neige
+categories: [urbansketch]
+date: 2023/01/28
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557470/ny_20230128_yhtjw2.png)
+

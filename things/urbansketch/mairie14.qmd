@@ -1,0 +1,14 @@
+---
+title: Mairie du 14eme
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557449/mairie14_20211010_wtdlde.png
+description: Mairie, Paris 14
+categories: [urbansketch]
+date: 2021/10/10
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557449/mairie14_20211010_wtdlde.png)
+

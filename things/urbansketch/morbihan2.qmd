@@ -1,0 +1,14 @@
+---
+title: Ville du Morbihan
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557472/etel_20230205_cj73fq.png
+description: Le jardin de la maison familiale, Morbihan
+categories: [urbansketch]
+date: 2023/02/05
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557472/etel_20230205_cj73fq.png)
+

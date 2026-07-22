@@ -1,0 +1,14 @@
+---
+title: Café
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557458/latreso_20220218_nvnqbl.png
+description: Café
+categories: [urbansketch]
+date: 2022/02/18
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557458/latreso_20220218_nvnqbl.png)
+

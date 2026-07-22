@@ -1,0 +1,14 @@
+---
+title: Giverny
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557444/giverny_20210812_ar7hgu.png
+description: Maison de Claude Monet à Giverny
+categories: [urbansketch]
+date: 2021/08/12
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557444/giverny_20210812_ar7hgu.png)
+

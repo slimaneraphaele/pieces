@@ -1,0 +1,14 @@
+---
+title: Lans en Vercors
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557446/vercors_20210816_hm98vd.png
+description: Vue sur une balade
+categories: [urbansketch]
+date: 2021/08/16
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557446/vercors_20210816_hm98vd.png)
+

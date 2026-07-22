@@ -1,0 +1,14 @@
+---
+title: La Tréso
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557468/latreso_20220917_eeapur.png
+description: Festival de la Tréso
+categories: [urbansketch]
+date: 2022/09/17
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557468/latreso_20220917_eeapur.png)
+

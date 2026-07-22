@@ -1,0 +1,14 @@
+---
+title: PMU
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557466/gensaucafe_20220319_af7z8u.png
+description: Gens au café
+categories: [urbansketch]
+date: 2022/03/19
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557466/gensaucafe_20220319_af7z8u.png)
+

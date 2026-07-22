@@ -1,0 +1,14 @@
+---
+title: Maisons de banlieue proche Paris 14
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557462/maisonsmalakoff_20220309_xjk3r4.png
+description: Maisons de banlieue proche Paris 14
+categories: [urbansketch]
+date: 2022/03/09
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557462/maisonsmalakoff_20220309_xjk3r4.png)
+

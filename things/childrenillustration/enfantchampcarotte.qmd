@@ -1,7 +1,7 @@
 ---
 title: Enfant dans un champ avec des légumes géants
 author: Raphaële Slimane
-image: https://res.cloudinary.com/dyjfju0u4/image/upload/v1784557559/f_auto,q_auto/enfantchampcarotte_20240513_qoaqgf.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557559/enfantchampcarotte_20240513_qoaqgf.png
 description: Enfant dans un champ avec des légumes géants
 categories: ["children illustration"]
 date: 2024-05-13
@@ -10,5 +10,5 @@ format:
     page-layout: full
 ---
 
-![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557561/chalet_20250331_nt4mp4.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557559/enfantchampcarotte_20240513_qoaqgf.png)
 

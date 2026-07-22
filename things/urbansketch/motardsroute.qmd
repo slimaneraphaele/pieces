@@ -1,0 +1,14 @@
+---
+title: Motards sur la route de Valloire, vers Chablis
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784733608/motardschablis_20240712_prvztp.png
+description: Motards sur la route de Valloire, vers Chablis
+categories: ["urbansketching"]
+date: 2024-07-12
+format:
+  html:
+    page-layout: full
+---
+
+![]( https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784733608/motardschablis_20240712_prvztp.png)
+

@@ -1,0 +1,14 @@
+---
+title: Maisons du Morbihan
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784733400/maisonsbretonnes_nnu7ti.png
+description: Maisons du Morbihan
+categories: ["generalillustration"]
+date: 2021/11/02
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784733400/maisonsbretonnes_nnu7ti.png)
+

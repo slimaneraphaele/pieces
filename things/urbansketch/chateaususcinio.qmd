@@ -1,0 +1,14 @@
+---
+title: Château de Suscinio
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784733628/chateaususcinio_ugubyu.png
+description: Château de Suscinio
+categories: ["urbansketching"]
+date: 2024-06-28
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784733628/chateaususcinio_ugubyu.png)
+

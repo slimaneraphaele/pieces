@@ -1,0 +1,14 @@
+---
+title: Portrait d'après Hockney
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784711658/portraithockney_dvf3bn.png
+description: Portrait d'après le portrait de Clara de David Hockney
+categories: ["generalillustration"]
+date: 2026/07/20
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784711658/portraithockney_dvf3bn.png)
+

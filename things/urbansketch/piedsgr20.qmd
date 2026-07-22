@@ -1,0 +1,14 @@
+---
+title: Porto Vecchio, pieds dans le sable
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557425/portovecchio_20180815_epwwgx.png
+description: Les pieds dans le sable de L à Porto Vecchio, Corse
+categories: ["urbansketching"]
+date: 2018/08/15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557425/portovecchio_20180815_epwwgx.png)
+

@@ -1,0 +1,14 @@
+---
+title: cloître
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557416/henri4_20180125_irzcwg.png
+description: Cloître du lycée Henri IV, Paris 5
+categories: ["urbansketching"]
+date: 2018/01/25
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557416/henri4_20180125_irzcwg.png)
+

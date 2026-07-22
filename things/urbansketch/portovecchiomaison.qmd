@@ -1,0 +1,14 @@
+---
+title: Porto Vecchio, maison du camping
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557423/portovecchio_20180814_ofx36c.png
+description: Maison du camping à Porto Vecchio
+categories: ["urbansketching"]
+date: 2018/08/14
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557423/portovecchio_20180814_ofx36c.png)
+

@@ -1,0 +1,14 @@
+---
+title: gr20
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557420/gr20_20180812_gq1i2o.png
+description: Vue sur la première journée du GR20, Corse
+categories: ["urbansketching"]
+date: 2018/08/12
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557420/gr20_20180812_gq1i2o.png)
+

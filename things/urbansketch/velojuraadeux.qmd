@@ -1,0 +1,14 @@
+---
+title: Vélo dans le Jura
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784711780/velojuraadeux2_dxbah0.png
+description: Vélo dans le Haut Jura, près de Morbier
+categories: [urbansketch]
+date: 2026/07/18
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784711780/velojuraadeux2_dxbah0.png)
+

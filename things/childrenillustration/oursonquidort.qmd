@@ -1,0 +1,14 @@
+---
+title: Ourson qui dort
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557557/oursondort_20240409_qiannn.png
+description: Ourson qui dort
+categories: ["children illustration"]
+date: 2024-04-09
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557557/oursondort_20240409_qiannn.png)
+

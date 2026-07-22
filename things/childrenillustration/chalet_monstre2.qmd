@@ -1,0 +1,14 @@
+---
+title: Maison monstre / Monster house
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557561/chalet_20250331_nt4mp4.png
+description: Une autre maison monstre 
+categories: ["children illustration"]
+date: 2025-03-31
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557561/chalet_20250331_nt4mp4.png)
+

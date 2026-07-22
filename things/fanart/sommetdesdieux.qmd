@@ -1,0 +1,13 @@
+---
+title: Sommet des dieux
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784735189/sommetdesdieux_wcthu7.png
+description: Sommet des dieux
+categories: [fanart]
+date: 2021-10-24
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784735189/sommetdesdieux_wcthu7.png)

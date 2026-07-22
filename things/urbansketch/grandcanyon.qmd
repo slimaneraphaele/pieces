@@ -1,0 +1,14 @@
+---
+title: Grand Canyon, cours aquarelle Savoir dessiner
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784735228/grandcanyon_d5amqh.png
+description: Grand Canyon, cours aquarelle Savoir dessiner
+categories: [urbansketch]
+date: 2023/05/01
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784735228/grandcanyon_d5amqh.png)
+

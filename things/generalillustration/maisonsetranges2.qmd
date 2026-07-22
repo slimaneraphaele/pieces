@@ -1,0 +1,14 @@
+---
+title: Maisons étranges
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784735238/maisonsetranges2_lelhxv.png
+description: Maisons étranges
+categories: ["generalillustration"]
+date: 2025-11-11
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784735238/maisonsetranges2_lelhxv.png)
+

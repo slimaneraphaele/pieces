@@ -1,0 +1,14 @@
+---
+title: Calanques, cours aquarelle Savoir dessiner
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/v1784735010/calanques_gjwmif.png
+description: Calanques, cours aquarelle Savoir dessiner
+categories: [urbansketch]
+date: 2023/05/05
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/v1784735010/calanques_gjwmif.png)
+

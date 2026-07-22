@@ -1,0 +1,14 @@
+---
+title: Seville, cours savoir dessiner urban sketching
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784733592/courssavoirdessiner_vnmfe7.png
+description: Seville, cours savoir dessiner urban sketching
+categories: [urbansketch]
+date: 2023/03/25
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784733592/courssavoirdessiner_vnmfe7.png)
+

@@ -1,0 +1,14 @@
+---
+title: Bangkok, cours savoir dessiner urban sketching
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1v1784733599/vietnam_qu7kit.png
+description: Bangkok, cours savoir dessiner urban sketching
+categories: [urbansketch]
+date: 2023/03/24
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1v1784733599/vietnam_qu7kit.png)
+

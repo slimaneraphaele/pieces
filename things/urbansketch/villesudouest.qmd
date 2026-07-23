@@ -1,0 +1,14 @@
+---
+title: Ville sud ouest, cours savoir dessiner
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784794105/sudouestville_ivz3hc.png
+description: Ville sud ouest, cours savoir dessiner
+categories: ["urbansketching"]
+date: 2023/04/25
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784794105/sudouestville_ivz3hc.png)
+

@@ -1,0 +1,14 @@
+---
+title: Prairie à l'aquarelle, cours savoir dessiner
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784795318/prairieaquarelle_bbhgws.png
+description: Prairie à l'aquarelle, cours savoir dessiner
+categories: [urbansketch]
+date: 2023/04/10
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784795318/prairieaquarelle_bbhgws.png)
+

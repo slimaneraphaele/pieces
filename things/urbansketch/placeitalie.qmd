@@ -1,0 +1,14 @@
+---
+title: Fontaine en Italie
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784794106/fontaineitalie_vyyav9.png
+description: Fontaine en Italie
+categories: [urbansketch]
+date: 2023/04/15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784794106/fontaineitalie_vyyav9.png)
+

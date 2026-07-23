@@ -1,0 +1,14 @@
+---
+title: Place Vendôme Paris
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784794106/placeparis_dblprl.png
+description: Place Vendôme Paris, cours savoir dessiner
+categories: ["urbansketching"]
+date: 2023/04/20
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784794106/placeparis_dblprl.png)
+

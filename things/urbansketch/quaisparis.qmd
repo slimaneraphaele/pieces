@@ -1,0 +1,14 @@
+---
+title: Les quais Paris
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784794106/lesquaisparis_aun6pe.png
+description: Les quais Paris
+categories: ["urbansketching"]
+date: 2023/05/13
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784794106/lesquaisparis_aun6pe.png)
+

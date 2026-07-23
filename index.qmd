@@ -49,48 +49,85 @@ document.addEventListener("DOMContentLoaded", function () {
 :::
 
 <script>
-// Ajoute des boutons « Première » / « Dernière » page à la pagination de
-// la grille Artworks. List.js (utilisé par Quarto pour la pagination) ne
-// propose que les numéros de page par défaut, pas de raccourci vers les
-// extrémités.
+// Pagination maison pour la grille Artworks : la pagination par défaut de
+// List.js (numéros bruts dans des <li class="page-item">) est masquée, et
+// remplacée par une barre qu'on pilote nous-mêmes — donc plus de course
+// avec les re-rendus internes de List.js (MutationObserver, etc.).
+// Ordre affiché : 1 … [page-1] [page] [page+1] … [dernière page].
 document.addEventListener("DOMContentLoaded", function () {
   var tries = 0;
   (function tryInit() {
     var list = window["quarto-listings"] && window["quarto-listings"]["listing-listing"];
-    if (!list) {
+    var defaultPag = document.querySelector("#listing-pagination");
+    if (!list || !defaultPag) {
       if (tries++ < 50) setTimeout(tryInit, 100);
       return;
     }
+
+    defaultPag.style.display = "none";
+
     var pageSize = list.page;
+    var total = (list.matchingItems && list.matchingItems.length) || list.size();
+    var totalPages = Math.max(1, Math.ceil(total / pageSize));
+    var currentPage = 1;
 
-    function addFirstLastButtons() {
-      var pag = document.querySelector("#listing-pagination ul.pagination");
-      if (!pag) return;
-      pag.querySelectorAll(".quarto-jump-page").forEach(function (n) { n.remove(); });
+    var bar = document.createElement("nav");
+    bar.className = "quarto-custom-pagination";
+    bar.setAttribute("aria-label", "Page Navigation");
+    defaultPag.insertAdjacentElement("afterend", bar);
 
-      var total = (list.matchingItems && list.matchingItems.length) || list.size();
-      if (total <= pageSize) return; // une seule page : rien à ajouter
-
-      function makeButton(label, startIndex) {
-        var li = document.createElement("li");
-        li.className = "page-item quarto-jump-page";
-        var a = document.createElement("a");
-        a.className = "page page-link";
-        a.href = "#";
-        a.textContent = label;
-        a.addEventListener("click", function (e) {
-          e.preventDefault();
-          list.show(startIndex, pageSize);
-        });
-        li.appendChild(a);
-        return li;
-      }
-
-      pag.insertBefore(makeButton("« Première", 1), pag.firstChild);
-      pag.appendChild(makeButton("Dernière »", Math.max(1, total - pageSize + 1)));
+    function goToPage(p) {
+      p = Math.min(Math.max(1, p), totalPages);
+      if (p === currentPage) return;
+      currentPage = p;
+      list.show((p - 1) * pageSize + 1, pageSize);
+      render();
     }
 
-    addFirstLastButtons();
+    function pageButton(label, page, opts) {
+      opts = opts || {};
+      var a = document.createElement("a");
+      a.href = "#";
+      a.textContent = label;
+      a.className = "quarto-page-btn";
+      if (opts.active) a.classList.add("active");
+      if (opts.disabled) a.classList.add("disabled");
+      if (opts.ellipsis) a.classList.add("ellipsis");
+      if (!opts.disabled && !opts.ellipsis) {
+        a.addEventListener("click", function (e) {
+          e.preventDefault();
+          goToPage(page);
+        });
+      }
+      return a;
+    }
+
+    function render() {
+      bar.innerHTML = "";
+      if (totalPages <= 1) return;
+
+      bar.appendChild(pageButton("‹", currentPage - 1, { disabled: currentPage === 1 }));
+      bar.appendChild(pageButton("1", 1, { active: currentPage === 1 }));
+
+      if (currentPage > 3) {
+        bar.appendChild(pageButton("…", 0, { ellipsis: true }));
+      }
+
+      var from = Math.max(2, currentPage - 1);
+      var to = Math.min(totalPages - 1, currentPage + 1);
+      for (var p = from; p <= to; p++) {
+        bar.appendChild(pageButton(String(p), p, { active: p === currentPage }));
+      }
+
+      if (currentPage < totalPages - 2) {
+        bar.appendChild(pageButton("…", 0, { ellipsis: true }));
+      }
+
+      bar.appendChild(pageButton(String(totalPages), totalPages, { active: currentPage === totalPages }));
+      bar.appendChild(pageButton("›", currentPage + 1, { disabled: currentPage === totalPages }));
+    }
+
+    render();
   })();
 });
 </script>

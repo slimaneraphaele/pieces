@@ -1,0 +1,34 @@
+---
+title: "Musée Carnavalet et film noir"
+author: "Raphaële Slimane"
+date: 2025/10/18
+description: " - "
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805345/bartonkeyes_t3ybqe.png
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805345/bartonkeyes_t3ybqe.png)
+*Barton Keyes dans Assurance sur la mort, octobre 2025.*
+
+1 -  Je suis allée faire une balade dessinée au musée Carnavalet (la collection permanente est gratuite et il n’y a pas vraiment de queue). Si vous voulez faire de même, mon conseil : prendre un carnet spécifique pour les visites de musée, avec une couverture rigide d’une taille appropriée pour les bras (ni gigantesque, ni minuscule), un casque audio, choisir un artiste pour découvrir sa discographie, et déambuler dans le musée en s’arrêtant sur toutes les choses qui attirent l’œil pour en faire un croquis. Remplir ainsi une double page. Les musées avec des objets sont particulièrement intéressants à dessiner.
+
+2 - [Le schéma narratif de la quête par Tom Gauld](https://i0.wp.com/arnoldzwicky.s3.amazonaws.com/GauldQuest.jpg). Et puis, globalement, tout le bouquin [*En cuisine avec Kafka*](https://www.editions2042.com/catalogue/p/en-cuisine-avec-kafka) de Tom Gauld. 
+
+3 -     Regarder *Double Indemnity* (*Assurance sur la mort*, 1944) et découvrir ce personnage qui donne très envie de le dessiner (image au-dessus). Ça m’a donné envie de replonger dans les Nestor Burma. Il y a quelques années est sorti un numéro de Nestor Burma appelé [*Boulevard...Ossements*](https://www.bdfugue.com/l-etrangleur-burma-boulevard-ossements-1), sous format d’un grand journal plié en deux (format A3), dessiné par Barral. C’est comme un bon film noir sous le format d’une presse illustrée des années 1940, à lire en l’ouvrant en grand et en prenant toute la place.
+
+4 - *“L’art est ce qui rend la vie plus intéressante que l’art”*, une citation de Robert Filliou dans le dernier numéro du magazine *Beaux Arts*. Dans ce même numéro, [un article](https://www.beauxarts.com/expos/lepopee-de-berthe-weill-galeriste-de-lavant-garde-retracee-au-musee-de-lorangerie/) sur la marchande d’art de la fin du XIXème siècle Berthe Weill qui m’a donné envie d’aller voir l’exposition au musée de l’Orangerie. 
+
+5 - En ce mois d’octobre et de la *“spooky season”*, quoi de mieux que de penser aux représentations graphiques des fantômes ? Dans *l’Appel des odeurs* dont j’ai parlé la semaine dernière, Ryoko Sekiguchi évoque la manifestation de fantômes par des odeurs. Elle dit que dans les films d’horreur, ils sont habituellement signifiés par des ombres ou des bruits, pas par des odeurs ! En réalité, ce n’est pas tout à fait vrai. Par exemple, dans *Ghostbusters*, il y a bien un “smelly ghost”: Slimer ! 

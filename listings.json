@@ -1,16 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/6_2025_10_04/index.html",
-      "/blog/5_2025_09_27/index.html",
-      "/blog/4_2025_09_20/index.html",
-      "/blog/3_2025_09_13/index.html",
-      "/blog/2_2025_09_06/index.html",
-      "/blog/1_2025_03_04_bienvenue/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/things/generalillustration/portraithockney.html",
@@ -182,13 +171,20 @@
       "/things/generalillustration/piscinehockney.html",
       "/things/fanart/close.html",
       "/things/fanart/sweettooth.html",
+      "/things/urbansketch/interieursalon.html",
+      "/things/urbansketch/quaisparis.html",
       "/things/fanart/naissancepieuvres.html",
       "/things/urbansketch/calanques.html",
       "/things/urbansketch/grandcanyon.html",
+      "/things/urbansketch/villesudouest.html",
       "/things/urbansketch/puyenvelay.html",
+      "/things/urbansketch/placeparis.html",
+      "/things/urbansketch/placeitalie.html",
       "/things/urbansketch/cabinebois.html",
+      "/things/urbansketch/prairieaquarelle.html",
       "/things/urbansketch/marchenoelstrasbourg.html",
       "/things/urbansketch/romeplace.html",
+      "/things/urbansketch/arbre.html",
       "/things/urbansketch/caferose.html",
       "/things/urbansketch/montmartre.html",
       "/things/urbansketch/seville.html",
@@ -252,6 +248,17 @@
       "/things/generalillustration/debuscherrerodin.html",
       "/things/urbansketch/henri4.html",
       "/things/generalillustration/tableauhuile.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/6_2025_10_04/index.html",
+      "/blog/5_2025_09_27/index.html",
+      "/blog/4_2025_09_20/index.html",
+      "/blog/3_2025_09_13/index.html",
+      "/blog/2_2025_09_06/index.html",
+      "/blog/1_2025_03_04_bienvenue/index.html"
     ]
   }
 ]

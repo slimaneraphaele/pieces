@@ -1,0 +1,34 @@
+---
+title: "On urban sketching"
+author: "Raphaële Slimane"
+date: 2025/10/11
+description: " - "
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557441/lansenvercors_20210804_yx9adr.png
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557441/lansenvercors_20210804_yx9adr.png)
+*Le Vercors, June 2021.*
+
+1 -  Before turning around to look, did Orpheus think about breathing in his wife’s perfume to check if she was there ? Ryoko Sekiguchi asks this surprisingly funny question in [*L’Appel des odeurs*](https://www.pol-editeur.com/index.php?spec=livre&ISBN=978-2-8180-6011-7) (*The Calling of Odors*, an essay with really sad parts sometimes). When confronted with fiction, we sometimes think about sight before thinking about smells. Odors, like touch and taste, cannot be conveyed digitally, the only way to experience them is through life and literature. This is why I love when writers describe how a character smells instead of how they look (as suggested by Brandon Sanderson in his [lectures on writing novels](https://www.youtube.com/watch?v=-6HOdHEeosc)).
+
+2 - Ryoko Sekiguchi also talks about a museum in Japan where the room attendants have to wear a specific perfume created for the paintings in the room (Claude Monet’s Water Lilies). She invites us to imagine a museum where the paintings could convey scent and sound. Just imagine any exhibition you’ve ever been to but with the sounds of horses and the smells of horses (provided there is at least one painting with a horse).
+
+3 - [*“You have to remember it was against the law to even tell someone how to keep from getting pregnant.”*](https://drawnandquarterly.com/press/reason-interviews-peter-bagge-about-margaret-sanger-libertarianism/) Peter Bagge says in an interview about *Woman Rebel: the Margaret Sanger story*. The comic book tells the story of Margaret Sanger, the American birth control activist who founded Planned Parenthood. I love how his drawing style is defined by those spaghetti-like, circular arms.
+
+4 - Listening to cassettes, watching treetops, and meditating in the public bath. These are three of the favorite activities of the main character from *Perfect days* by Wim Wenders. It’s a modern tale about how we can find happiness and engage with the world in a simply contemplative manner (and may I just add, he is always outside).
+
+5 - After watching *Perfect Days*, listening to a whole album, such as Burt Bacharach’s 1967 *Reach Out*, without doing anything else (or, for me, while drawing), feels just right.

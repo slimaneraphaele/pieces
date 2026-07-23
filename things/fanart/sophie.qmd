@@ -11,3 +11,7 @@ format:
 ---
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805536/sophiehowlsmovingcastle_lbfacg.png)
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1759237452/pumpkinparade_abbud3.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

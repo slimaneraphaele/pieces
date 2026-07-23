@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877378/fontainebleau_siipht.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

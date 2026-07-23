@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557460/roilion_20220310_nbnc3e.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

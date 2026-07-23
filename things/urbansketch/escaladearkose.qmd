@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557487/escalade_20240812_njkyd9.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

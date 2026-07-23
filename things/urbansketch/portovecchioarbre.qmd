@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557427/portovecchio_20180821_rpbb7g.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411649/lille_grand_place_ktpeuk.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

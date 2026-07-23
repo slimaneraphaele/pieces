@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557476/rome_20230404_inj5kh.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

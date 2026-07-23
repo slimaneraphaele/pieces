@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784733523/jardindesplantes_xt5hbm.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

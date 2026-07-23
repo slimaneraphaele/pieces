@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779791722/birdpeople2_z7vqpq.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

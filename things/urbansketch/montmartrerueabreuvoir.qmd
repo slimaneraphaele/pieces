@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557435/rueabreuvoir_20210626_jm0qs9.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

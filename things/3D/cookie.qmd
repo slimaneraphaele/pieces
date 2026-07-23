@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784730529/cookie_m4yj1n.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

@@ -11,3 +11,7 @@ format:
 ---
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784038425/etoiletobiasbell_vk9in5.png)
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

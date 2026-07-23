@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/v1784735010/calanques_gjwmif.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557462/maisonsmalakoff_20220309_xjk3r4.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

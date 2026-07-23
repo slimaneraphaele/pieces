@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411667/morbihan_fmwwdp.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

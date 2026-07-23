@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557437/jardinkoufra_20210706_gicz5z.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

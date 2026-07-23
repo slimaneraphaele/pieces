@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557474/villescandinave_20230324_v9m0m8.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

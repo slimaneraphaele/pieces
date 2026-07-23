@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411653/linge_etendu_qzlv83.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

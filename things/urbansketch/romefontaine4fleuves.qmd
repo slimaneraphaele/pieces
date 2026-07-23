@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557456/romefontaine4fleuves_20211127_vtk7gp.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

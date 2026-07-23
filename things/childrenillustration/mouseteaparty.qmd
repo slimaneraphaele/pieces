@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411672/mouseteaparty_aawq1r.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

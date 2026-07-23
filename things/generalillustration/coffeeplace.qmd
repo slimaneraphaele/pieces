@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779806621/Fleurs_1_o7wvet.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

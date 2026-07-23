@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411685/pandas_mo2qnr.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

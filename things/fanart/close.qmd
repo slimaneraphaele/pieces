@@ -11,3 +11,7 @@ format:
 ---
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784549227/filmclose_pyzxps.jpg)
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

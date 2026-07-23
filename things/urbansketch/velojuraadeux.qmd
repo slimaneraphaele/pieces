@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784711780/velojuraadeux2_dxbah0.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

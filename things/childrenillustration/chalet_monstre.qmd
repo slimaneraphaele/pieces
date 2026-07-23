@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411568/chalet_monstre_na8wpz.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557555/enfantcourtdeguise_20240325_wxj5oe.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

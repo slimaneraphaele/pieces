@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784140579/linolacmaclu2_fzyw5n.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

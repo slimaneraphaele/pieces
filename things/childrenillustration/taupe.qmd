@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411731/taupe_garywx.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

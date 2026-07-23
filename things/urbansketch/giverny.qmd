@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557444/giverny_20210812_ar7hgu.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

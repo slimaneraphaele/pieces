@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790143/portraitsannees50_nt3g44.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

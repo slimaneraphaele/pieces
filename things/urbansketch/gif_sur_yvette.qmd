@@ -12,3 +12,7 @@ format:
 
 ![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411615/gif_sur_yvette_isiaji.png)
 
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

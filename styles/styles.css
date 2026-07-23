@@ -276,3 +276,26 @@ Cards
   pointer-events: none;
   opacity: 0.6;
 }
+
+/* "Back to top" (site entier, cf. back-to-top-navigation dans _quarto.yml) :
+   par défaut gris terne avec une grosse ombre Bootstrap, remplacé par la
+   couleur d'accent du site et une ombre plus discrète, dans le même esprit
+   que les autres boutons (pagination, cartes). */
+#quarto-back-to-top {
+  background-color: var(--bs-body-bg);
+  color: var(--bs-primary);
+  border: 1px solid rgba(181,101,29,0.25);
+  border-radius: 999px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.08);
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 0.4rem 0.9rem;
+  transition: background-color .15s ease, color .15s ease, box-shadow .15s ease;
+}
+
+#quarto-back-to-top:hover {
+  background-color: var(--bs-primary);
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(0,0,0,.12);
+}

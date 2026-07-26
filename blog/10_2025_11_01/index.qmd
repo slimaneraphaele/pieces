@@ -1,7 +1,7 @@
 ---
 title: "Le sommet des dieux et autres histoires d'alpinisme"
 author: "Raphaële Slimane"
-date: 2025/10/25
+date: 2025/11/01
 description: " - "
 image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557444/giverny_20210812_ar7hgu.png
 categories: 

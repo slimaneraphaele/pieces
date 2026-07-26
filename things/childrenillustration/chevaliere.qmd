@@ -1,0 +1,18 @@
+---
+title: Chevalière
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411575/chevalier_gbfjea.png
+description: Petite chevalière
+categories: ["children illustration"]
+date: 2024-04-01
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411575/chevalier_gbfjea.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

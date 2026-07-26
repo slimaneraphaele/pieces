@@ -1,0 +1,9 @@
+format:
+  html:
+    css:
+      - ../styles/articles.css    # adjust the path if your CSS lives elsewhere
+    toc: false
+    page-layout: article
+    # Police de lecture des billets (Literata) : auto-hébergée via
+    # styles/fonts.css (chargé site-wide depuis _quarto.yml), plus de
+    # requête vers fonts.googleapis.com/fonts.gstatic.com.

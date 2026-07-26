@@ -1,0 +1,18 @@
+---
+title: Pizza
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411694/pizza_eo1smx.png
+description: Illustration "You can't make everyone happy you are not pizza"
+categories: ["miscellaneous"]
+date: 2024-05-17
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411694/pizza_eo1smx.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

@@ -1,0 +1,18 @@
+---
+title: Des citrons
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784140767/citrons2_rgunyn.png
+description: Cours sur la gouache de Manero
+categories: ["urbansketch"]
+date: 2026/07/12
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784140767/citrons2_rgunyn.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

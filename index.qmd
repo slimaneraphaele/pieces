@@ -1,0 +1,205 @@
+---
+title: ""
+subtitle: "Copyright Raphaële Slimane, All Rights Reserved."
+
+
+listing:
+  contents: things
+  type: grid
+  image-height: "100%"
+  sort-ui: [date,categories]
+  sort: "date desc"
+  grid-columns: 3
+  page-size: 30
+  grid-item-border: true
+  fields: [image, title, date, description]
+  categories: false
+  #template: cards.ejs
+
+format:
+  html:
+    theme:
+      light: litera
+      dark: slate
+    page-layout: article
+---
+
+<p id="artwork-count" class="artwork-count"></p>
+
+<script>
+// Compter via listings.json (généré par Quarto avec la liste complète des
+// items) plutôt qu'en comptant les .quarto-grid-item dans le DOM : la
+// pagination (page-size: 30) ne garde que la page courante dans le DOM,
+// donc un comptage DOM ne donnait que 30 au lieu du total.
+document.addEventListener("DOMContentLoaded", function () {
+  var el = document.getElementById("artwork-count");
+  if (!el) return;
+  fetch("listings.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var entry = data.find(function (d) { return d.listing.endsWith("index.html"); });
+      if (entry) {
+        el.textContent = "Nombre de dessins, peintures et autres illustrations, gribouillis, etc : " + entry.items.length;
+      }
+    });
+});
+</script>
+
+::: {#listing}
+:::
+
+<div id="artwork-overlay" class="artwork-overlay" hidden>
+<button type="button" class="artwork-overlay-close" aria-label="Fermer">&times;</button>
+<img class="artwork-overlay-img" src="" alt="">
+<div class="artwork-overlay-caption">
+<p class="artwork-overlay-title"></p>
+<p class="artwork-overlay-date"></p>
+<p class="artwork-overlay-description"></p>
+</div>
+</div>
+
+<script>
+// Les vignettes de la grille pointent normalement vers la page de détail
+// de chaque œuvre (navigation classique) ; on veut plutôt que le clic
+// ouvre l'image en incrustation sur la page actuelle, sans naviguer.
+// Overlay maison (pas de dépendance à glightbox, dont les assets ne sont
+// pas chargés sur cette page) : délégation sur le conteneur de la liste,
+// donc ça continue de marcher même quand List.js retire/reconstruit les
+// cartes à chaque changement de page.
+document.addEventListener("DOMContentLoaded", function () {
+  var container = document.getElementById("listing-listing");
+  var overlay = document.getElementById("artwork-overlay");
+  if (!container || !overlay) return;
+
+  var overlayImg = overlay.querySelector(".artwork-overlay-img");
+  var overlayTitle = overlay.querySelector(".artwork-overlay-title");
+  var overlayDate = overlay.querySelector(".artwork-overlay-date");
+  var overlayDescription = overlay.querySelector(".artwork-overlay-description");
+  var closeBtn = overlay.querySelector(".artwork-overlay-close");
+
+  function openOverlay(src, title, date, description) {
+    overlayImg.src = src;
+    overlayTitle.textContent = title || "";
+    overlayDate.textContent = date || "";
+    overlayDescription.textContent = description || "";
+    overlay.hidden = false;
+    document.body.style.overflow = "hidden";
+  }
+
+  function closeOverlay() {
+    overlay.hidden = true;
+    overlayImg.src = "";
+    document.body.style.overflow = "";
+  }
+
+  container.addEventListener("click", function (e) {
+    var link = e.target.closest(".quarto-grid-link");
+    if (!link) return;
+    var img = link.querySelector("img");
+    if (!img) return;
+
+    e.preventDefault();
+    var titleEl = link.querySelector(".listing-title");
+    var dateEl = link.querySelector(".listing-date");
+    var descriptionEl = link.querySelector(".listing-description");
+    openOverlay(
+      img.src,
+      titleEl ? titleEl.textContent.trim() : "",
+      dateEl ? dateEl.textContent.trim() : "",
+      descriptionEl ? descriptionEl.textContent.trim() : ""
+    );
+  });
+
+  closeBtn.addEventListener("click", closeOverlay);
+  overlay.addEventListener("click", function (e) {
+    if (e.target === overlay) closeOverlay();
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && !overlay.hidden) closeOverlay();
+  });
+});
+</script>
+
+<script>
+// Pagination maison pour la grille Artworks : la pagination par défaut de
+// List.js (numéros bruts dans des <li class="page-item">) est masquée, et
+// remplacée par une barre qu'on pilote nous-mêmes — donc plus de course
+// avec les re-rendus internes de List.js (MutationObserver, etc.).
+// Ordre affiché : 1 … [page-1] [page] [page+1] … [dernière page].
+document.addEventListener("DOMContentLoaded", function () {
+  var tries = 0;
+  (function tryInit() {
+    var list = window["quarto-listings"] && window["quarto-listings"]["listing-listing"];
+    var defaultPag = document.querySelector("#listing-pagination");
+    if (!list || !defaultPag) {
+      if (tries++ < 50) setTimeout(tryInit, 100);
+      return;
+    }
+
+    defaultPag.style.display = "none";
+
+    var pageSize = list.page;
+    var total = (list.matchingItems && list.matchingItems.length) || list.size();
+    var totalPages = Math.max(1, Math.ceil(total / pageSize));
+    var currentPage = 1;
+
+    var bar = document.createElement("nav");
+    bar.className = "quarto-custom-pagination";
+    bar.setAttribute("aria-label", "Page Navigation");
+    defaultPag.insertAdjacentElement("afterend", bar);
+
+    function goToPage(p) {
+      p = Math.min(Math.max(1, p), totalPages);
+      if (p === currentPage) return;
+      currentPage = p;
+      list.show((p - 1) * pageSize + 1, pageSize);
+      render();
+    }
+
+    function pageButton(label, page, opts) {
+      opts = opts || {};
+      var a = document.createElement("a");
+      a.href = "#";
+      a.textContent = label;
+      a.className = "quarto-page-btn";
+      if (opts.active) a.classList.add("active");
+      if (opts.disabled) a.classList.add("disabled");
+      if (opts.ellipsis) a.classList.add("ellipsis");
+      if (!opts.disabled && !opts.ellipsis) {
+        a.addEventListener("click", function (e) {
+          e.preventDefault();
+          goToPage(page);
+        });
+      }
+      return a;
+    }
+
+    function render() {
+      bar.innerHTML = "";
+      if (totalPages <= 1) return;
+
+      bar.appendChild(pageButton("‹", currentPage - 1, { disabled: currentPage === 1 }));
+      bar.appendChild(pageButton("1", 1, { active: currentPage === 1 }));
+
+      if (currentPage > 3) {
+        bar.appendChild(pageButton("…", 0, { ellipsis: true }));
+      }
+
+      var from = Math.max(2, currentPage - 1);
+      var to = Math.min(totalPages - 1, currentPage + 1);
+      for (var p = from; p <= to; p++) {
+        bar.appendChild(pageButton(String(p), p, { active: p === currentPage }));
+      }
+
+      if (currentPage < totalPages - 2) {
+        bar.appendChild(pageButton("…", 0, { ellipsis: true }));
+      }
+
+      bar.appendChild(pageButton(String(totalPages), totalPages, { active: currentPage === totalPages }));
+      bar.appendChild(pageButton("›", currentPage + 1, { disabled: currentPage === totalPages }));
+    }
+
+    render();
+  })();
+});
+</script>

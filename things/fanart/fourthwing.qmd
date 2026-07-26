@@ -1,0 +1,17 @@
+---
+title: Fourth Wing
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411611/fourthwing_lsuvhm.png
+description: Illustration de Violet, Fourth Wing
+categories: [fanart]
+date: 2024-05-01
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411611/fourthwing_lsuvhm.png)
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

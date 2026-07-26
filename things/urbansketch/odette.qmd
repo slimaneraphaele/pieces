@@ -1,0 +1,18 @@
+---
+title: Odette Paris
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411681/odette_z0qqt7.png
+description: Odette Paris 
+categories: [urbansketch]
+date: 2025/07/07
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411681/odette_z0qqt7.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

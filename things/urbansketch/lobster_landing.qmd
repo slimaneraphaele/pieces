@@ -1,0 +1,18 @@
+---
+title: Lobster landing 
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411662/lobster_landing_vvbbob.png
+description: Lobster landing 
+categories: [urbansketch]
+date: 2025/06/11
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411662/lobster_landing_vvbbob.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

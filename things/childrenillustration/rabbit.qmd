@@ -1,0 +1,18 @@
+---
+title: Lapin et Blaireau / Rabbit and Badger
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411699/rabbit_ilmtui.png
+description: Lapin et Blaireau qui lisent / Reading Rabbit and Badger
+categories: ["children illustration"]
+date: 2024-05-05
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411699/rabbit_ilmtui.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

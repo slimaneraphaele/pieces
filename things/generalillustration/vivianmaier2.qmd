@@ -1,0 +1,18 @@
+---
+title: Peinture d'après une photo couleur de Vivian Maier "Milwaukee, MI", 1967
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785083922/vivianmaier2_fqx25q.png
+description: Peinture d'après une photo couleur de Vivian Maier
+categories: ["generalillustration"]
+date: 2026-07-26
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785083922/vivianmaier2_fqx25q.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

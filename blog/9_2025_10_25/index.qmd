@@ -1,0 +1,34 @@
+---
+title: "Le sommet des dieux et autres histoires d'alpinisme"
+author: "Raphaële Slimane"
+date: 2025/10/25
+description: " - "
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557444/giverny_20210812_ar7hgu.png
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1784557444/giverny_20210812_ar7hgu.png)
+*Maison de Monet à Giverny, août 2021.*
+
+1 -  Une BD : *Le château des animaux*, tome I Miss Bengalore de Félix Delep et Xavier Dorison. Une bande dessinée qui revisite la *Ferme des Animaux* d’Orwell. Lu dimanche matin sous un ciel pluvieux breton, à Rennes. Une série en quatre tomes dont le quatrième et dernier tome sort mi-novembre. Des dessins animaliers hors du monde, des passages assez sanglants, un taureau dictateur, roi des animaux, qui défie les lois de la grandeur (au sens propre).
+
+2 - Un artiste drôle: Ursus Wehrli, un artiste qui *“range le monde”*. [Il fait tout à la main, avec des ciseaux sur un bureau pas très bien rangé](https://www.beauxarts.com/lifestyle/lart-de-tout-mettre-en-ordre-par-ursus-wehrli/). Ce que j’aime le plus dans cette photo c’est qu’il a également rangé le symbole du yin et du yang en séparant les deux parties du disque et les deux petits cercles noirs et blancs. Et les zèbres sont devenus des petits chevaux (pourquoi ? on ne sait pas).
+
+3 -  Un film d’animation: *Le sommet des Dieux*. Initialement un roman bien épais de Baku Yumemakura, puis un roman graphique de Jirô Taniguchi au début des années 2000, et enfin un film d’animation de Patrick Imbert. Un film sous forme d’enquête entre le Japon et l’Everest en passant par les Grandes Jorasses dans les Alpes, à la recherche du mystère laissé par l’alpiniste George Mallory (a-t-il, oui ou non, été au sommet de l’Everest ?). Pour ceux qui aiment les vieux appareils photo Kodak, pour ceux qui regardent des films de montagne, pour ceux qui aiment voir les petites touches jaunes des tentes d’alpinistes sur un fond bleu de glacier, pour ceux qui n’ont pas peur du vide. Dans le podcast [*Sale temps pour un film*](https://www.youtube.com/watch?v=CLIi816CjCY), ils comparent les paysages du film aux tableaux du peintre [Nicholas Roerich](https://wahooart.com/fr/art/nicholas-roerich-remember-8XYLJW-en/). Ils soulignent aussi qu’il était quasiment impossible de faire un film d’animation avec le détail du trait de Taniguchi, pourtant on reconnaît bien ses personnages sans son trait détaillé (= prouesse).
+
+4 - *“Les montagnes que dessine Taniguchi Jirô sont à couper le souffle“*, Yumemakura en 2000. Dans la foulée, je me suis emparée de l’adaptation en manga de Taniguchi (tome I). Ça m’a replongée dans une vieille passion pour l’alpinisme qui m’avait amenée à regarder [*Les ascensions de Werner Herzog* : *Gasherbrum, La Montagne lumineuse*](https://vod.mediatheque-numerique.com/films/les-ascensions-de-werner-herzog) (globalement, un documentaire où tout le monde perd ses doigts de pieds dans la montagne.). Bref, c’est un manga époustouflant (tirant un -très- occasionnel sourire)
+
+5 - *“Dans la vie, parfois, arrive un moment où on a absolument besoin de foutre le camp de la ville. Même si l’on a passé toute sa vie adulte en ville [...]. Même si la ville est une ville super [...]. Même si tous vos amis y vivent [...]. La ville était un lieu paisible, harmonieux, prospère. Une perpétuelle harmonie où l’on créait, fabriquait, grandissait, essayait, riait, courait. Froeur Dex ne la supportait plus.”* dans *Un psaume pour les recyclés sauvages* de Becky Chambers. Un roman d’initiation sur un moine qui rencontre un robot alors qu’il est en train de *“foutre le camp”* de la ville dans un monde de science-fiction positive. Un roman qui vous prend au cœur, un peu comme si *“la forêt vous tenait dans ses mains jointes”*. Un roman qui donne envie de tout dessiner de ce futur merveilleux.

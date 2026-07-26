@@ -1,0 +1,72 @@
+/*-- scss:defaults --*/
+  
+  // Polices
+$font-family-serif: "Cormorant Garamond", Georgia, serif;
+$font-family-sans-serif: "Lora", Georgia, serif;
+
+$headings-font-family: $font-family-serif;
+$font-family-base: $font-family-sans-serif;
+
+// Palette chaude "papier"
+$body-bg: #faf6f0;
+  $body-color: #3a332c;
+  $primary: #b5651d;          // terracotta pour liens/accents
+  $link-color: #9c5a1f;
+
+// Sans ça, Quarto colore la navbar à partir de $primary et en dérive un
+// texte contrastant (quasi blanc) illisible sur notre fond crème. Ces deux
+// variables lui font recalculer liens, marque, hamburger et icônes.
+$navbar-bg: $body-bg;
+$navbar-fg: $body-color;
+
+  /*-- scss:rules --*/
+
+  // Cormorant Garamond et Lora sont auto-hébergées via styles/fonts.css
+  // (chargé site-wide depuis _quarto.yml), plus d'appel à Google Fonts ici.
+
+body {
+  background-color: $body-bg;
+  // dégradé supprimé ici aussi
+}
+
+h1, h2, h3, .navbar-title {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+// Cartes de la galerie / du blog
+.quarto-grid-item {
+  border: none;
+  background: #fff;
+    border-radius: 4px;
+  box-shadow: 0 2px 12px rgba(58, 51, 44, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  overflow: hidden;
+}
+
+.quarto-grid-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(58, 51, 44, 0.15);
+}
+
+.quarto-grid-item img {
+  transition: transform 0.4s ease;
+}
+
+.quarto-grid-item:hover img {
+  transform: scale(1.03);
+}
+
+// Navbar plus discrète, façon carnet
+.navbar {
+  background-image: none;   // neutralise le dégradé --bs-gradient
+  border-bottom: 1px solid rgba(181,101,29,0.15);
+}
+
+// Footer
+.page-footer {
+  border-top: 1px solid rgba(181,101,29,0.15);
+  color: rgba(58,51,44,0.6);
+  font-style: italic;
+}

@@ -1,0 +1,18 @@
+---
+title: Peinture d'après une photo couleur de Vivian Maier  "Chicago", 1962
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785004992/vivianmaier_ik5uuz.png
+description: Peinture d'après une photo couleur de Vivian Maier
+categories: ["generalillustration"]
+date: 2026-07-25
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785004992/vivianmaier_ik5uuz.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

@@ -1,0 +1,18 @@
+---
+title: Maison monstre / Monster house
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411568/chalet_monstre_na8wpz.png
+description: Une maison monstre et mignonne / A cute monster house
+categories: ["children illustration"]
+date: 2025-03-18
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411568/chalet_monstre_na8wpz.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

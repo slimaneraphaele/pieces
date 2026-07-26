@@ -1,0 +1,35 @@
+---
+title: "Bienvenue"
+author: "Raphaële Slimane"
+date: 2025/03/04
+description: " - "
+image: "illustrationenfant2.png"
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+## Bienvenue sur mon site
+
+Je suis Raphaële Slimane, je fais de l'illustration, de la peinture et du dessin. Dans ce coin du small web, je partage mon travail. Je vis près de Paris, entourée de bouquins.
+
+
+
+
+
+
+
+
+
+

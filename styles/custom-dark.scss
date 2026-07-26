@@ -1,0 +1,95 @@
+/*-- scss:defaults --*/
+
+$font-family-serif: "Cormorant Garamond", Georgia, serif;
+$font-family-sans-serif: "Lora", Georgia, serif;
+
+$headings-font-family: $font-family-serif;
+$font-family-base: $font-family-sans-serif;
+
+// Palette sombre "carnet le soir"
+$body-bg: #2a2320;          // brun très sombre, pas gris froid
+$body-color: #ede4d8;       // crème chaud pour le texte
+$primary: #d98c4a;          // terracotta éclairci pour contraste sur fond sombre
+$link-color: #e0a26a;
+
+// Slate active les dégradés Bootstrap : la navbar reçoit un voile
+// `background-image: var(--bs-gradient)` par-dessus le brun. On veut un
+// rendu plat, cohérent avec le thème clair.
+$enable-gradients: false;
+
+// Sans ça, Quarto colore la navbar à partir de $primary (terracotta) et en
+// dérive un texte quasi noir, illisible sur notre brun sombre.
+$navbar-bg: $body-bg;
+$navbar-fg: $body-color;
+
+/*-- scss:rules --*/
+
+// Cormorant Garamond et Lora sont auto-hébergées via styles/fonts.css
+// (chargé site-wide depuis _quarto.yml), plus d'appel à Google Fonts ici.
+
+body {
+  background-color: $body-bg;
+  // dégradé supprimé
+}
+
+h1, h2, h3, .navbar-title {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: #f3eae0;
+}
+
+// Cartes de la galerie / du blog
+.quarto-grid-item {
+  border: 1px solid rgba(217,140,74,0.15);
+  background: #342b26;        // brun légèrement plus clair que le fond
+  border-radius: 4px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.35);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  overflow: hidden;
+}
+
+.quarto-grid-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 28px rgba(217,140,74,0.18);
+  border-color: rgba(217,140,74,0.35);
+}
+
+.quarto-grid-item img {
+  transition: transform 0.4s ease, filter 0.4s ease;
+  filter: brightness(0.94);   // évite que les images "flashent" sur fond sombre
+}
+
+.quarto-grid-item:hover img {
+  transform: scale(1.03);
+  filter: brightness(1);
+}
+
+// Navbar
+.navbar {
+  background-image: none;   // filet de sécurité si $enable-gradients revient
+  border-bottom: 1px solid rgba(217,140,74,0.15);
+  text-shadow: none;        // relief Slate, incohérent sur une navbar plate
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+
+// Slate pose un liseré clair/foncé de part et d'autre de chaque lien
+// (border-right/border-left) pour un effet biseauté : incohérent avec la
+// navbar plate ci-dessus, donc neutralisé ici aussi.
+.navbar .nav-link {
+  border: none;
+}
+
+// Footer
+.page-footer {
+  border-top: 1px solid rgba(217,140,74,0.15);
+  color: rgba(237,228,216,0.55);
+  font-style: italic;
+}
+
+// Le bouton toggle jour/nuit lui-même, pour rester cohérent
+.quarto-color-scheme-toggle {
+  color: $primary;
+}

@@ -1,0 +1,18 @@
+---
+title: Balade le long de l'Yvette / Walking along the Yvette
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411615/gif_sur_yvette_isiaji.png
+description: Balade le long de l'Yvette / Walking along the Yvette
+categories: [urbansketch]
+date: 2025/06/02
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411615/gif_sur_yvette_isiaji.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

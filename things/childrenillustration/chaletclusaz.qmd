@@ -1,0 +1,18 @@
+---
+title: Chalet monstre La Clusaz / Monster cabin in La Clusaz 
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411564/chalet_clusaz_fquyeg.png
+description: Un chalet dessiné à la Clusaz et transformé / A cabin sketched at La Clusaz and transformed
+categories: ["children illustration"]
+date: 2025-03-27
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411564/chalet_clusaz_fquyeg.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

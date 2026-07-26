@@ -1,0 +1,18 @@
+---
+title: Hebdenbridge
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411595/england_edr81k.png
+description: Hebdenbridge, England
+categories: [urbansketch]
+date: 2024/01/02
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411595/england_edr81k.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

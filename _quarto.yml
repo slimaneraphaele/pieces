@@ -1,0 +1,62 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!vignettes/"
+    - "!*.Rmd"
+
+
+website:
+  title: "Raphaële Slimane"
+  description: art
+  #open-graph:
+    #image: imgs/things.jpg
+  #google-analytics: ""
+  navbar:
+    #style: "floating"
+    #search: false
+    left:
+      - href: index.qmd
+        text: Artworks
+      - href: blog.qmd
+        text: Blog
+      - href: about.qmd
+        text: About
+  sidebar:
+    right:
+      contents:
+        - about-sidebar.qmd
+
+  page-footer: 
+    left: "Copyright [Raphaële Slimane]. All rights reserved." 
+  back-to-top-navigation: true
+  # navbar:
+  #   background: light
+  #   search: true
+  #   left:
+  #     - text: "_Raphaële Slimane's corner_"
+  #       href: index.qmd
+  #     - text: "{{< fa brands instagram >}}"
+  #       href: https://www.instagram.com/slimaneraphaele/
+  #   right: 
+  #     - text: "{{< fa brands instagram >}}"
+  #       href: https://www.instagram.com/slimaneraphaele/
+
+format:
+  html:
+    theme:
+      light: [litera, styles/custom-light.scss]
+      dark: [slate, styles/custom-dark.scss]
+    css:
+      - styles/fonts.css
+      - styles/styles.css
+    include-in-header:
+      - text: |
+          <meta name="robots" content="noai, noimageai">
+    toc: false
+    # page-layout: article
+    grid:
+      sidebar-width: 100px
+      body-width: 1000px
+      margin-width: 150px
+

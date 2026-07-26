@@ -1,0 +1,376 @@
+/* Increase the font size of blog posts */
+body {
+  font-size: 25px;  /* Adjust as needed */
+  line-height: 1.6; /* Improves readability */
+  font-weight: normal;
+}
+
+/* Enhance headings */
+h1, h2, h3 {
+  font-weight: bold;
+  margin-top: 1.5em;
+}
+
+/* Improve paragraph spacing */
+p {
+  margin-bottom: 1em;
+}
+
+/* Style for blog images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem; /* pas de marge en haut */
+}
+
+/* Adjust figure alignment */
+figure {
+  text-align: center;
+}
+
+/* Style for blockquotes */
+blockquote {
+  font-style: italic;
+  border-left: 4px solid currentColor;  /* suit la couleur du texte, donc le thème */
+  padding-left: 15px;
+  color: var(--bs-secondary-color);
+}
+
+
+/*
+Cards
+*/
+
+.card-img-top {
+  width: 100%; /* Ensures all images stretch to the card width */
+  height: 300px; /* Set a uniform height for all images */
+  object-fit: cover; /* Crop images to fill the set dimensions */
+  transition: object-position 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
+
+.card-img-top:hover {
+  object-fit: contain; /* Show the whole image on hover */
+  object-position: center; /* Center the image when fully visible */
+  transform: scale(1.1); /* Slight zoom to ensure visibility */
+}
+
+/* Carte : contour doux + coins arrondis + clipping */
+.quarto-listing .quarto-grid-item.card {
+  border: 1px solid rgba(0,0,0,.08);      /* plus de gros trait noir */
+  border-radius: 16px;
+  overflow: hidden;                        /* empêche l'image de déborder */
+  background: var(--bs-body-bg);
+  box-shadow: 0 1px 3px rgba(0,0,0,.06);
+  transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+}
+.quarto-listing .quarto-grid-item.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.12);
+  border-color: rgba(0,0,0,.12);
+}
+
+/* Image : zoom léger, mais contenu dans la carte grâce à overflow:hidden */
+.quarto-listing .quarto-grid-item.card .card-img-top {
+  display: block;
+  object-fit: cover;
+  transition: transform .25s ease;
+  will-change: transform;
+}
+.quarto-listing .quarto-grid-item.card:hover .card-img-top {
+  transform: scale(1.03);
+}
+
+/* Aucune marge sur les images de listing (home, blog) */
+.quarto-listing img,
+.quarto-grid-item img,
+.quarto-grid-item .card-img-top {
+  margin: 0 !important;
+}
+
+/* Vignettes : hauteur homogène + crop propre (déjà OK si tu l'as) */
+.quarto-listing .quarto-grid-item.card .card-img-top {
+  width: 100%;
+  height: 300px;
+  object-fit: cover !important;
+}
+
+/* Blog listing: title vs subtitle sizes */
+.quarto-listing .quarto-grid-item.card .listing-title {
+  font-size: 1.35rem;   /* bigger */
+  line-height: 1.25;
+  margin-bottom: .25rem;
+  font-weight: 700;
+}
+
+.quarto-listing .quarto-grid-item.card .listing-subtitle,
+.quarto-listing .quarto-grid-item.card .card-subtitle {
+  font-size: .95rem;    /* smaller */
+  line-height: 1.35;
+  color: var(--bs-secondary-color);
+  margin-bottom: .35rem;
+  font-weight: 500;
+}
+
+/* (optional) keep description readable but below the title */
+.quarto-listing .quarto-grid-item.card .listing-description {
+  font-size: 1rem;
+  line-height: 1.5;
+  opacity: .9;
+}
+
+/* Vignettes de la page Blog (#listing-blog_list uniquement, pas la grille Artworks) :
+   carrées. La vraie balise <img> a les classes .thumbnail-image.card-img
+   (pas .card-img-top, qui ne cible que le <p> conteneur) et reçoit un
+   style="height: ...px" inline posé par Quarto, d'où le !important. */
+#listing-blog_list .card-img-top {
+  height: auto;
+}
+#listing-blog_list .card-img {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 4 / 3;
+  max-height: 200px;
+  object-fit: cover !important;
+  display: block;
+}
+
+/* Quarto fait grandir .card-attribution (flex-grow: 10) pour pousser la
+   date en bas de la carte : pensé pour laisser de la place à une longue
+   description, ça crée un grand vide inutile maintenant qu'on n'affiche
+   plus que titre + date (fields: [image, title, date] dans blog.qmd).
+   flex-grow:0 supprime le vide, margin-top:auto garde quand même la date
+   collée en bas (sans faire grandir la boîte) quand une carte voisine de
+   la même rangée est plus haute (titre sur 2 lignes). */
+#listing-blog_list .card-attribution {
+  flex-grow: 0 !important;
+  margin-top: auto;
+  padding-top: 0.5em;
+}
+
+/* Bootstrap met les dates en majuscules (text-transform: uppercase) via
+   .card-attribution ; on repasse en minuscules ici. */
+#listing-blog_list .card-attribution,
+#listing-blog_list .listing-date {
+  text-transform: none;
+  font-size: 0.8rem;
+}
+
+/* Pas d'override de couleur par thème ici : custom-light.scss et
+   custom-dark.scss définissent déjà --bs-body-color (#3a332c / #ede4d8).
+   Attention, Quarto marque le mode sombre avec la classe `quarto-dark` sur
+   <body>, pas avec data-bs-theme="dark" (cet attribut n'est posé que sur la
+   navbar). Ce fichier étant chargé après les deux bundles, toute règle de
+   couleur écrite ici gagne sur les deux thèmes à la fois : n'y mettre que
+   des couleurs exprimées via les variables Bootstrap.
+
+   Sous-titre YAML `description` : Quarto ne le réduit que via
+   `.description > p`, or il est rendu en texte brut sans <p> quand il tient
+   sur une ligne. Sans la règle ci-dessous il hérite donc des 25px du body. */
+/* La marge haute posée sur `h1, h2, h3` sert à espacer les titres de section
+   dans le corps du texte, mais elle frappe aussi le titre de la page et crée
+   un vide au-dessus. Le sélecteur (1,1,1) bat les règles `h1,h2,h3` (0,0,1)
+   de ce fichier comme d'articles.css, quel que soit l'ordre de chargement. */
+#title-block-header .title {
+  margin-top: 0;
+}
+
+#title-block-header .description {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.1rem;
+  font-style: italic;
+  line-height: 1.4;
+  color: var(--bs-secondary-color);
+}
+
+.navbar-brand {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.4rem;
+  letter-spacing: 0.02em;
+}
+
+/* Titre centré sur la barre, desktop comme mobile.
+   Le markup a bien `mx-auto`, mais Quarto l'annule via
+   `.navbar-container > .navbar-brand-container { margin: 0 !important }`.
+   Et un `margin:auto` ne centrerait de toute façon que par rapport aux
+   voisins (liens, outils, recherche), de largeurs inégales. On sort donc
+   la marque du flux pour la centrer sur le conteneur lui-même. */
+.navbar .navbar-container {
+  position: relative;
+  min-height: 3.25rem;   /* la marque étant hors flux, elle ne porte plus la hauteur */
+}
+
+/* `top`/`height` sont explicites : sans eux, la position statique d'un enfant
+   absolu dans un flex `align-items:center` se calcule sur toute la hauteur du
+   conteneur, et le titre descendrait au milieu du menu mobile déplié. */
+.navbar .navbar-container > .navbar-brand-container {
+  position: absolute;
+  top: 0;
+  height: 3.25rem;       /* = min-height du conteneur : reste sur la 1re ligne */
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0 !important;
+  max-width: 60%;        /* garde-fou anti-chevauchement sur petit écran */
+  padding-left: 0.5em;   /* Quarto met 0 à gauche et .5em à droite : décentrerait le texte */
+}
+
+.navbar .navbar-container > .navbar-brand-container .navbar-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#title-block-header .quarto-title-subtitle,
+.quarto-title .subtitle {
+  font-style: italic;
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+/* Pagination maison de la grille Artworks (voir le <script> dans
+   index.qmd) : texte plat, sans pastille de fond, dans le même esprit que
+   les liens de la navbar (Artworks/Blog/About) plutôt que les <li>
+   encadrés de Bootstrap. Pas de font-family ici : hérite volontairement de
+   la page, comme la navbar. */
+.quarto-custom-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 2rem 0;
+}
+
+.quarto-custom-pagination .quarto-page-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.8rem;
+  height: 1.8rem;
+  padding: 0 0.4rem;
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: var(--bs-body-color);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: color .15s ease, border-color .15s ease;
+}
+
+.quarto-custom-pagination .quarto-page-btn:hover:not(.disabled):not(.ellipsis):not(.active) {
+  color: var(--bs-primary);
+}
+
+.quarto-custom-pagination .quarto-page-btn.active {
+  color: var(--bs-primary);
+  font-weight: 700;
+  border-bottom-color: var(--bs-primary);
+}
+
+.quarto-custom-pagination .quarto-page-btn.disabled {
+  opacity: 0.35;
+  pointer-events: none;
+}
+
+.quarto-custom-pagination .quarto-page-btn.ellipsis {
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+/* "Back to top" (site entier, cf. back-to-top-navigation dans _quarto.yml) :
+   par défaut gris terne avec une grosse ombre Bootstrap, remplacé par la
+   couleur d'accent du site et une ombre plus discrète, dans le même esprit
+   que les autres boutons (pagination, cartes). */
+#quarto-back-to-top {
+  background-color: var(--bs-body-bg);
+  color: var(--bs-primary);
+  border: 1px solid rgba(181,101,29,0.25);
+  border-radius: 999px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.08);
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 0.4rem 0.9rem;
+  transition: background-color .15s ease, color .15s ease, box-shadow .15s ease;
+}
+
+#quarto-back-to-top:hover {
+  background-color: var(--bs-primary);
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(0,0,0,.12);
+}
+
+/* Overlay "incrustation" pour les vignettes de la grille Artworks
+   (voir le <script> dans index.qmd). */
+.artwork-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem;
+  background-color: rgba(20, 16, 12, 0.9);
+}
+
+.artwork-overlay[hidden] {
+  display: none;
+}
+
+.artwork-overlay-img {
+  max-width: 90vw;
+  max-height: 85vh;
+  object-fit: contain;
+  box-shadow: 0 8px 40px rgba(0,0,0,.5);
+}
+
+.artwork-overlay-caption {
+  color: #f3eae0;
+  text-align: center;
+  max-width: 90vw;
+}
+
+.artwork-overlay-caption .artwork-overlay-title {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.7rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.artwork-overlay-caption .artwork-overlay-date {
+  font-size: 1.05rem;
+  opacity: 0.7;
+  margin: 0.15rem 0 0.4rem;
+}
+
+.artwork-overlay-caption .artwork-overlay-description {
+  font-size: 1.25rem;
+  opacity: 0.9;
+  margin: 0;
+}
+
+/* Les métadonnées (titre/date/description) ne servent qu'à remplir
+   l'overlay au clic (cf. index.qmd) : cachées sur la grille elle-même
+   pour garder un rendu tout en images. */
+#listing-listing .quarto-grid-item .card-body {
+  display: none;
+}
+
+.artwork-overlay-close {
+  position: absolute;
+  top: 1rem;
+  right: 1.25rem;
+  background: none;
+  border: none;
+  color: #f3eae0;
+  font-size: 2.5rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+}
+
+.artwork-overlay-close:hover {
+  color: var(--bs-primary);
+}

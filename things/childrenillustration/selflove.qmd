@@ -1,0 +1,18 @@
+---
+title: Amour de soi / Self-love
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411712/selflove_d25ziu.png
+description: Rendez-vous avec soi même / It's a date and a celebration of self-love
+categories: ["children illustration"]
+date: 2025-03-02
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411712/selflove_d25ziu.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

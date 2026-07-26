@@ -1,0 +1,18 @@
+---
+title: Enfant facétieux / Mischievous child
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411599/facetiouschild_lxlbdk.png
+description: Enfant facétieux / Mischievous child
+categories: ["children illustration"]
+date: 2024-03-15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411599/facetiouschild_lxlbdk.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

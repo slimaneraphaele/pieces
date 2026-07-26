@@ -1,0 +1,18 @@
+---
+title: Ours / Bear
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411658/littlebear_kvmpdz.png
+description: Petit ours qui fait de la poterie / Little bear doing pottery
+categories: ["children illustration"]
+date: 2024-04-05
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411658/littlebear_kvmpdz.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

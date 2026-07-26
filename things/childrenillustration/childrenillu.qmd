@@ -1,0 +1,18 @@
+---
+title: Grand-mere
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411624/illustrationenfant_huihcy.png
+description: Illustration d'une discussion de grand-mère
+categories: ["children illustration"]
+date: 2024-08-05
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411624/illustrationenfant_huihcy.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

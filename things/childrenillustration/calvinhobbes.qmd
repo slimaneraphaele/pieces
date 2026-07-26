@@ -1,0 +1,18 @@
+---
+title: Calvin
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411560/calvinhobbes_ozuvpq.png
+description: Mon interprétation de Calvin et Hobbes
+categories: ["children illustration"]
+date: 2024-04-18
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411560/calvinhobbes_ozuvpq.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

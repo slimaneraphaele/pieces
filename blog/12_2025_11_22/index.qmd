@@ -1,0 +1,53 @@
+---
+title: "Balade dessinée, Sargent et la peinture sur verre"
+author: "Raphaële Slimane"
+date: 2025/11/22
+description: " - "
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790371/sargent_croquis_vb5pn4.png
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779790371/sargent_croquis_vb5pn4.png)
+*Exposition Sargent, novembre 2025.*
+
+1 - Il y a quelques semaines, j’ai parlé de *L’armée des romantiques* sur Arte, une mini-série documentaire animée sur le XIXe siècle littéraire et artistique en France. Avec une amie, on s’est rendues compte que le générique nous plaisait beaucoup. Par curiosité, j’ai regardé le [making-of de celui-ci](https://www.youtube.com/watch?v=D3sWOpCBPJM) et découvert la peinture sur verre en animation. Cette technique consiste à peindre directement sur une grande plaque de verre illuminée. Le peintre applique de la peinture à l’huile (ou une autre peinture à séchage lent) et prend une première photographie. Puis, il fait évoluer la peinture quelque peu, avec des pinceaux ou ses doigts, et reprend une photographie. Les tableaux sont donc en permanence détruits pour donner naissance à de nouvelles peintures. À la fin, il ne reste plus que le film d’animation (et aucune trace matérielle des tableaux !). Tout cela est expliqué dans [cette vidéo YouTube](https://www.youtube.com/watch?v=PDL7D3muOj0&source_ve_path=MTc4NDI0).
+
+2 - Ça m’a plongée dans une quête sur la peinture sur verre. Dans la précédente vidéo, un des maîtres mentionnés de la peinture sur verre est Alexandr Petrov. Il est possible de regarder son court-métrage [*Le vieil homme et la mer*](https://www.youtube.com/watch?v=fKfAv6-IwmQ) (1999) sur Youtube. C’est un court-métrage d’animation sublime, uniquement en peinture sur verre. Petrov a mis 2 ans et demi d’un travail passionné et acharné à peindre avec ses doigts les 29 000 tableaux qui constituent le film (plus d’explications du peintre [ici](https://www.youtube.com/watch?v=_ZsQoXGqWyk)).
+
+3 - J’ai de nouveau fait une balade dessinée, cette fois-ci à l’[exposition Sargent au Musée d’Orsay](https://www.musee-orsay.fr/fr/programme/agenda/expositions/john-singer-sargent-eblouir-paris). Plusieurs choses :
+
+- Je me concentre sur seulement quelques tableaux de l’exposition devant lesquels je passe le plus clair de mon temps (croquis en une de cette newsletter).
+
+- Après le croquis des *Enfants Pailleron* pendant l’exposition, je l’ai repris à la gouache à la maison (car j’essaie de m’améliorer en gouache en ce moment et d’en faire un petit peu tous les jours).
+
+- Dès qu’on dessine en public sans casque, les gens viennent beaucoup plus nous parler (je suis curieuse d’ailleurs, vous avez un avis ou non sur le fait de porter un casque quand vous dessinez en public ?). Quand j’avais fait ça au musée Carnavalet avec un casque, j’avais eu beaucoup moins d’interactions (quelques-unes quand même, parce que lorsqu’on dessine dans un lieu public, on papote souvent avec des inconnus).
+
+4 -  Quand on regarde un tableau, je trouve qu’on cherche un peu ses propres obsessions (artistiques ou autres). J’aime beaucoup dessiner les enfants (pourtant je n'ai pas d'enfant). Peu étonnant que mes deux tableaux préférés de Sargent soient *Les filles d’Edward Darley Boit* (ci-dessus) et *Les enfants Pailleron* (image encore au-dessus). À la recherche d’informations sur le premier, je suis tombée sur l’excellent [podcast de *The Lonely Palette*](https://www.youtube.com/watch?v=Z4eDbsV9SCI) à son propos (podcast qui explore l’histoire de l’art, un tableau à la fois, en nous le faisant vivre). Quelques bribes :
+
+- *« La petite Julia qui joue par terre, sa sœur Mary Louisa, timide, les mains dans le dos, un peu isolée sur le côté gauche et les grandes sœurs adolescentes, Florence et Jane, qui voudraient être n’importe où sauf ici. »* (ce sont leurs vrais prénoms)
+
+- ce tableau est exposé à Boston, entouré des deux gigantesques vases représentés. Lorsque les vases sont arrivés au musée de Boston, ils étaient remplis de morceaux de billets de spectacles et d’emballages de bonbons, exactement le genre de choses auxquelles on s’attend venant de récipients immenses stockés chez une famille de quatre enfants !
+
+- la fille à gauche semble nous dire *« Alors ça, c’est le salon, venez voir ce qu’a récolté Papa dans ses voyages. »*
+
+- en principe on s’habille (bien) dans un portrait, mais ici, elles portent leurs habits de jeu et des tabliers blancs, comme si elles avaient oublié que c’était le jour de la pose (oups). En fait, c’est Sargent qui leur a demandé de porter ça, pour montrer qu’il savait peindre le blanc.
+
+- il y a tellement peu de barrière entre le spectateur et les petites filles que les adolescentes au fond ne le regardent même pas (voire l’ignorent volontairement)
+
+- la petite Julia sur le sol nous regarde et semble nous dire *« pourquoi tu nous regardes comme ça, dis ? »*. On l’interrompt visiblement au milieu d’un jeu.
+
+
+5 - Cette semaine j’ai testé plusieurs sessions en live de dessins. Je trouve que c’est vraiment un bonheur de trouver ça pour rendre ma pratique plus légère et avoir l’occasion de dessiner avec d’autres passionnés même quand il fait froid. J’ai testé les live de Hippofaitdestrucs, Charlotte Hamilton et Art hang party, sur Youtube. Dans la première session, j’ai dessiné des animaux d’Australie, dans la deuxième, un marché aux fleurs et dans la dernière des croquis du lac Luzerne. Le principe est de dessiner en temps contraint avec ce que l’on souhaite comme médium, en live sur YouTube. Une superbe manière de passer une heure.

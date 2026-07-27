@@ -64,6 +64,14 @@ padding-inline: var(--reading-pad);
     font-family: "Literata", Georgia, serif !important;
   }
 
+/* Texte justifié pour le corps des billets, avec césure (hyphens: auto)
+   pour éviter les grands blancs entre les mots que la justification peut
+   créer dans une colonne étroite. */
+  main.content p:not(.description) {
+    text-align: justify;
+    hyphens: auto;
+  }
+
 /* Headings */
   h1, h2, h3 {
     line-height: 1.25;

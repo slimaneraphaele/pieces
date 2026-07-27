@@ -1,0 +1,35 @@
+---
+title: "Les arts libanais et une dose de Nora Ephron"
+author: "Raphaële Slimane"
+date: 2025/11/15
+description: " - "
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785151414/julieandjulia_deppjg.jpg
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785151414/julieandjulia_deppjg.jpg)
+*Julie and Julia, vu en novembre 2025.*
+
+1 - Direction le Liban. Je suis personnellement entourée de gens qui connaissent bien ce pays (une de mes meilleures amies et ma prof de piano sont libanaises). Grand bien m’a pris de faire ce plongeon dans l’art libanais. J’ai lu le roman graphique [*Mourir, partir, revenir : Le jeu des hirondelles*](https://www.cambourakis.com/tout/bd/mourir-partir-revenir-le-jeu-des-hirondelles/) de Zeina Abirached. L’esthétique de cette autrice est très particulière : du noir et blanc avec un trait bien épais et beaucoup de motifs tout en courbes. *« Je pense, qu’on est quand même, peut-être, plus ou moins, en sécurité ici. »* C’est la phrase qui ouvre l’œuvre, prononcée par la grand-mère de Zeina Abirached à la télévision libanaise pendant la guerre du Liban dans les années 1980. Le roman graphique est un huis clos. Les habitants sont rassemblés dans l’entrée d’un appartement au premier étage. Seule la radio vient donner quelques indices de l’extérieur. La narration, faite par un enfant, se concentre sur les rituels du quotidien (café, recette du sfouf, bain). Les personnages sont hauts en couleur, comme ce voisin aux grandes moustaches, qui vient réciter les tirades de Cyrano de Bergerac.
+
+2 - *« Pendant la guerre, mon père écoutait Don Giovanni à plein volume dans l’appartement. Personne ne s’était jamais plaint. La première fois que les voisins ont râlé était le jour après la fin de la guerre »*. [En 2016, Zeina Abirached explique à la radio](https://www.radiofrance.fr/franceinter/podcasts/d-ici-d-ailleurs/zeina-abirached-de-beyrouth-a-paris-6334992) que, dans ses romans graphiques, elle se concentre sur la vie : *« la guerre est hors champ »*. Partie du Liban pour Paris à 23 ans avec une valise de 23 kilos, elle raconte son rapport à la langue : le français et l’arabe sont enchevêtrés, comme s’il y avait un jeu de mikado français et un jeu de mikado arabe mélangés ensemble et qu’il fallait trier entre les deux. *« Il fallait que je mette en sourdine les mots libanais qui voulaient sortir quand je suis arrivée à Paris »*. 
+
+3 - Quand je lis quelque chose, j’aime bien avoir une ou deux résonances autour de ce livre. Dans mes oreilles donc : l’émission de Nova des Voyages immobiles *[« Écoutons le Liban »](https://podcasts.nova.fr/radio-nova-les-voyages-immobiles/202010120755-le-voyage-immobile-16-ecoutons-le-liban?action=install)* avec la voix de Sophie Marchand. Une émission sur la musique arabe au Liban, où l’on découvre dans le désordre : une ballade de Yasmine Hamdan, la diva libanaise Faïrouz et le groupe underground Soapkills (où il y a Yasmine Hamdan aussi). À compléter si l’on veut par cette autre [super playlist](https://www.nova.fr/musiques/playlist-les-musiques-du-liban-140669-05-05-2021/) (de digger de Youtube). Et si vous ne devez écouter qu’[une chanson](https://www.youtube.com/watch?v=4wQFR_CRGTo&feature=youtu.be).
+
+4 -  Rien à voir avec le Liban : c’est novembre et j’ai besoin d’un film d’ambiance. Mon esprit pense immédiatement à Nora Ephron (Nora Ephron c’est : *Quand Harry rencontre Sally*, *Sleepless in Seattle*, *You’ve got mail*). Je me lance dans *[Julie et Julia]*(https://fr.wikipedia.org/wiki/Julie_et_Julia). Les histoires parallèles de Julia Child (jouée par Meryl Streep), la chef cuisinière américaine qui a apporté la cuisine française aux États-Unis et de Julie Powell, une new-yorkaise qui commence un blog en 2002, lorsqu’elle décide de faire les 524 recettes de Julia Child en 365 jours. Un film qui nous plonge dans l’engouement pour l’écriture des blogs du début des années 2000. Un film pour ceux qui ne sont pas énervés quand ils voient que Paris, dans certains films américains, c’est le marché rue Mouffetard et le 6e arrondissement. Un film pour ceux qui aiment (un peu quand même) la cuisine (ou au moins voir des aliments). Si, comme moi, vous vous demandez « Mais que pouvait bien penser Julia Child de Julie Powell ? », lisez le livre suivant. 
+
+
+5 - Comme j’aime bien associer un film et un livre, *Julie et Julia* s’est accompagné de l’écoute du livre audio *Nora Ephron at the movies* de Ilana Kaplan (2024) (je l’ai trouvé sur Nextory). L’autrice analyse l’œuvre de Nora Ephron (principalement des romcoms des années 1990) et son influence sur les comédies romantiques des années 2000 (et plus récentes). La devise de Nora : *«[Everything is copy](https://en.wikipedia.org/wiki/Everything_Is_Copy). When you slip on a banana peel, people laugh at you. When you tell people you slipped on a banana peel, it’s your laugh »*. Le personnage central féminin est souvent une trentenaire qui vit en ville, avec des amis libraires, écrivains ou journalistes, qui se moque de ses vulnérabilités avant que quelqu’un d’autre ne le fasse. Des chapitres entiers du livre sont dédiés à l’ambiance créée par les vêtements et les lieux de vie (New York en automne, emblématique du *« Lit Girl Fall »*). On découvre qu’il existe bien [plus de films de Nora Ephron que ceux que l’on connaît](https://fr.wikipedia.org/wiki/Le_Myst%C3%A8re_Silkwood). Quand Billy Crystal dit *« You’re the worst kind. You’re high-maintenance but you think you’re low-maintenance.»*, le personnage de Meg Ryan réplique : *« I just want it the way I want it. »*. 

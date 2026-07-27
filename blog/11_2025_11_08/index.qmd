@@ -1,0 +1,35 @@
+---
+title: "Berthe Weill et Charlotte Salomon"
+author: "Raphaële Slimane"
+date: 2025/11/08
+description: " - "
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877768/alpes_automne_eudtbe.png
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1762877768/alpes_automne_eudtbe.png)
+*Exposition Berthe Weill, octobre 2025.*
+
+1 - *“Je n’avais qu’un rêve, c’était d’avoir une voiture et de pouvoir conduire de ville en ville et dans cette voiture, il y aurait des KitKat et du Canada Dry”*, Marjane Satrapi nous raconte un peu pourquoi elle a voulu être une artiste dans [cette interview en cinq épisodes faite en 2020](https://www.radiofrance.fr/franceculture/podcasts/serie-marjane-satrapi). Elle est drôle, parfois acide, mais toujours géniale. À la question *“Vous avez de bons souvenirs de l’école d’art ?”*, elle répond *“Pas vraiment, je n’aimais pas les gens”*. Cette interview est pour toutes les personnes qui se reconnaissent en elle, elle qui n’aime pas voir les gens en groupe, qui déteste les fêtes, et qui aime bien travailler à l’étranger, car *“si vous êtes un petit morceau de pâté dans votre pays, vous allez ailleurs et vous devenez soudain du foie gras”*. Elle est parfois hilarante: personne ne voulait publier ses histoires pour enfants, donc elle a essayé de trouver un autre job: *“J’ai vu ‘chasseur de têtes’ sur l’annonce, sauf que je pensais que c’était chasseurs de primes, que j’allais chasser les brigands. Je suis allée à l’entretien en treillis, j’étais prête pour le roulé-boulé dans la boue.”*
+
+2 - J’avais lu *Persepolis* et vu le film il y a plusieurs années, et puis, cette semaine, j’ai ouvert la BD de nouveau (celle en un seul volume). J’ai ri comme la première fois, j’ai aussi lâché quelques larmes. Il y a des moments drôles ET touchants, comme ce reniflement à plein nez de lessive de supermarché quand elle arrive en Autriche, après être partie de l’Iran à 14 ans. Une BD qui illustre bien ce qu’elle affirme: *“Le style ça vient toujours de ce qu’on ne sait pas faire, pas de ce que l’on sait faire.”* et *“Il n’y a rien de plus difficile que de faire simple”*.
+
+3 - J’ai beaucoup apprécié [cette interview d’Emmanuel de Buretel dans le Nova Club](https://podcasts.nova.fr/radio-nova-nova-club/202510230952-emmanuel-de-buretel-12-les-annees-virgin-des-rita-mitsouko-a) (en deux épisodes). Après avoir travaillé chez Virgin, il fonde le label Because au début des années 2000. Il nous raconte que la plupart des gens le trouvaient fou de fonder un label en 2004, en pleine crise du disque. Ils le trouvaient d’autant plus fou qu’il affirmait vouloir, pour premiers artistes, signer deux musiciens aveugles du Mali. Il n’était pas fou, c’était Amadou et Mariam. C’est aussi très marrant pour moi qui ai fait des mathématiques et de la peinture, d’entendre quelqu’un dans le monde de l’art exprimer son intérêt de jeune homme, avant de dédier sa vie à sa passion, pour le monde des matrices.
+
+4 -  J’ai vu les deux premiers épisodes de la série documentaire animée [*L’Armée des romantiques*](https://www.arte.tv/fr/videos/080150-001-A/l-armee-des-romantiques-1-4/) réalisée par Amélie Harrault (2024). C’est une série en quatre épisodes sur la révolution romantique au XIXe siècle. La série raconte le quotidien d’Honoré de Balzac, de Victor Hugo, de Delacroix, d’Alexandre Dumas, tout en faisant la part belle à George Sand (surtout l’épisode 2).
+
+
+5 - De la nécessité, parfois, de s’éloigner de sa propre création quelque temps, pour mieux la regarder. Marjane Satrapi nous dit *“À un moment je croyais que j’étais arrivée, je me suis dit Marjane, ça y est, tu es trop forte, tu as tout compris ! J’ai peint, je ne sais pas, quarante petits tableaux, puis je suis partie faire un autre travail, et je suis revenue, mais c’étaient des bouses en fait”*. (Évidemment, c’est plus agréable quand, en revenant, on trouve que ce qu’on a fait n’est pas une bouse).

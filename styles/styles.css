@@ -277,6 +277,65 @@ Cards
   opacity: 0.6;
 }
 
+/* Menu déroulant "Order By" (Artworks + Blog) : remplace le style
+   Bootstrap par défaut (encadré, gris) par un style plat avec l'accent
+   terracotta du site. */
+.quarto-listing-sort {
+  border: none !important;
+  background: none !important;
+}
+
+.quarto-listing-sort .input-group-text {
+  background: none;
+  border: none;
+  color: var(--bs-primary);
+  padding-left: 0;
+}
+
+.quarto-listing-sort select.form-select {
+  border: 1px solid rgba(181,101,29,0.3);
+  border-radius: 999px;
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+  font-size: 0.9rem;
+  font-weight: 500;
+  box-shadow: none;
+}
+
+.quarto-listing-sort select.form-select:focus {
+  border-color: var(--bs-primary);
+  box-shadow: 0 0 0 2px rgba(181,101,29,0.15);
+}
+
+/* Champ de recherche "Filtre" (Blog), même traitement que le menu "Trier
+   par" ci-dessus, pour rester cohérent. */
+.quarto-listing-filter {
+  border: none !important;
+  background: none !important;
+}
+
+.quarto-listing-filter .input-group-text {
+  background: none;
+  border: none;
+  color: var(--bs-primary);
+  padding-left: 0;
+}
+
+.quarto-listing-filter input.form-control {
+  border: 1px solid rgba(181,101,29,0.3);
+  border-radius: 999px;
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+  font-size: 0.9rem;
+  font-weight: 500;
+  box-shadow: none;
+}
+
+.quarto-listing-filter input.form-control:focus {
+  border-color: var(--bs-primary);
+  box-shadow: 0 0 0 2px rgba(181,101,29,0.15);
+}
+
 /* "Back to top" (site entier, cf. back-to-top-navigation dans _quarto.yml) :
    par défaut gris terne avec une grosse ombre Bootstrap, remplacé par la
    couleur d'accent du site et une ombre plus discrète, dans le même esprit

@@ -5,6 +5,8 @@ project:
     - "!vignettes/"
     - "!*.Rmd"
 
+lang: fr
+
 
 website:
   title: "Raphaële Slimane"

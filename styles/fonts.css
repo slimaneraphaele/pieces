@@ -1,0 +1,43 @@
+/* Polices auto-hébergées (sous-ensemble latin uniquement, suffisant pour le
+   français) : remplace les appels à fonts.googleapis.com / fonts.gstatic.com,
+   qui envoyaient l'IP de chaque visiteur à Google à chaque chargement de page. */
+
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/literata-italic-400.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url('fonts/literata-variable.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 500 700;
+  font-display: swap;
+  src: url('fonts/cormorant-garamond-variable.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/lora-italic-400.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400 500;
+  font-display: swap;
+  src: url('fonts/lora-variable.woff2') format('woff2');
+}

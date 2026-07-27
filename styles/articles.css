@@ -1,0 +1,140 @@
+/* La police de lecture est chargée par un <link> déclaré dans
+   blog/_metadata.yml, pas par un @import ici. */
+
+/* ——— Reading column presets ——— */
+  :root {
+    /* Largeur en rem, pas en ch : `ch` vaut la largeur du glyphe « 0 », donc
+       elle suit la taille de police et la colonne se déformait à chaque
+       ajustement. Les deux réglages sont maintenant indépendants. */
+      --reading-width: 39rem;
+    --reading-pad: 1.25rem;
+    --body-size: 19px;
+      --line-height: 1.6;
+  }
+
+/* Limit the post content width and center it */
+  main.content,
+.quarto-container .page-columns .content,
+#quarto-document-content {
+max-width: var(--reading-width);
+margin-inline: auto;
+padding-inline: var(--reading-pad);
+}
+
+/* Title block same width + centered.
+   Pas de padding-inline ici : .quarto-title-block est un enfant de
+   main.content, qui applique déjà ce padding sur lui-même — l'ajouter
+   aussi ici le cumulait, décalant le titre vers la droite par rapport
+   au texte des paragraphes. */
+  .quarto-title-block,
+.quarto-title-block .quarto-title-banner,
+.quarto-title-block .quarto-title {
+  max-width: var(--reading-width);
+  margin-inline: auto;
+  text-align: left; /* set to center if you prefer */
+}
+
+/* Typography tuned for reading */
+  body {
+    font-size: var(--body-size);
+    line-height: var(--line-height);
+  }
+
+/* Police de lecture, sur le corps des billets uniquement.
+   Test en cours : Literata (serif, dessinée par Google pour la lecture longue).
+   Titres restent Cormorant : `h1…h6` ont une font-family explicite, et une
+   règle qui matche l'élément l'emporte sur l'héritage. */
+  main.content {
+    /* Volontairement SANS "Lora" en repli : Lora est chargée sur tout le site
+       par les .scss, donc la garder ici masquait tout échec de chargement de
+       la police web derrière un rendu identique à l'ancien. Le repli est
+       Georgia (serif système), visiblement différente de Lora. */
+    font-family: "Literata", Georgia, serif;
+  }
+
+/* Filet de sécurité : l'héritage de font-family depuis main.content ne
+   suffisait pas — p/li du corps de texte continuaient d'afficher Cormorant
+   Garamond (la police des titres) au lieu d'hériter de la règle ci-dessus.
+   On cible donc directement les balises de texte, avec !important, en
+   excluant .description qui doit garder Cormorant Garamond (cf. styles.css). */
+  main.content p:not(.description),
+  main.content li,
+  main.content dd,
+  main.content blockquote {
+    font-family: "Literata", Georgia, serif !important;
+  }
+
+/* Headings */
+  h1, h2, h3 {
+    line-height: 1.25;
+    margin-top: 1.6em;
+    margin-bottom: 0.6em;
+  }
+
+/* Paragraph rhythm */
+  p { margin: 0 0 1em 0; }
+
+/* Images stay within the column and don’t overflow */
+  main.content img,
+main.content figure > img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem auto;
+}
+
+/* Optional: scale down captions slightly */
+  figcaption {
+    font-size: 0.95em;
+    opacity: .85;
+  }
+
+/* Links: a subtle underline that looks good on long reads */
+  main.content a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-thickness: 1px;
+  }
+
+/* Optional: soften code blocks in posts */
+  main.content pre code {
+    font-size: 0.95em;
+  }
+
+/* Responsiveness — a touch more width on big screens, comfy on phones */
+  @media (min-width: 1200px) {
+    :root { --reading-width: 41rem; }
+  }
+@media (max-width: 600px) {
+  :root { --reading-pad: 0.25rem; --body-size: 17px; }
+}
+
+/* If you previously added big global margins or borders to images/cards,
+neutralize them in posts so the column looks clean. */
+  main.content img { margin: 1rem auto !important; border: none !important; }
+  
+/* Pas d'override de couleur par thème ici : custom-light.scss et
+   custom-dark.scss définissent déjà --bs-body-color (#3a332c / #ede4d8),
+   et les billets doivent suivre la même palette chaude que le reste du site.
+   Note : Quarto marque le mode sombre avec la classe `quarto-dark` sur
+   <body>, pas avec data-bs-theme="dark". */
+
+/* Article images: taille fixe et identique pour toutes les images du
+   corps de texte (largeur fixe, hauteur libre pour garder les proportions
+   et ne jamais recadrer l'image).
+   Combinateurs de descendance (espace), pas d'enfant direct (>) : le
+   lightbox (glightbox) enveloppe chaque image dans <a class="lightbox">,
+   donc <img> n'est jamais un enfant direct de <p> ou <figure>. */
+main.content .quarto-figure img,
+main.content figure img,
+main.content p img {
+  width: 500px !important;
+  max-width: 100% !important;  /* ne dépasse pas la colonne sur mobile */
+  height: auto;
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Keep listing/card thumbnails unchanged */
+.quarto-listing .card-img-top { max-width: 100% !important; }

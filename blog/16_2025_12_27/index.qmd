@@ -1,0 +1,56 @@
+---
+title: "Petits plaisirs de janvier"
+author: "Raphaële Slimane"
+date: 2025/12/27
+description: " - "
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411595/england_edr81k.png
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1757411595/england_edr81k.png)
+*Hebdenbridge England, janvier 2024.*
+
+1 - Petits plaisirs de janvier
+
+Faites votre liste de petits plaisirs de janvier (insolites ou non). Voici la mienne :
+
+- les quelques jours du début de janvier où il est collectivement admis que l’on peut lire des BD avec de la soupe qui mijote sans que personne ne nous dérange
+
+- on n’a plus à faire de bilan puisque ça y est, on est officiellement dans notre nouvelle « ère »
+
+- penser que dans cette nouvelle ère, on peut lire 100 livres cette année
+
+- faire des mots croisés dans le train du retour à Paris
+
+- le givre sur les branches des sapins
+
+- se demander comment peindre le givre sur les branches
+
+- se dire que le givre, c’est pas vraiment blanc (ni bleu d’ailleurs)
+
+- acheter un cache oreilles en moumoute et penser qu’on ressemble à la Princesse Anastasia (le croire vraiment)
+
+- tester le nouveau matériel d’art reçu pendant les fêtes
+
+- aller au marché, acheter un nouveau légume de saison (le cresson) et dire “je cuisine du cresson” (ensuite, ne pas vraiment aimer)
+
+- la floraison du mimosa en Bretagne et quand ma mère en coupe de grandes brassées jaunes dans le Morbihan
+
+- lire un très gros livre, écouter un podcast d’analyse sur ce même livre, et réfléchir très très fort en faisant de la buée avec sa bouche dans l’air froid (c’est chic)
+
+- recevoir par la Poste un zine de Noël venant de très loin avec tellement de soin dans la confection
+
+- Finir *The Fall of Giants* de Ken Follett (partie 1 de la *Century Trilogy*) en livre audio, une fiction historique qui commence en 1914 et qui est aussi un roman choral avec une diversité de personnages anglais, russes, américains et allemands (et des “guest stars” comme Winston Churchill ou Woodrow Wilson); de la politique, de l’histoire sociale et de la romance. Un mélange entre *Downton Abbey* et le *Docteur Jivago*. 

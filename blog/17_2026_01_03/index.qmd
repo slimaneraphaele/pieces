@@ -1,0 +1,34 @@
+---
+title: "Miss Potter, stylo à encre fude et peindre le givre"
+author: "Raphaële Slimane"
+date: 2026/01/03
+description: " - "
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779808140/Template_9_ieq9qq.png
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779808140/Template_9_ieq9qq.png)
+*Le Jura, janvier 2025.*
+
+1 - Film : j’ai vu *Miss Potter*. Un film sur l’histoire de l’autrice de livres pour enfants, Beatrix Potter : du *cottagecore*, des dessins d’oies farceuses et de lapins dodus (animés et si peu coopératifs) et de la romance. De manière surprenante, c’est aussi un film sur une histoire d’amour filial entre un père admiratif et sa fille artiste. Mais aussi un film sur l’amitié féminine de femmes de plus de 30 ans non mariées dans une Angleterre encore peu tendre avec ce mode de vie. Le prochain sur ma liste est *La vie extraordinaire de Louis Wain*.
+
+2 - Peinture: La gouache est ce que je préfère en ce moment. Quelques références explorées ces dernières semaines: le livre [*Creative Gouache*](https://www.goodreads.com/book/show/56646388-creative-gouache) de Ruth Wilshaw (pas encore terminé). Une myriade d’astuces et d’exercices pour rendre la peinture à la gouache encore plus belle. Par exemple, si les traces de pinceaux persistent (contre notre volonté), mélanger un peu de blanc qui est incroyablement opaque et créera quelque chose de plus lisse. Toujours utiliser les restes sur la palette pour faire des fonds dans un carnet (ça servira plus tard). 
+
+3 - Dessin: le test du stylo plume Sailor Fude de Mannen dans une séance sur les jouets de Hippofaitdestrucs. C’est un stylo plume à pointe courbée qui permet de faire des traits très fins et très épais, parfait pour de l’urban sketching de par sa nature versatile. [Une vidéo](https://www.youtube.com/watch?v=pRF_5U3TrYU) de *Urban Sketch Emma* où elle compare la pointe 55° à la pointe 40° en faisant le même croquis (peu de différence). 
+
+4 - Neige : Ces derniers jours, j’ai fait l’exercice d’écrire les [100 choses qui ont marqué mon année 2025](https://substack.com/@austinkleon/p-183176456), petites ou grandes. L’une d’entre elles était d’essayer de peindre le givre et la neige dans le Jura (particulièrement appropriée vu le récent épisode de Paris tout enneigé). Quelques *urban sketchers* français ont essayé de saisir cette France sous la neige. On trouve la neige en variante de [bleu outremer](https://www.instagram.com/p/DTKtF2pCNF3/?img_index=1), mais aussi parfois en [sépia](https://www.instagram.com/p/DTKhc0xiD51/?utm_source=ig_web_copy_link). Dans un de mes tableaux préférés de Monet avec de la neige, [*La Pie*](https://www.musee-orsay.fr/fr/oeuvres/la-pie-715), la neige est de couleur pastel (rose, jaune, bleu). J’ai fait un givre kaki et bleu pour le Jura, je tâtonne encore. 
+
+5 - Journal : J’ai essayé la méthode de *box journaling*, raconter son mois en une seule double page et 30 dessins. Des micro dessins dans des petites boîtes, avis aux amateurs de petites choses aux crayons de couleur.

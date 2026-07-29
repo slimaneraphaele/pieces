@@ -1,0 +1,61 @@
+---
+title: "Petits plaisirs de décembre"
+author: "Raphaële Slimane"
+date: 2025/12/01
+description: " - "
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805536/sophiehowlsmovingcastle_lbfacg.png
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779805536/sophiehowlsmovingcastle_lbfacg.png)
+*Mon dessin pour Ghibli November : Sophie, du Château ambulant à la gouache, novembre 2025*
+
+
+Petits plaisirs de décembre
+
+Faites votre liste de petits plaisirs de décembre (insolites ou non). Voici la mienne :
+
+- manger une clémentine en enlevant la peau en un seul morceau
+
+- écrire des trucs avec ses doigts dans la buée des voitures
+
+- les tablettes de chocolat noir à briser avec un petit maillet (et le bruit que ça fait)
+
+- les chiens avec des petits chaussons pour le sol froid
+
+- voir des adultes porter des moufles
+
+- regarder les étoiles de bonne heure, qui va de pair avec contempler le coucher de soleil à la pause de 17 h
+
+- lire des BD sur le ventre en pyjama
+
+- les [lumières dans la nuit](https://www.radiofrance.fr/franceinter/podcasts/lumieres-dans-la-nuit) des fenêtres avec des gens derrière
+
+- les gants abandonnés dans la rue
+
+- l’odeur du thé aux écorces d’orange, abricot, chocolat et vanille
+
+- Continuer la série *Les Voyageurs* de Becky Chambers, un livre de science-fiction dont le premier tome s’appelle *l’Espace d’un an*. Becky Chambers est une pionnière de la science-fiction positive ou *“solar punk”*. J’ai commencé : il faut s’accrocher et accepter de ne pas tout comprendre au début. J’avais lu P*saume pour les recyclés sauvages* d’elle sur une histoire avec un moine et un robot, qui était excellent. 
+
+- Faire un saut à la bibliothèque pour emprunter plein de BD pour la semaine des fêtes 
+
+- Voir *Die Hard*. Le saviez-vous ? [Die Hard est en fait un film de Noël](https://www.picturehouses.com/blog/12-reasons-why-die-hard-is-a-christmas-movie).
+
+- Revoir *Fanny et Alexandre*, parce que tout est rouge bordeaux, parce qu’il y a des bougies partout, parce qu’il y a une farandole de Noël. 
+
+- Revoir *Marcel le coquillage (avec ses chaussures)*, l’un des films les plus mignons et drôles que j’ai vus dans ma vie.
+
+- Spécial comédies musicales (Noël oblige), voir *Un Américain à Paris* avec Gene Kelly, de *Chantons sous la pluie*.

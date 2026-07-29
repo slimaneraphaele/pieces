@@ -1,0 +1,38 @@
+---
+title: "Couvertures du New Yorker et histoire du rose"
+author: "Raphaële Slimane"
+date: 2025/12/06
+description: " - "
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779791722/birdpeople2_z7vqpq.png
+categories: 
+  - blogging
+execute: 
+  echo: true
+  message: false
+  warning: false
+  eval: false
+format:
+  html:
+    code-fold: true
+lightbox: 
+  match: auto
+  desc-position: right
+  loop: true
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779791722/birdpeople2_z7vqpq.png)
+*Bird people, peinture d'oiseau issue d'un live youtube avec Charlotte Hamilton, décembre 2025.*
+
+1 - *« [Le rose n’a été associé aux petites filles que depuis très récemment. Avant l’invention de la machine à laver le linge et sa diffusion dans les années 1930, tous les bébés portaient du blanc. Le rose genré n’est donc qu’une parenthèse dans l’histoire de la couleur.] »*. Dans ces deux interviews sur son livre l’*Histoire du rose*, Michel Pastoureau raconte des anecdotes délicieuses sur cette couleur : ses surnoms improbables (comme cuisse de nymphe émue), le fait qu’elle ait longtemps été classée comme un jaune, ou encore qu’elle n’ait pas eu de nom pendant des siècles. Ce n’est qu’au XIXe siècle que le rose est associé à la luxure, le cochon remplaçant alors la « chienne » dans l’imaginaire collectif pour désigner les bas instincts. J’ai emprunté le livre à la bibliothèque et je l’ai surtout feuilleté pour les tableaux reproduits
+
+- [Si vous avez une heure](https://podcasts.apple.com/ca/podcast/michel-pastoureau-rose-histoire-dune-couleur/id1609430325?i=1000677113743&l=fr-CA), son interview par la Librairie Mollat.
+
+- [Si vous avez 15 minutes](https://www.radiofrance.fr/franceinter/podcasts/15-de-plus/15-de-plus-du-vendredi-04-octobre-2024-5810623), son interview sur France Inter.
+
+2 - *“In my life I’ve had incredibly good luck and incredibly bad luck, and I think that is life for most of us. If you are lucky”*. David Remnick, le rédacteur en chef de *The New Yorker*, dans le documentaire Netflix sur les 100 ans de la publication, nous donne envie d’acheter le magazine et de le lire du début à la fin. Des cartoonists, des journalistes qui passent des semaines à enquêter sur un sujet, Rachel Carson et *Silent Spring*, le département de fact checking qui sue sur chaque détail, Sarah Jessica Parker qui nous dit qu’elle aimerait voir plus de gens trimballer un magazine dans le métro : un ensemble de choses qui en font le meilleur documentaire que j’ai vu cette année.  
+
+3 - J’avais commandé quelques couvertures de *The New Yorker* pour décorer mon bureau il y a quelques années, mais ce documentaire a été l’occasion de découvrir le travail de sélection des couvertures par Françoise Mouly : [celles qui ont été les plus scandaleuses](https://www.washingtonpost.com/entertainment/art/2025/02/21/new-yorker-covers-100th-anniversary/), mais aussi celle dessinée par Edward Morel, qui représente l’arrivée scandaleuse à la tête du magazine en 1992 de Tina Brown, ancienne cheffe de *Vanity Fair* avec cette figure de punk allongé dans une calèche. Je vous invite à faire ce jeu : [regardez-les](https://image-republic.com/fr/31-affiche-the-new-yorker), admirez-les et trouvez la(les) couverture(s) qui vous plaît(sent) le plus. Mes préférées: [*At the strand*](https://image-republic.com/fr/affiche-the-new-yorker/5696-14343-269-kroik-nov-13-2017-at-the-strand-.html#/1-formats_de_tirages-30_x_40_cm), [*Perfect storm*](https://image-republic.com/fr/affiche-the-new-yorker/2336-5345-163-hanuka-perfect-storm.html#/1-formats_de_tirages-30_x_40_cm) en 2014, la [solitude du Nouvel An Y2K en décembre 1999](https://image-republic.com/fr/affiche-the-new-yorker/575-1279-47-smith-bar.html#/1-formats_de_tirages-30_x_40_cm) en réécriture de Edward Hopper, le [groupe de jazz de 1958](https://image-republic.com/fr/affiche-the-new-yorker/2344-5366-172-getz-band-playing.html#/1-formats_de_tirages-30_x_40_cm), la [librairie infinie](https://image-republic.com/fr/affiche-the-new-yorker/595-1319-the-newyorker-66-gauld-fall-library-2014.html#/1-formats_de_tirages-30_x_40_cm) de Tom Gauld, le [Making Mischief](https://image-republic.com/fr/affiche-the-new-yorker/5417-13328-234-juan-making-mischief-2022.html#/1-formats_de_tirages-30_x_40_cm). 
+
+4 -  Sur ma pioche de choses à voir/lire/faire de décembre, il y avait le film d’animation en stop motion *Sauvages* (2024), par Claude Barras (qui avait également fait *Ma Vie de Courgette*). Je l’ai regardé cette semaine. Une mention particulière pour la voix de Laetitia Dosch qui joue Jeanne, une chercheuse rousse dans la forêt. [ SPOILERS ] Début très triste de type *Bambi*.
+
+5 - J’ai pour projet de regarder beaucoup comédies musicales pendant les fêtes (y compris celles qui sont vraiment difficiles à trouver, et que je veux voir depuis des siècles comme *Anything Goes*, j’ai une passion pour Sutton Foster ou *A Chorus line* car j’ai une passion pour Kelly Bishop, la [troisième Gilmore Girl](https://www.goodreads.com/book/show/207298106-the-third-gilmore-girl) - elle raconte plein d'anecdotes sur cette comédie musicale dans ce livre).

@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/14_2025_12_06/index.html",
       "/blog/13_2025_11_29/index.html",
       "/blog/12_2025_11_22/index.html",
       "/blog/12_2025_11_15/index.html",
@@ -75,7 +76,6 @@
       "/things/fanart/sargent.html",
       "/things/generalillustration/animauxaustralie.html",
       "/things/generalillustration/foret.html",
-      "/things/generalillustration/maisonsetranges2.html",
       "/things/generalillustration/parade.html",
       "/things/urbansketch/fontainebleau.html",
       "/things/urbansketch/4quartsdheure.html",
@@ -237,6 +237,7 @@
       "/things/fanart/lesmagnetiques.html",
       "/things/urbansketch/romefontaine4fleuves.html",
       "/things/urbansketch/romeforumromain.html",
+      "/things/generalillustration/maisonsetranges2.html",
       "/things/urbansketch/maisonsbretonnes.html",
       "/things/fanart/starwarsbar.html",
       "/things/fanart/sommetdesdieux.html",

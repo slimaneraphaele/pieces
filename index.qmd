@@ -25,7 +25,7 @@ format:
 ---
 
 <div id="artwork-intro" class="artwork-intro">
-<p>Bienvenue, j'aime bien collectionner des trucs, donc mes propres dessins et textes sur tout ce que j'aime qui a trait de près ou de loin à l'art (onglet Blog). Les premiers articles déposés correspondent à mon archive Substack.</p>
+<p>Bienvenue, j'aime bien collectionner des trucs, dont mes propres dessins et textes (essentiellement des listes) sur tout ce que j'aime qui a trait de près ou de loin à l'art (onglet Blog). Les premiers articles déposés correspondent à mon archive Substack.</p>
 <p id="artwork-count" class="artwork-count"></p>
 </div>
 

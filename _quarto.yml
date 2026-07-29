@@ -29,8 +29,8 @@ website:
       contents:
         - about-sidebar.qmd
 
-  page-footer: 
-    left: "Copyright [Raphaële Slimane]. All rights reserved." 
+  page-footer:
+    left: "© Raphaële Slimane. Tous droits réservés. Toute reproduction, distribution ou réutilisation de ce site ou de son contenu, y compris pour l'entraînement de systèmes d'intelligence artificielle, est interdite sans autorisation écrite préalable."
   back-to-top-navigation: true
   # navbar:
   #   background: light

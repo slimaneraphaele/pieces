@@ -1,0 +1,17 @@
+---
+title: Ceux qui rougissent
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785313104/ceuxquirougissent_sffhgx.png
+description: Le personnage de Mila dans Ceux qui rougissent, mini série sur le théâtre sur Arte
+categories: [fanart]
+date: 2026-07-28
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785313104/ceuxquirougissent_sffhgx.png)
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

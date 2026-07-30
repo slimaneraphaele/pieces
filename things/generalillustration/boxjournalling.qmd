@@ -1,0 +1,18 @@
+---
+title: Box journaling
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785426257/boxjournaling_ektddh.jpg
+description: 30 petits dessins dans des cases pour raconter mon mois de décembre
+categories: ["generalillustration"]
+date: 2026-01-03
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785426257/boxjournaling_ektddh.jpg)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

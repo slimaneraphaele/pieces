@@ -1,0 +1,17 @@
+---
+title: Practical Magic
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785428921/practicalmagic_qkoxqk.png
+description: Practical Magic
+categories: [fanart]
+date: 2024-10-29
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785428921/practicalmagic_qkoxqk.png)
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

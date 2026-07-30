@@ -1,0 +1,18 @@
+---
+title: Beaucoup de lacs différents
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785428955/lakes_ygdotk.png
+description: Séance de Art Hang Party sur les lacs
+categories: [urbansketch]
+date: 2025/11/19
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785428955/lakes_ygdotk.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

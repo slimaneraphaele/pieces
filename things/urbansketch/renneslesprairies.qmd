@@ -1,0 +1,18 @@
+---
+title: Parc Les Prairies Rennes
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785428994/lesprairiesrennes_dcricg.png
+description: Parc Les Prairies Rennes
+categories: [urbansketch]
+date: 2024/11/02
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785428994/lesprairiesrennes_dcricg.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

@@ -34,6 +34,13 @@ padding-inline: var(--reading-pad);
   text-align: left; /* set to center if you prefer */
 }
 
+/* Masque le tag de catégorie (ex: "blogging") affiché sous le titre de
+   chaque billet — les catégories restent en front matter (utile pour le
+   tri interne), seul l'affichage visuel est retiré ici. */
+  .quarto-title-block .quarto-categories {
+    display: none;
+  }
+
 /* Typography tuned for reading */
   body {
     font-size: var(--body-size);

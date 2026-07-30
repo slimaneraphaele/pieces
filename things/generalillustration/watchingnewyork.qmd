@@ -1,0 +1,18 @@
+---
+title: Watching New York Blog
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785428907/watchingnewyork_bcroev.png
+description: Watching New York Blog
+categories: ["generalillustration"]
+date: 2024-11-17
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1785428907/watchingnewyork_bcroev.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

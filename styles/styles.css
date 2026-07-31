@@ -377,6 +377,15 @@ Cards
   border-radius: 12px;
 }
 
+/* Mobile : badge au-dessus du texte plutôt qu'à côté (pas assez de place
+   en largeur pour les deux côte à côte). */
+@media (max-width: 600px) {
+  .artwork-intro-main {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
 /* "Back to top" (site entier, cf. back-to-top-navigation dans _quarto.yml) :
    par défaut gris terne avec une grosse ombre Bootstrap, remplacé par la
    couleur d'accent du site et une ombre plus discrète, dans le même esprit

@@ -25,7 +25,10 @@ format:
 ---
 
 <div id="artwork-intro" class="artwork-intro">
+<div class="artwork-intro-main">
+<img src="https://res.cloudinary.com/dyjfju0u4/image/upload/v1785428906/createdwithhumanintelligence_m04vhs.png" alt="Badge : créé avec une intelligence humaine" class="artwork-intro-badge">
 <p>Bienvenue, j'aime bien collectionner des trucs, dont mes propres dessins et textes (essentiellement des listes) sur tout ce que j'aime qui a trait de près ou de loin à l'art (onglet Blog). Les premiers articles déposés correspondent à mon archive Substack.</p>
+</div>
 <p id="artwork-count" class="artwork-count"></p>
 </div>
 

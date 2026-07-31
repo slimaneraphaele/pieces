@@ -207,7 +207,7 @@ Cards
 .navbar .navbar-container > .navbar-brand-container {
   position: absolute;
   top: 0;
-  height: 3.25rem;       /* = min-height du conteneur : reste sur la 1re ligne */
+  height: 3.25rem;        /* = min-height du conteneur : reste sur la 1re ligne */
   left: 50%;
   transform: translateX(-50%);
   margin: 0 !important;
@@ -348,20 +348,33 @@ Cards
   border-radius: 12px;
 }
 
+.artwork-intro-main {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
 .artwork-intro p {
   margin: 0;
   text-align: justify;
   hyphens: auto;
-  font-size: 0.9rem;
+  font-size: 1.05rem;
 }
 
-.artwork-intro p + p {
+.artwork-intro-main + p {
   margin-top: 0.6rem;
   padding-top: 0.6rem;
   border-top: 1px solid rgba(181,101,29,0.2);
   font-style: italic;
   opacity: 0.85;
   text-align: left;
+}
+
+.artwork-intro-badge {
+  flex-shrink: 0;
+  height: 140px;
+  width: auto;
+  border-radius: 12px;
 }
 
 /* "Back to top" (site entier, cf. back-to-top-navigation dans _quarto.yml) :

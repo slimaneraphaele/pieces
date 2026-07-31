@@ -2,9 +2,9 @@
 title: Festival du Merveilleux
 author: Raphaële Slimane
 image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1779810118/festivalmerveilleux_yvlarj.png
-description: Podcast 4 quarts d'heure
+description: Festival du Merveilleux
 categories: ["urbansketch"]
-date: 2026/01/01
+date: 2026/01/02
 format:
   html:
     page-layout: full

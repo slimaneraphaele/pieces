@@ -1,0 +1,18 @@
+---
+title: Calathea
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786278535/calathea_ojoitd.png
+description: Calathea, cours de Blombos avec une amie
+categories: ["generalillustration"]
+date: 2026-08-01
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786278535/calathea_ojoitd.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

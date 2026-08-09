@@ -1,0 +1,17 @@
+---
+title: Dessin en regardant Corto Maltese film de 2002
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786278516/cortomaltese_ldrbku.png
+description: Dessin en regardant Corto Maltese film de 2002
+categories: [fanart]
+date: 2026-08-09
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786278516/cortomaltese_ldrbku.png)
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

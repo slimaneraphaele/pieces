@@ -1,0 +1,17 @@
+---
+title: Dessin en regardant E.T. de Spielberg
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786278521/et_fzzk2m.png
+description: Dessin en regardant E.T. de Spielberg
+categories: [fanart]
+date: 2026-08-05
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786278521/et_fzzk2m.png)
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

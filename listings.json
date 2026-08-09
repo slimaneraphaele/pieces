@@ -1,31 +1,10 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/18_2026_01_10/index.html",
-      "/blog/17_2026_01_03/index.html",
-      "/blog/15_2025_12_13/index.html",
-      "/blog/14_2025_12_06/index.html",
-      "/blog/14bis_2025_12_01/index.html",
-      "/blog/13_2025_11_29/index.html",
-      "/blog/12_2025_11_22/index.html",
-      "/blog/12_2025_11_15/index.html",
-      "/blog/11_2025_11_08/index.html",
-      "/blog/10_2025_11_01/index.html",
-      "/blog/9_2025_10_25/index.html",
-      "/blog/8_2025_10_18/index.html",
-      "/blog/7_2025_10_11/index.html",
-      "/blog/6_2025_10_04/index.html",
-      "/blog/5_2025_09_27/index.html",
-      "/blog/4_2025_09_20/index.html",
-      "/blog/3_2025_09_13/index.html",
-      "/blog/2_2025_09_06/index.html",
-      "/blog/1_2025_03_04_bienvenue/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
+      "/things/fanart/cortomaltese.html",
+      "/things/fanart/et.html",
+      "/things/generalillustration/calathea.html",
       "/things/generalillustration/vivianmaier4.html",
       "/things/generalillustration/vivianmaier3.html",
       "/things/fanart/ceuxquirougissent.html",
@@ -283,6 +262,30 @@
       "/things/generalillustration/debuscherrerodin.html",
       "/things/urbansketch/henri4.html",
       "/things/generalillustration/tableauhuile.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/18_2026_01_10/index.html",
+      "/blog/17_2026_01_03/index.html",
+      "/blog/15_2025_12_13/index.html",
+      "/blog/14_2025_12_06/index.html",
+      "/blog/14bis_2025_12_01/index.html",
+      "/blog/13_2025_11_29/index.html",
+      "/blog/12_2025_11_22/index.html",
+      "/blog/12_2025_11_15/index.html",
+      "/blog/11_2025_11_08/index.html",
+      "/blog/10_2025_11_01/index.html",
+      "/blog/9_2025_10_25/index.html",
+      "/blog/8_2025_10_18/index.html",
+      "/blog/7_2025_10_11/index.html",
+      "/blog/6_2025_10_04/index.html",
+      "/blog/5_2025_09_27/index.html",
+      "/blog/4_2025_09_20/index.html",
+      "/blog/3_2025_09_13/index.html",
+      "/blog/2_2025_09_06/index.html",
+      "/blog/1_2025_03_04_bienvenue/index.html"
     ]
   }
 ]

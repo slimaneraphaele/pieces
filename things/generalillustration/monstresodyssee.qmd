@@ -1,0 +1,18 @@
+---
+title: Monstres de l'Odyssée
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786454668/monstresodyssee_nqdd3i.png
+description: Après avoir vu le film de Nolan
+categories: ["sketchbook"]
+date: 2026-08-11
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786454668/monstresodyssee_nqdd3i.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

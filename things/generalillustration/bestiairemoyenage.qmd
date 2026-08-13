@@ -1,0 +1,18 @@
+---
+title: Enluminures Moyen Age monstres
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786627627/bestiaire_hazpiz.png
+description: Enluminures Moyen Age
+categories: ["sketchbook"]
+date: 2026-08-11
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786627627/bestiaire_hazpiz.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

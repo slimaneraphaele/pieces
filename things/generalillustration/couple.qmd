@@ -1,0 +1,18 @@
+---
+title: Couple 
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786642401/couple_rqje1p.png
+description: Couple
+categories: ["sketchbook"]
+date: 2026-08-12
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786642401/couple_rqje1p.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

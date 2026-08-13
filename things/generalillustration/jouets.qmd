@@ -1,0 +1,18 @@
+---
+title: Jouets en folie
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786628514/jouets_wnzadx.png
+description: Jouets en folie, livre hippofaitdestrucs
+categories: ["generalillustration"]
+date: 2026-01-07
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786628514/jouets_wnzadx.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

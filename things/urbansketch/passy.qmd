@@ -1,0 +1,18 @@
+---
+title: Espace de parapente du plateau d'Assy dans les Alpes
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786793069/passy_ofjdw4.png
+description: Un homme faisant du parapente avec son chien
+categories: ["urbansketching"]
+date: 2026/08/14
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786793069/passy_ofjdw4.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

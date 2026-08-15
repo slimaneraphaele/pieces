@@ -1,0 +1,18 @@
+---
+title: Salle océan, château Vaux le Vicomte
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786793085/chateauvauxlevicomte_ugshtt.png
+description: Salle océan, château Vaux le Vicomte
+categories: ["urbansketching"]
+date: 2025/11/30
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786793085/chateauvauxlevicomte_ugshtt.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

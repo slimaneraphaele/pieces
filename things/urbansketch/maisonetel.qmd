@@ -1,0 +1,18 @@
+---
+title: Maison dans le Morbihan, Bretagne
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786966888/maisonbretagne_2020_keoqfq.png
+description: Maison dans le Morbihan, Bretagne, près du piano et de la cheminée
+categories: [urbansketch]
+date: 2020-08-15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786966888/maisonbretagne_2020_keoqfq.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

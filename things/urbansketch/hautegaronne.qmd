@@ -1,0 +1,18 @@
+---
+title: Haute Garonne, chien à l'ombre
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786966723/buzetsurtarn_2016_ps0wlt.png
+description: Haute Garonne, chien à l'ombre
+categories: ["generalillustration"]
+date: 2016-08-15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786966723/buzetsurtarn_2016_ps0wlt.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

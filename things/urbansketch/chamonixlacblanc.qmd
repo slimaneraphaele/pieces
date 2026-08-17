@@ -1,7 +1,7 @@
 ---
 title: Vue de la balade du lac blanc, à Chamonix, en haut du téléphérique les Praz
 author: Raphaële Slimane
-image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786966488/chamonixlacblanc_mfpwbw.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786983150/chamonixlacblanc_jxsya8.png
 description: Vue de la balade du lac blanc, à Chamonix, en haut du téléphérique les Praz
 categories: ["urbansketching"]
 date: 2026-08-17
@@ -10,7 +10,7 @@ format:
     page-layout: full
 ---
 
-![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786966488/chamonixlacblanc_mfpwbw.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786983150/chamonixlacblanc_jxsya8.png)
 
 
 ::: {.visually-hidden}

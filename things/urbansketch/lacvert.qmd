@@ -1,7 +1,7 @@
 ---
 title: Le lac Vert plateau d'Assy dans les Alpes
 author: Raphaële Slimane
-image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786883079/lacvertpassy_usjvxq.png
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786983249/lacvertpassy_hurltn.png
 description: Le lac Vert plateau d'Assy dans les Alpes
 categories: ["urbansketching"]
 date: 2026/08/15
@@ -10,7 +10,7 @@ format:
     page-layout: full
 ---
 
-![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786883079/lacvertpassy_usjvxq.png)
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1786983249/lacvertpassy_hurltn.png)
 
 
 ::: {.visually-hidden}

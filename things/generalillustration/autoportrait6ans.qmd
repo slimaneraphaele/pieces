@@ -1,0 +1,18 @@
+---
+title: Autoportrait à 6 ans
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787147856/autoportrait6ans_2020_ooir1d.png
+description:  Autoportrait à 6 ans
+categories: ["generalillustration"]
+date: 2020-04-10
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787147856/autoportrait6ans_2020_ooir1d.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

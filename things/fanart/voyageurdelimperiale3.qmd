@@ -1,0 +1,17 @@
+---
+title: Scène d'introduction du livre Les Voyageurs de l'impériale, Louis Aragon 2
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787148923/lesvoyageursdelimperiale2_2018_judz3x.png
+description: Scène d'introduction du livre Les Voyageurs de l'impériale, Louis Aragon 2
+categories: [fanart]
+date: 2018-07-25
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787148923/lesvoyageursdelimperiale2_2018_judz3x.png)
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

@@ -1,0 +1,18 @@
+---
+title: L près de la piscine dans le sud ouest
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787149197/lino_20180815_uz9clf.png
+description: L près de la piscine dans le sud ouest
+categories: ["urbansketching"]
+date: 2018/08/25
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787149197/lino_20180815_uz9clf.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

@@ -1,0 +1,17 @@
+---
+title: Ours de la pension Grillpazer
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787148632/ourspensiongrillpazer_2020_rgf5ye.png
+description: Ours de la pension Grillpazer dans Le Monde selon Garp de John Irving, 
+categories: [fanart]
+date: 2019-10-10
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787148632/ourspensiongrillpazer_2020_rgf5ye.png)
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

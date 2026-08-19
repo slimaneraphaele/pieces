@@ -1,0 +1,18 @@
+---
+title: Parc des Beaumonts à Montreuil, escalier du bas
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787147628/parcbeaumonts_2020_ljhxh2.png
+description: Parc des Beaumonts à Montreuil, escalier du bas
+categories: ["urbansketching"]
+date: 2020-05-10
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787147628/parcbeaumonts_2020_ljhxh2.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

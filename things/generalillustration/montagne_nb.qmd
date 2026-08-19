@@ -1,0 +1,18 @@
+---
+title: Croquis de montagne à l'encre
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787148110/montagne_2020_ozv2ny.png
+description:  Croquis de montagne à l'encre
+categories: ["generalillustration"]
+date: 2020-04-02
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787148110/montagne_2020_ozv2ny.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

@@ -1,0 +1,18 @@
+---
+title: Autoportrait à 8 ans
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787147868/autoportrait8ans_2020_nn6tzt.png
+description: Autoportrait à 8 ans
+categories: ["miscellaneous"]
+date: 2020-04-11
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787147868/autoportrait8ans_2020_nn6tzt.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

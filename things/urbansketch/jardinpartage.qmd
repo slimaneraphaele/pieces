@@ -1,0 +1,18 @@
+---
+title: Jardin partagé petite couronne sud
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787148258/potagernouzeaux2_202007_lihyqg.png
+description:  Jardin partagé petite couronne sud au crayon de couleur un jour chaud
+categories: ["generalillustration"]
+date: 2020-08-20
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787148258/potagernouzeaux2_202007_lihyqg.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

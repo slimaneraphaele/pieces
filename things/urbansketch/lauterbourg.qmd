@@ -1,0 +1,18 @@
+---
+title: Une maison à Lauterbourg en Alsace
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787150442/lauterbourg_2019_aygel2.png
+description:  Une maison à Lauterbourg en Alsace
+categories: ["urbansketching"]
+date: 2019-12-31
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787150442/lauterbourg_2019_aygel2.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

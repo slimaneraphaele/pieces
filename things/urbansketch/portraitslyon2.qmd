@@ -1,0 +1,18 @@
+---
+title: Portraits de mes amis près de la piscine à Lyon, Chaponnay, grand-père et autoportrait à 5 ans
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787150196/portraits_20201223_tbyj55.png
+description:  Portraits de mes amis près de la piscine à Lyon, Chaponnay, grand-père et autoportrait à 5 ans
+categories: ["urbansketching"]
+date: 2020-08-20
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787150196/portraits_20201223_tbyj55.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

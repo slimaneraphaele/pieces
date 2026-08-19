@@ -1,0 +1,18 @@
+---
+title: Portraits de mes amis près de la piscine à Lyon, Chaponnay
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787150195/lyonchaponney_202008_duxyph.png
+description:  Portraits de mes amis près de la piscine à Lyon, Chaponnay
+categories: ["urbansketching"]
+date: 2020-08-15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787150195/lyonchaponney_202008_duxyph.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

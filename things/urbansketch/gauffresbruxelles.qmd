@@ -1,0 +1,18 @@
+---
+title: Gauffres de Bruxelles dessinées sur place
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787320318/bruxelles_2018_hesax4.png
+description: Gauffres de Bruxelles dessinées sur place
+categories: [urbansketch]
+date: 2017-07-15
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787320318/bruxelles_2018_hesax4.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

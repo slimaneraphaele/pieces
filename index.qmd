@@ -56,6 +56,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <div id="artwork-overlay" class="artwork-overlay" hidden>
 <button type="button" class="artwork-overlay-close" aria-label="Fermer">&times;</button>
+<button type="button" class="artwork-overlay-nav artwork-overlay-prev" aria-label="Œuvre précédente">&#8249;</button>
+<button type="button" class="artwork-overlay-nav artwork-overlay-next" aria-label="Œuvre suivante">&#8250;</button>
 <img class="artwork-overlay-img" src="" alt="">
 <div class="artwork-overlay-caption">
 <p class="artwork-overlay-title"></p>
@@ -82,12 +84,38 @@ document.addEventListener("DOMContentLoaded", function () {
   var overlayDate = overlay.querySelector(".artwork-overlay-date");
   var overlayDescription = overlay.querySelector(".artwork-overlay-description");
   var closeBtn = overlay.querySelector(".artwork-overlay-close");
+  var prevBtn = overlay.querySelector(".artwork-overlay-prev");
+  var nextBtn = overlay.querySelector(".artwork-overlay-next");
 
-  function openOverlay(src, title, date, description) {
-    overlayImg.src = src;
-    overlayTitle.textContent = title || "";
-    overlayDate.textContent = date || "";
-    overlayDescription.textContent = description || "";
+  var currentIndex = -1;
+
+  // Relit le DOM à chaque fois plutôt que de garder une liste en cache :
+  // List.js retire/reconstruit les cartes à chaque changement de page, donc
+  // une liste figée pointerait vers des éléments qui n'existent plus.
+  function linksInDom() {
+    return Array.prototype.slice.call(container.querySelectorAll(".quarto-grid-link"));
+  }
+
+  // Navigation en boucle (dernière œuvre -> première et inversement) au
+  // sein de la page actuellement affichée par la grille (30 œuvres par
+  // page) : les œuvres des autres pages ne sont pas dans le DOM tant
+  // qu'on n'a pas changé de page.
+  function showIndex(index) {
+    var links = linksInDom();
+    if (!links.length) return;
+    currentIndex = (index + links.length) % links.length;
+    var link = links[currentIndex];
+    var img = link.querySelector("img");
+    if (!img) return;
+
+    var titleEl = link.querySelector(".listing-title");
+    var dateEl = link.querySelector(".listing-date");
+    var descriptionEl = link.querySelector(".listing-description");
+
+    overlayImg.src = img.src;
+    overlayTitle.textContent = titleEl ? titleEl.textContent.trim() : "";
+    overlayDate.textContent = dateEl ? dateEl.textContent.trim() : "";
+    overlayDescription.textContent = descriptionEl ? descriptionEl.textContent.trim() : "";
     overlay.hidden = false;
     document.body.style.overflow = "hidden";
   }
@@ -101,27 +129,21 @@ document.addEventListener("DOMContentLoaded", function () {
   container.addEventListener("click", function (e) {
     var link = e.target.closest(".quarto-grid-link");
     if (!link) return;
-    var img = link.querySelector("img");
-    if (!img) return;
-
     e.preventDefault();
-    var titleEl = link.querySelector(".listing-title");
-    var dateEl = link.querySelector(".listing-date");
-    var descriptionEl = link.querySelector(".listing-description");
-    openOverlay(
-      img.src,
-      titleEl ? titleEl.textContent.trim() : "",
-      dateEl ? dateEl.textContent.trim() : "",
-      descriptionEl ? descriptionEl.textContent.trim() : ""
-    );
+    showIndex(linksInDom().indexOf(link));
   });
 
   closeBtn.addEventListener("click", closeOverlay);
+  prevBtn.addEventListener("click", function () { showIndex(currentIndex - 1); });
+  nextBtn.addEventListener("click", function () { showIndex(currentIndex + 1); });
   overlay.addEventListener("click", function (e) {
     if (e.target === overlay) closeOverlay();
   });
   document.addEventListener("keydown", function (e) {
-    if (e.key === "Escape" && !overlay.hidden) closeOverlay();
+    if (overlay.hidden) return;
+    if (e.key === "Escape") closeOverlay();
+    if (e.key === "ArrowLeft") showIndex(currentIndex - 1);
+    if (e.key === "ArrowRight") showIndex(currentIndex + 1);
   });
 });
 </script>

@@ -1,0 +1,18 @@
+---
+title: Près du lac vert du Plateau d'Assy, une balade montée
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787324013/chevauxlacvert_kbfqhm.png
+description:  Près du lac vert du Plateau d'Assy, une balade montée observée pendant la randonnée 
+categories: [urbansketch]
+date: 2026-08-20
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787324013/chevauxlacvert_kbfqhm.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

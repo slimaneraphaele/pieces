@@ -483,3 +483,31 @@ Cards
 .artwork-overlay-close:hover {
   color: var(--bs-primary);
 }
+
+/* Flèches précédent/suivant de l'incrustation (voir index.qmd). Ancrées
+   sur .artwork-overlay (position: fixed), donc positionnées par rapport
+   au viewport, pas à l'image elle-même. */
+.artwork-overlay-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: #f3eae0;
+  font-size: 3rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.5rem 0.75rem;
+}
+
+.artwork-overlay-prev {
+  left: 0.5rem;
+}
+
+.artwork-overlay-next {
+  right: 0.5rem;
+}
+
+.artwork-overlay-nav:hover {
+  color: var(--bs-primary);
+}

@@ -1,0 +1,18 @@
+---
+title: Cours de modèle vivant dans un atelier vers Blomet, Paris XV
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787488307/modelevivant1_amwgoe.png
+description: Cours de modèle vivant dans un atelier vers Blomet, Paris XV
+categories: ["generalillustration"]
+date: 2018-09-30
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787488307/modelevivant1_amwgoe.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

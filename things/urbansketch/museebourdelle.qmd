@@ -1,0 +1,18 @@
+---
+title: Dessin au musée Bourdelle, Paris XV
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787487037/museebourdelle_sc2bb3.png
+description: Dessin en compagnie de M au musée Bourdelle à l'ombre des arbres
+categories: [urbansketch]
+date: 2025/09/20
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787487037/museebourdelle_sc2bb3.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

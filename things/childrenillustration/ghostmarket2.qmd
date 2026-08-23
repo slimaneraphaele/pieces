@@ -1,0 +1,18 @@
+---
+title: Ghost Market / Marché de fantômes croquis
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787487667/dreamsforsalecroquis_ibap0y.png
+description: A ghost market inspired by the Sapan / Un marché de fantômes inspiré du Sapan (univers des rêves de Fibre Tigre)
+categories: ["children illustration"]
+date: 2025-09-14
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1787487667/dreamsforsalecroquis_ibap0y.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

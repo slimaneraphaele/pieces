@@ -1,0 +1,18 @@
+---
+title: Lac des Rousses Jura
+author: Raphaële Slimane
+image: https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1788088499/lacrousses2_n6nycy.png
+description: Des amoureux en vacances, face aux planchistes et aux kayakistes 
+categories: ["urbansketch"]
+date: 2026/08/23
+format:
+  html:
+    page-layout: full
+---
+
+![](https://res.cloudinary.com/dyjfju0u4/image/upload/f_auto,q_auto/v1788088499/lacrousses2_n6nycy.png)
+
+
+::: {.visually-hidden}
+{{< meta description >}}
+:::

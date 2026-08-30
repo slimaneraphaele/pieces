@@ -11,6 +11,7 @@ lang: fr
 website:
   title: "Raphaële Slimane"
   description: art
+  site-url: https://www.slimaneraphaele.com
   #open-graph:
     #image: imgs/things.jpg
   #google-analytics: ""
